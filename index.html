@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>KhizaroOo — Personal Site</title>
+  <meta name="description" content="Personal homepage for KhizaroOo — summary, skills, projects and contact." />
+  <style>
+    :root{--bg:#0f1724;--card:#0b1220;--accent:#06b6d4;--muted:#94a3b8;--text:#e6eef8}
+    html,body{height:100%;margin:0;font-family:Inter,Ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,'Helvetica Neue',Arial; background:linear-gradient(180deg,#071025 0%,#071827 100%);color:var(--text)}
+    .wrap{min-height:100%;display:flex;align-items:center;justify-content:center;padding:48px}
+    .card{background:radial-gradient(1200px 400px at 10% 0%, rgba(6,182,212,0.06), transparent 10%),rgba(255,255,255,0.02);border:1px solid rgba(255,255,255,0.04);backdrop-filter:blur(6px);padding:28px;border-radius:12px;max-width:880px;width:100%;box-shadow:0 10px 30px rgba(2,6,23,0.6)}
+    header{display:flex;align-items:center;gap:20px}
+    .avatar{width:96px;height:96px;border-radius:14px;background:linear-gradient(135deg,var(--accent),#7c3aed);display:flex;align-items:center;justify-content:center;font-weight:700;color:#032;box-shadow:0 6px 18px rgba(6,182,212,0.08)}
+    h1{margin:0;font-size:28px}
+    h2{margin:4px 0 0 0;color:var(--muted);font-weight:600;font-size:15px}
+    .summary{margin-top:18px;color:var(--text);line-height:1.6}
+    .grid{display:grid;grid-template-columns:1fr 260px;gap:18px;margin-top:20px}
+    .box{background:rgba(255,255,255,0.02);padding:16px;border-radius:10px}
+    .muted{color:var(--muted);font-size:14px}
+    ul{margin:8px 0 0 16px}
+    a.button{display:inline-block;padding:8px 12px;border-radius:8px;background:var(--accent);color:#012; font-weight:600;text-decoration:none}
+    footer{margin-top:18px;color:var(--muted);font-size:13px}
+    @media (max-width:700px){.grid{grid-template-columns:1fr}header{flex-direction:row} .avatar{width:72px;height:72px}}
+  </style>
+</head>
+<body>
+  <!--
+    index.html for KhizaroOo/mysite
+    Edit this file in the repository to update your GitHub Pages homepage.
+  -->
+  <div class="wrap">
+    <main class="card">
+      <header>
+        <div class="avatar">KO</div>
+        <div>
+          <h1>KhizaroOo</h1>
+          <h2>Software developer · Open source enthusiast</h2>
+        </div>
+      </header>
+
+      <p class="summary">Hello — I'm KhizaroOo. I build things on the web: small utilities, experimental projects, and tools that help me (and others) ship faster. I enjoy learning new languages, experimenting with web APIs, and contributing to open-source. This page is a simple hub with a short summary, skills, projects and contact information.</p>
+
+      <div class="grid">
+        <section class="box">
+          <h3 style="margin:0 0 8px 0">About</h3>
+          <p class="muted">Quick facts</p>
+          <ul>
+            <li><strong>Location:</strong> Your City, Country</li>
+            <li><strong>Role:</strong> Full‑stack / Frontend developer</li>
+            <li><strong>Open to:</strong> collaborations, freelance, learning opportunities</li>
+          </ul>
+
+          <h3 style="margin:12px 0 8px 0">Skills</h3>
+          <p class="muted">A few technologies I use</p>
+          <ul>
+            <li>HTML, CSS, JavaScript</li>
+            <li>Node.js, Express</li>
+            <li>React / Preact</li>
+            <li>Git, GitHub</li>
+          </ul>
+
+          <h3 style="margin:12px 0 8px 0">Contact</h3>
+          <p class="muted">Get in touch</p>
+          <p style="margin:6px 0"><a class="button" href="mailto:you@example.com">Email me</a> <a style="margin-left:8px;color:var(--accent);text-decoration:none" href="https://github.com/KhizaroOo">GitHub</a></p>
+        </section>
+
+        <aside class="box">
+          <h3 style="margin:0 0 8px 0">Projects</h3>
+          <p class="muted">Recent or notable</p>
+          <ul>
+            <li><a href="https://github.com/KhizaroOo/mysite" style="color:var(--accent)">mysite</a> — this repository (homepage)</li>
+            <li><a href="https://github.com/KhizaroOo" style="color:var(--accent)">More on GitHub</a></li>
+          </ul>
+
+          <h3 style="margin:12px 0 8px 0">Visibility</h3>
+          <p class="muted">This page is served by GitHub Pages at <code>https://khizarooo.github.io/mysite/</code>. It can take a minute to appear after pushing.</p>
+
+          <h3 style="margin:12px 0 8px 0">Edit this page</h3>
+          <p class="muted">To change text or add content, edit <code>index.html</code> in your repository and push the change.</p>
+        </aside>
+      </div>
+
+      <footer>
+        Built with ❤️ — <a href="https://github.com/KhizaroOo" style="color:var(--accent);text-decoration:none">@KhizaroOo</a>
+      </footer>
+    </main>
+  </div>
+</body>
+</html>
