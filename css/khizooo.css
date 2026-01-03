@@ -1,0 +1,285 @@
+/* Monster Theme Colors */
+@-webkit-keyframes stripe-slide {
+  0% {
+    background-position: 0% 0;
+  }
+  100% {
+    background-position: 100% 0;
+  }
+}
+@keyframes stripe-slide {
+  0% {
+    background-position: 0% 0;
+  }
+  100% {
+    background-position: 100% 0;
+  }
+}
+
+.btn-header {
+  overflow: visible;
+    margin: 0;
+    background: transparent;
+    font: inherit;
+    cursor: pointer;
+    -moz-user-select: text;
+    display: inline-block;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 7px 5px;
+    background-color: #fff;
+    color: var(--ls-top-bcg);
+    border: 2px solid #000000;
+    border-radius: 10px;
+    transition: all 0.5s ease;
+    font-weight: 800;
+    font-size: 12px;
+    width: 130px;
+    text-align: center;
+}
+.btn-header:-moz-focus-inner {
+  padding: 0;
+  border: 0;
+}
+.btn--stripe {
+  overflow: hidden;
+  position: relative;
+}
+.btn--stripe:after {
+  content: "";
+  display: block;
+  height: 7px;
+  width: 100%;
+  background-image: repeating-linear-gradient(45deg, var(--ls-top-bcg), var(--ls-top-bcg) 1px, transparent 2px, transparent 5px);
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  border-top: 1px solid var(--ls-top-bcg);
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  background-size: 7px 7px;
+}
+.btn--stripe:hover {
+  background-color: #e0dcdc;
+  color: var(--ls-top-bcg);
+}
+.btn--stripe:hover:after {
+  background-image: repeating-linear-gradient(45deg, #fff, #fff 1px, transparent 2px, transparent 5px);
+  border-top: 1px solid #000;
+  -webkit-animation: stripe-slide 12s infinite linear forwards;
+          animation: stripe-slide 12s infinite linear forwards;
+}
+.btn--large {
+    width: 50%;
+}
+
+.btn--radius {
+  border-radius: 15px;
+}
+
+
+.m-default-detail-heading{
+    color: var(--mc-body-bcg);
+    background-color: var(--ls-top-bcg);
+}
+
+.m-artooo-color {
+  background-color: var(--m-artooo-color);
+  border-color: #000;
+}
+.m-artooo-color.btn--stripe:after {
+  background-image: repeating-linear-gradient(45deg, var(--ls-top-bcg), var(--ls-top-bcg) 1px, transparent 2px, transparent 5px);
+    border-top-color: var(--ls-top-bcg);
+}
+.m-artooo-color:hover {
+  background-color: #e0dcdc;
+}
+
+/* Mint */
+.m-infooo-color {
+  background-color:  var(--m-infooo-color);
+  border-color: #000;
+}
+.m-infooo-color.btn--stripe:after {
+   background-image: repeating-linear-gradient(45deg, var(--ls-top-bcg), var(--ls-top-bcg) 1px, transparent 2px, transparent 5px);
+    border-top-color: var(--ls-top-bcg);
+}
+.m-infooo-color:hover {
+ background-color: #e0dcdc;
+}
+.m-infooo-detail-heading{
+    background: var(--m-infooo-color);
+    color: var(--ls-top-bcg);
+}
+
+/* Orange */
+.m-toolooo-color {
+  background-color:  var(--m-toolooo-color);
+  border-color: #000;
+}
+.m-toolooo-color.btn--stripe:after {
+  background-image: repeating-linear-gradient(45deg, var(--ls-top-bcg), var(--ls-top-bcg) 1px, transparent 2px, transparent 5px);
+    border-top-color: var(--ls-top-bcg);
+}
+.m-toolooo-color:hover {
+ background-color: #e0dcdc;
+}
+.m-toolooo-detail-heading{
+    background: var(--m-toolooo-color);
+    color: var(--ls-top-bcg);
+}
+
+
+/* Blue */
+.m-freeooo-color {
+  background-color: var(--m-freeooo-color);
+  border-color: #000;
+  color: #000;
+}
+.m-freeooo-color.btn--stripe:after {
+  background-image: repeating-linear-gradient(45deg, var(--ls-top-bcg), var(--ls-top-bcg) 1px, transparent 2px, transparent 5px);
+    border-top-color: var(--ls-top-bcg);
+}
+.m-freeooo-color:hover {
+  background-color: #e0dcdc;
+}
+.m-freeooo-detail-heading{
+    background: var(--m-freeooo-color);
+    color: var(--ls-top-bcg);
+}
+
+
+/* Purple */
+.m-devooo-color {
+  background-color: var(--m-devooo-color);
+  border-color: #000;
+  color: #000;
+}
+.m-devooo-color.btn--stripe:after {
+  background-image: repeating-linear-gradient(45deg, var(--ls-top-bcg), var(--ls-top-bcg) 1px, transparent 2px, transparent 5px);
+    border-top-color: var(--ls-top-bcg);
+}
+.m-devooo-color:hover {
+    background-color: #e0dcdc;
+}
+.m-devooo-detail-heading{
+    background: var(--m-devooo-color);
+    color: var(--ls-top-bcg);
+}
+
+/* Default (Portfolio + Support) */
+.m-default-color {
+  background-color: var(--ls-top-bcg);
+    color: var(--mc-body-bcg);
+}
+.m-default-color.btn--stripe:after {
+    background-image: repeating-linear-gradient(45deg, #000000, #000000 1px, transparent 2px, transparent 5px);
+    border-top-color: #000000;
+}
+.m-default-color:hover {
+    background-color: #e0dcdc;
+    color: var(--ls-top-bcg);
+
+}
+
+.pill-theme{
+  color: var(--mc-body-bcg);
+  background-color: var(--ls-top-bcg);
+  padding: 10px;
+  font-weight: 300;
+  font-size: 14px;
+  margin: 5px;
+}
+
+.pill-theme strong{
+  font-weight: 800;
+}
+
+
+
+/* Modal Styles */
+.modal_khizooo,
+.fade,
+.show {
+    background-color: rgba(121, 121, 121, 0.215);
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.modal_khizooo h2{
+
+	font-weight: bold;
+	margin-bottom: 15px;
+	color: #000;
+}
+.modal_khizooo .modal-content {
+	border: none;
+    background: transparent;
+    padding: 0 19px;
+}
+.modal_khizooo .close {
+    position: relative;
+    top: 48px;
+    left: 13px;
+    z-index: 1;
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 1;
+    color: black;
+}
+.modal_khizooo .modal-header {
+    border: none;
+}
+
+.modal_khizooo .modal-header .close {
+    padding: 0rem 1rem !important;
+    margin: -1rem -1rem -1rem auto;
+}
+
+.modal_khizooo .modal-body {
+    border: none;
+    background-color: white;
+    padding-bottom: 5px
+}
+.modal_khizooo .close.focus,
+.modal_khizooo .close:focus {
+    outline: 0;
+    box-shadow: none !important;
+}
+.modal_khizooo .form-control{
+	width: 80%;
+	height: 50px;
+	border: none;
+	border-radius: 20px;
+	box-shadow: 0px 0.5px 0px 0px #dae0e5 !important;
+	color: #63686c;
+	font-weight: bold;
+	font-size: 12px;
+}
+.modal_khizooo .form-control.focus{
+
+	border: none;
+	border-color: #fff;
+    border-bottom:1px solid #000;
+	outline: 0;
+        box-shadow: 0 0 0 0 rgba(0,123,255,.25);
+}
+@media (min-width:599px) {
+    .modal_khizooo .modal-dialog {
+        max-width: 47rem;
+    }
+
+    .modal_khizooo .details {
+        padding: 60px 0 40px 50px;
+    }
+
+.modal_khizooo .text-muted a{
+	color: #c0bfbf;
+	font-weight: bold;
+	text-decoration: underline;
+}
+.modal_khizooo small.para{
+	font-weight: bold;
+	font-size: 14px;
+	color: #63686c;
+}}
+/* Modal Styles */
