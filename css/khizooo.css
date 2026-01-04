@@ -72,17 +72,13 @@
 .btn--large {
     width: 50%;
 }
-
 .btn--radius {
   border-radius: 15px;
 }
-
-
 .m-default-detail-heading{
     color: var(--mc-body-bcg);
     background-color: var(--ls-top-bcg);
 }
-
 .m-artooo-color {
   background-color: var(--m-artooo-color);
   border-color: #000;
@@ -181,7 +177,6 @@
     color: var(--ls-top-bcg);
 
 }
-
 .pill-theme{
   color: var(--mc-body-bcg);
   background-color: var(--ls-top-bcg);
@@ -190,12 +185,51 @@
   font-size: 14px;
   margin: 5px;
 }
-
 .pill-theme strong{
   font-weight: 800;
 }
 
-
+/* Social Buttons */
+.btn-social {
+    color: #eeeeee;
+    background-color: #3a3a3a;
+    border-color: #000000;
+    box-shadow: 0 0 0 0.2rem rgb(0 0 0 / 50%);
+    margin: 5px;
+    font-size: 15px;
+    font-weight: 900;
+    padding: 10px;
+}
+.btn-social:hover {
+    color: #373737;
+    background-color: #eeeeee;
+    border-color: #000000;
+}
+.btn-social.focus,
+.btn-social:focus {
+    color: #f3f7fd;
+    background-color: #3a3a3a;
+    border-color: #000000;
+     box-shadow: 0 0 0 0.2rem rgb(0 0 0 / 50%);
+}
+.btn-social.disabled,
+.btn-social:disabled {
+    color: #f3f7fd;
+    background-color: #3a3a3a;
+    border-color: #000000;
+}
+.btn-social:not(:disabled):not(.disabled).active,
+.btn-social:not(:disabled):not(.disabled):active,
+.show > .btn-social.dropdown-toggle {
+    color: #f3f7fd;
+    background-color: #3a3a3a;
+    border-color: #000000;
+}
+.btn-social:not(:disabled):not(.disabled).active:focus,
+.btn-social:not(:disabled):not(.disabled):active:focus,
+.show > .btn-social.dropdown-toggle:focus {
+    box-shadow: 0 0 0 0.2rem rgb(0 0 0 / 50%);
+}
 
 /* Modal Styles */
 .modal_khizooo,

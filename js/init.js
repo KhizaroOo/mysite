@@ -2,17 +2,15 @@
 
 	"use strict";
 
+    // Set BASE_PATH depending on environment
+    window.BASE_PATH = (window.location.hostname === "khizarooo.github.io") ? "https://khizarooo.github.io/mysite/" : "file:///D:/khizooo/WEBSITE/static-website/mysite/";
+
 	Render_Sidebar();
 	Render_MobileMenu();
 	Render_Footer();
 
 
-	khizooo_tm_modalbox();
 	khizooo_tm_trigger_menu();
-	khizooo_tm_service_popup();
-	khizooo_tm_modalbox_news();
-	khizooo_tm_modalbox_portfolio();
-	khizooo_tm_portfolio();
 	khizooo_tm_cursor();
 	khizooo_tm_imgtosvg();
 	khizooo_tm_popup();
@@ -47,22 +45,23 @@
 // SIDEBAR
 function Render_Sidebar(){
     "use strict";
-    var sidebarHTML = `
-        <div class="khizooo_tm_sidebar">
-            <div class="logo" data-type="avatar">
-                <!-- You can set your own avatar or image or text as a logo. data-type values are: "avatar", "image", "text" -->
-                <div class="avatar" data-img-url="images/Monsters/khizooo.png" style="background-image: url(images/Monsters/khizooo.png);"></div>
-                <div class="image"><img src="images/Monsters/khizooo.png" alt=""></div>
-                <div class="text"><h3>khizooo</h3></div>
-            </div>
+	var sidebarHTML = `
+		<div class="khizooo_tm_sidebar">
+			<a href="${window.BASE_PATH}LandingPage.html">
+				<div class="logo" data-type="avatar">
+					<div class="avatar" data-img-url="${window.BASE_PATH}images/Monsters/khizooo.png" style="background-image: url('${window.BASE_PATH}images/Monsters/khizooo.png');"></div>
+					<div class="image"><img src="${window.BASE_PATH}images/Monsters/khizooo.png" alt=""></div>
+					<div class="text"><h3>khizooo</h3></div>
+				</div>
+			</a>
             <div class="menu scrollable" tabindex="5000" style="height: 643px; overflow: hidden; outline: none;">
                 <ul class="anchor_nav">
-                    <li><a href="#" class="btn-header btn--stripe btn--radius m-default-color">Portfolio</a></li>
-                    <li><a href="javascript:void(0)" class="btn-header btn--stripe btn--radius m-artooo-color">Artooo</a></li>
-                    <li><a href="javascript:void(0)" class="btn-header btn--stripe btn--radius m-infooo-color">Infooo</a></li>
-                    <li><a href="javascript:void(0)" class="btn-header btn--stripe btn--radius m-toolooo-color">Toolooo</a></li>
-                    <li><a href="javascript:void(0)" class="btn-header btn--stripe btn--radius m-freeooo-color">Freeooo</a></li>
-                    <li><a href="javascript:void(0)" class="btn-header btn--stripe btn--radius m-devooo-color">Devooo</a></li>
+                    <li><a href="${window.BASE_PATH}Portfolio.html" class="btn-header btn--stripe btn--radius m-default-color">Portfolio</a></li>
+                    <li><a href="${window.BASE_PATH}Artworks.html" class="btn-header btn--stripe btn--radius m-artooo-color">Artooo</a></li>
+                    <li><a href="${window.BASE_PATH}Infographics.html" class="btn-header btn--stripe btn--radius m-infooo-color">Infooo</a></li>
+                    <li><a href="${window.BASE_PATH}Toolbox.html" class="btn-header btn--stripe btn--radius m-toolooo-color">Toolooo</a></li>
+                    <li><a href="${window.BASE_PATH}Freebies.html" class="btn-header btn--stripe btn--radius m-freeooo-color">Freeooo</a></li>
+                    <li><a href="${window.BASE_PATH}Devspark.html" class="btn-header btn--stripe btn--radius m-devooo-color">Devooo</a></li>
                     <li><button onclick="openSupportModal(this)" class="btn-header btn--stripe btn--radius m-default-color">Support 🩷</button></li>
                 </ul>
             </div>
@@ -70,9 +69,9 @@ function Render_Sidebar(){
                 <!-- <p class="text-center">Copyright © 2025 by <a class="line_effect" href="#">khizooo</a></p>
                 <p class="text-center">All rights are reserved</p> -->
             </div>
-            <div class="khizooo_tm_resizer">
-                <a href="./index.html#"><i class="icon-right-dir-2"></i></a>
-            </div>
+			<div class="khizooo_tm_resizer">
+				<a href="${window.BASE_PATH}index.html#"><i class="icon-right-dir-2"></i></a>
+			</div>
         </div>
     `;
     jQuery('.khizooo_tm_all_wrap').prepend(sidebarHTML);
@@ -81,15 +80,17 @@ function Render_Sidebar(){
 // MOBILE MENU
 function Render_MobileMenu(){
     "use strict";
-    var mobileMenuHTML = `
-        <div class="khizooo_tm_mobile_menu">
-            <div class="mobile_menu_inner">
-                <div class="mobile_in">
-                    <div class="logo" data-type="avatar">
-                        <div class="avatar" data-img-url="images/Monsters/khizooo.png" style="background-image: url(images/Monsters/khizooo.png);"></div>
-                        <div class="image"><img src="images/Monsters/khizooo.png" alt=""></div>
-                        <div class="text"><h3>khizooo</h3></div>
-                    </div>
+	var mobileMenuHTML = `
+		<div class="khizooo_tm_mobile_menu">
+			<div class="mobile_menu_inner">
+				<div class="mobile_in">
+					<a href="${window.BASE_PATH}LandingPage.html">
+						<div class="logo" data-type="avatar">
+							<div class="avatar" data-img-url="${window.BASE_PATH}images/Monsters/khizooo.png" style="background-image: url('${window.BASE_PATH}images/Monsters/khizooo.png');"></div>
+							<div class="image"><img src="${window.BASE_PATH}images/Monsters/khizooo.png" alt=""></div>
+							<div class="text"><h3>khizooo</h3></div>
+						</div>
+					</a>
                     <div class="trigger">
                         <div class="hamburger hamburger--slider">
                             <div class="hamburger-box">
@@ -102,13 +103,13 @@ function Render_MobileMenu(){
             <div class="dropdown">
                 <div class="dropdown_inner">
                     <ul class="anchor_nav">
-                        <li><a href="abc" class="btn-header btn--stripe btn--radius w-100 m-default-color">Portfolio</a></li>
-                        <li><a href="abc" class="btn-header btn--stripe btn--radius w-100 m-artooo-color">Artooo</a></li>
-                        <li><a href="abc" class="btn-header btn--stripe btn--radius w-100 m-infooo-color">Infooo</a></li>
-                        <li><a href="abc" class="btn-header btn--stripe btn--radius w-100 m-toolooo-color">Toolooo</a></li>
-                        <li><a href="abc" class="btn-header btn--stripe btn--radius w-100 m-freeooo-color">Freeooo</a></li>
-                        <li><a href="abc" class="btn-header btn--stripe btn--radius w-100 m-devooo-color">Devooo</a></li>
-                        <li><a href="abc" class="btn-header btn--stripe btn--radius w-100 m-default-color">Support 🩷</a></li>
+                        <li><a href="${window.BASE_PATH}Portfolio.html" class="btn-header btn--stripe btn--radius w-100 m-default-color">Portfolio</a></li>
+                        <li><a href="${window.BASE_PATH}Artworks.html" class="btn-header btn--stripe btn--radius w-100 m-artooo-color">Artooo</a></li>
+                        <li><a href="${window.BASE_PATH}Infographics.html" class="btn-header btn--stripe btn--radius w-100 m-infooo-color">Infooo</a></li>
+                        <li><a href="${window.BASE_PATH}Toolbox.html" class="btn-header btn--stripe btn--radius w-100 m-toolooo-color">Toolooo</a></li>
+                        <li><a href="${window.BASE_PATH}Freebies.html" class="btn-header btn--stripe btn--radius w-100 m-freeooo-color">Freeooo</a></li>
+                        <li><a href="${window.BASE_PATH}Devspark.html" class="btn-header btn--stripe btn--radius w-100 m-devooo-color">Devooo</a></li>
+                        <li><a href="#support" class="btn-header btn--stripe btn--radius w-100 m-default-color">Support 🩷</a></li>
                     </ul>
                 </div>
             </div>
@@ -121,8 +122,8 @@ function Render_MobileMenu(){
 function Render_Footer(){
     "use strict";
     var footerHTML = `
-        <div class="khizooo_tm_section mb-4" id="socials">
-            <div class="khizooo_tm_services p-2">
+        <div class="khizooo_tm_section" id="socials" style="background: #ffffff;">
+            <div class="khizooo_tm_services p-5">
                 <div class="container">
                     <div class="khizooo_tm_main_title text-center mb-4">
                         <h3 class="wow fadeInUp" data-wow-duration="1s">Connect with ME</h3>
@@ -131,37 +132,28 @@ function Render_Footer(){
                         </p>
                     </div>
                     <div class="row justify-content-center">
-                    <div class="col-lg-8">
-                        <div class="d-flex flex-wrap justify-content-center align-items-center gap-3">
-                            <a href="https://www.facebook.com/khizoooartist" target="_blank" class="btn btn--stripe btn--radius">
-                                <i class="fab fa-facebook-f"></i>
-                            </a>
-                            <a href="https://www.instagram.com/khizooo_art" target="_blank" class="btn btn--stripe btn--radius">
-                                <i class="fab fa-instagram"></i>
-                            </a>
-                            <a href="https://www.linkedin.com/in/khizar-imtiaz" target="_blank" class="btn btn--stripe btn--radius">
-                                <i class="fab fa-linkedin-in"></i>
-                            </a>
-                            <a href="https://twitter.com/khizaroo" target="_blank" class="btn btn--stripe btn--radius">
-                                <i class="fab fa-x-twitter"></i>
-                            </a>
-                            <a href="https://youtube.com/@khizooo" target="_blank" class="btn btn--stripe btn--radius">
-                                <i class="fab fa-youtube"></i>
-                            </a>
-                            <a href="https://www.tiktok.com/@khizooo_butt" target="_blank" class="btn btn--stripe btn--radius">
-                                <i class="fab fa-tiktok"></i>
-                            </a>
-                            <a href="https://www.pinterest.com/KhizoOo_" target="_blank" class="btn btn--stripe btn--radius">
-                                <i class="fab fa-pinterest-p"></i>
-                            </a>
-                            <a href="https://opensea.io/KhizoOo_" target="_blank" class="btn btn--stripe btn--radius">
-                                <i class="fab fa-ethereum"></i>
-                            </a>
-                            <a href="https://wa.me/923007683396?text=KhizoOo%20%3C3" target="_blank" class="btn btn--stripe btn--radius">
-                                <i class="fab fa-whatsapp"></i>
-                            </a>
+                    <div class="col-lg-5 justify-content-center">
+                        <div class="all-social-connections text-center">
+							<a href="https://www.instagram.com/khizooo_art" class="btn btn-social btn-sm btn-social-custom">Instagram</a>
+							<a href="https://www.facebook.com/khizoooartist" class="btn btn-social btn-sm btn-social-custom">Facebook</a>
+							<a href="https://www.pinterest.com/KhizoOo_" class="btn btn-social btn-sm btn-social-custom">Pinterest</a>
+							<a href="https://www.tiktok.com/@khizooo_butt" class="btn btn-social btn-sm btn-social-custom">TikTok</a>
+							<a href="https://www.snapchat.com/add/khizooo_1163?share_id=ZIvI4JY3joU&amp;locale=en-PK" class="btn btn-social btn-sm btn-social-custom">Snapchat</a>
+							<a href="https://twitter.com/khizaroo" class="btn btn-social btn-sm btn-social-custom">X</a>
+							<a href="https://www.linkedin.com/in/khizar=imtiaz" class="btn btn-social btn-sm btn-social-custom">LinkedIn</a>
+							<a href="" class="btn btn-social btn-sm btn-social-custom">Threads</a>
+							<a href="" class="btn btn-social btn-sm btn-social-custom">Behance</a>
+							<a href="" class="btn btn-social btn-sm btn-social-custom">Reddit</a>
+							<a href="" class="btn btn-social btn-sm btn-social-custom">DeviantArt</a>
+							<a href="https://wa.me/923007683396?text=KhizoOo%20%3C3" class="btn btn-social btn-sm btn-social-custom">Whatsapp</a>
+							<a href="https://join.skype.com/invite/b0k5jlb9HRmk" class="btn btn-social btn-sm btn-social-custom">Skype</a>
+							<a href="https://youtube.com/@khizooo?sub_confirmation=1" class="btn btn-social btn-sm btn-social-custom">YouTube</a>
+							<a href="https://t.me/KhizarImtiaz" class="btn btn-social btn-sm btn-social-custom">Telegram</a>
+							<a href="https://github.com/KhizaroOo" class="btn btn-social btn-sm btn-social-custom">Github</a>
+							<a href="https://discordapp.com/users/567964089989726231" class="btn btn-social btn-sm btn-social-custom">Discord</a>
+							<a href="https://medium.com/@khizar.imtiaz" class="btn btn-social btn-sm btn-social-custom">Medium</a>
+							<a href="https://codepen.io/Khizarooo" class="btn btn-social btn-sm btn-social-custom">Codepen</a></div>
                         </div>
-                    </div>
                     </div>
                 </div>
             </div>
@@ -171,60 +163,64 @@ function Render_Footer(){
 }
 
 
-// SUPPORT MODAL
-function openSupportModal(){
+// SUPPORT MODAL (Neutral Theme)
+function openSupportModal() {
     "use strict";
+    jQuery('#supportModal').remove();
     var content = `
-        <div class="khizooo_tm_modalbox_support">
-            <div class="khizooo_tm_main_title text-center mb-4">
-                <h3>Support My Work 🩷</h3>
-                <p>Your support helps me create more art and code! Donate via crypto below.</p>
-            </div>
+    <div class="modal fade" id="supportModal" tabindex="-1" aria-labelledby="supportModalLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content" style="background: #EEEEEE; border: 2px solid #3a3a3a; border-radius: 18px; color: #222; box-shadow: 0 8px 32px rgba(0,0,0,0.12);">
+          <div class="modal-header" style="border-bottom: 2px solid #3a3a3a; background: #FFFFFF; border-top-left-radius: 16px; border-top-right-radius: 16px;">
+            <h5 class="modal-title" id="supportModalLabel" style="color: #3a3a3a; font-weight: 700;">Support My Work 🩷</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body" style="padding: 2rem;">
+            <p class="mb-3" style="color: #555;">Your support helps me create more art and code! Donate via crypto below.</p>
             <div class="support_donations">
-                <div class="row justify-content-center">
-                    <div class="col-md-8">
-                        <div class="donation_item mb-3 p-3 border rounded">
-                            <h5><i class="fab fa-bitcoin text-warning"></i> Bitcoin (BTC)</h5>
-                            <p class="mb-2">Wallet: bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh</p>
-                            <button class="btn btn-sm btn-outline-primary copy-btn" onclick="copyToClipboard('bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh')">Copy Address</button>
-                        </div>
-                        <div class="donation_item mb-3 p-3 border rounded">
-                            <h5><i class="fab fa-ethereum text-primary"></i> Ethereum (ETH)</h5>
-                            <p class="mb-2">Wallet: 0x742d35Cc6634C0532925a3b844Bc454e4438f44e</p>
-                            <button class="btn btn-sm btn-outline-primary copy-btn" onclick="copyToClipboard('0x742d35Cc6634C0532925a3b844Bc454e4438f44e')">Copy Address</button>
-                        </div>
-                        <div class="donation_item mb-3 p-3 border rounded">
-                            <h5><i class="fab fa-solana text-purple"></i> Solana (SOL)</h5>
-                            <p class="mb-2">Wallet: 7xKXtg2CW87d97TXJSDpbD5jBkheTqA83TZRuJosgAsU</p>
-                            <button class="btn btn-sm btn-outline-primary copy-btn" onclick="copyToClipboard('7xKXtg2CW87d97TXJSDpbD5jBkheTqA83TZRuJosgAsU')">Copy Address</button>
-                        </div>
-                    </div>
+              <div class="donation_item mb-3 p-3" style="background:#FFFFFF; border:2px solid #3a3a3a; border-radius:12px; color:#222;">
+                <h6 style="color:#3a3a3a; font-weight:600;margin-bottom: 10px;">Bitcoin (BTC)</h6>
+                <div class="input-group mb-2">
+                  <input type="text" class="form-control" value="14jRkGQ9r4JnvA2L6Z6SKrD31zvMhQrTfw" readonly style="background:transparent; color:#222; border:1px solid #3a3a3a;font-size: 11px;">
+                  <button class="btn btn-outline-primary copy-btn" data-wallet="14jRkGQ9r4JnvA2L6Z6SKrD31zvMhQrTfw" style="border:1px solid #3a3a3a; color:#3a3a3a; background:#FFFFFF;font-size: 11px;">Copy</button>
                 </div>
-                <div class="text-center mt-4">
-                    <p>Thank you for your generosity! Every bit helps. 💖</p>
+              </div>
+              <div class="donation_item mb-3 p-3" style="background:#FFFFFF; border:2px solid #3a3a3a; border-radius:12px; color:#222;">
+                <h6 style="color:#3a3a3a; font-weight:600;margin-bottom: 10px;">Ethereum (ETH)</h6>
+                <div class="input-group mb-2">
+                  <input type="text" class="form-control" value="0x221fcfad5af2d4fb2fd848ab9e048f824a564b98" readonly style="background:transparent; color:#222; border:1px solid #3a3a3a;font-size: 11px;">
+                  <button class="btn btn-outline-primary copy-btn" data-wallet="0x221fcfad5af2d4fb2fd848ab9e048f824a564b98" style="border:1px solid #3a3a3a; color:#3a3a3a; background:#FFFFFF;font-size: 11px;">Copy</button>
                 </div>
+              </div>
+              <div class="donation_item mb-3 p-3" style="background:#FFFFFF; border:2px solid #3a3a3a; border-radius:12px; color:#222;">
+                <h6 style="color:#3a3a3a; font-weight:600;margin-bottom: 10px;">Solana (SOL)</h6>
+                <div class="input-group mb-2">
+                  <input type="text" class="form-control" value="3hr8uf3pEnaVczY8CQBVugWZHUR4YZAxmgdDHhoLSPJ7" readonly style="background:transparent; color:#222; border:1px solid #3a3a3a;font-size: 11px;">
+                  <button class="btn btn-outline-primary copy-btn" data-wallet="3hr8uf3pEnaVczY8CQBVugWZHUR4YZAxmgdDHhoLSPJ7" style="border:1px solid #3a3a3a; color:#3a3a3a; background:#FFFFFF;font-size: 11px;">Copy</button>
+                </div>
+              </div>
             </div>
+            <div class="text-center mt-3">
+              <p style="color:#555;">Thank you for your generosity! Every bit helps. 💖</p>
+            </div>
+          </div>
         </div>
+      </div>
+    </div>
     `;
     jQuery('body').append(content);
-    jQuery('.khizooo_tm_modalbox_support').addClass('opened show');
-}
-
-// COPY TO CLIPBOARD FUNCTION
-function copyToClipboard(text) {
-    navigator.clipboard.writeText(text).then(function() {
-        alert('Address copied to clipboard!');
-    }, function(err) {
-        console.error('Could not copy text: ', err);
+    var modal = new bootstrap.Modal(document.getElementById('supportModal'));
+    modal.show();
+    jQuery('.copy-btn').on('click', function() {
+        var wallet = jQuery(this).data('wallet');
+        navigator.clipboard.writeText(wallet).then(function() {
+            alert('Address copied to clipboard!');
+        }, function(err) {
+            alert('Could not copy address');
+        });
     });
 }
 
-// MODALBOX
-function khizooo_tm_modalbox(){
-	"use strict";
-	
-	jQuery('.khizooo_tm_all_wrap').prepend('<div class="khizooo_tm_modalbox"><div class="box_inner"><div class="close"><a href="#"><i class="icon-cancel"></i></a></div><div class="description_wrap"></div></div></div>');
-}
 
 // TRIGGER MENU
 function khizooo_tm_trigger_menu(){
@@ -255,121 +251,6 @@ function khizooo_tm_trigger_menu(){
 	});
 }
 
-// SERVICE POPUP
-function khizooo_tm_service_popup(){
-	
-	"use strict";
-	
-	var modalBox		= jQuery('.khizooo_tm_modalbox');
-	var button			= jQuery('.khizooo_tm_services .khizooo_tm_full_link');
-	var closePopup		= modalBox.find('.close');
-	
-	button.on('click',function(){
-		var element = jQuery(this);
-		var parent	= element.closest('.khizooo_tm_services .service_list ul li');
-		var elImage	= parent.find('.popup_service_image').attr('src');
-		var title	= parent.find('.title').text();
-		var content = parent.find('.service_hidden_details').html();
-		modalBox.addClass('opened');
-		modalBox.find('.description_wrap').html(content);
-		modalBox.find('.service_popup_informations').prepend('<div class="image"><img src="img/thumbs/4-2.jpg" alt="" /><div class="main" data-img-url="'+elImage+'"></div></div>');
-		khizooo_tm_data_images();
-		modalBox.find('.service_popup_informations .image').after('<div class="main_title"><h3>'+title+'</h3></div>');
-		return false;
-	});
-	closePopup.on('click',function(){
-		modalBox.removeClass('opened');
-		modalBox.find('.description_wrap').html('');
-		return false;
-	});
-}
-
-// MODALBOX NEWS
-function khizooo_tm_modalbox_news(){
-	
-	"use strict";
-	
-	var modalBox		= jQuery('.khizooo_tm_modalbox');
-	var button			= jQuery('.khizooo_tm_news .khizooo_tm_full_link,.khizooo_tm_news .news_list .title a');
-	var closePopup		= modalBox.find('.close');
-	
-	button.on('click',function(){
-		var element 	= jQuery(this);
-		var parent 		= element.closest('.list_inner');
-		var content 	= parent.find('.news_hidden_details').html();
-		var image		= element.closest('.list_inner').find('.image .main').data('img-url');
-		var meta		= parent.find('.meta').html();
-		var title		= parent.find('.details .title a').text();
-		modalBox.addClass('opened');
-		modalBox.find('.description_wrap').html(content);
-		modalBox.find('.news_popup_informations').prepend('<div class="image"><img src="img/thumbs/4-2.jpg" alt="" /><div class="main" data-img-url="'+image+'"></div></div>');
-		modalBox.find('.news_popup_informations .image').after('<div class="details"><div class="meta">'+meta+'</div><div class="title"><h3>'+title+'</h3></div></div>');
-		khizooo_tm_data_images();
-		return false;
-	});
-	closePopup.on('click',function(){
-		modalBox.removeClass('opened');
-		modalBox.find('.description_wrap').html('');
-		return false;
-	});
-}
-
-// MODALBOX PORTFOLIO
-function khizooo_tm_modalbox_portfolio(){
-	
-	"use strict";
-	
-	var modalBox	= jQuery('.khizooo_tm_modalbox');
-	var button		= jQuery('.khizooo_tm_portfolio .portfolio_popup');
-	
-	button.on('click',function(){
-		var element 	= jQuery(this);
-		var parent		= element.closest('li');
-		var image		= parent.find('.image .main').data('img-url');
-		var details 	= parent.find('.hidden_content').html();
-		var info 		= parent.find('.details').html();
-		
-		modalBox.addClass('opened');
-		modalBox.find('.description_wrap').html(details);
-		modalBox.find('.popup_details').prepend('<div class="top_image"><img src="img/thumbs/4-2.jpg" alt="" /><div class="main" data-img-url="'+image+'"></div></div>');
-		modalBox.find('.popup_details .top_image').after('<div class="portfolio_main_title">'+info+'</div>');	
-		khizooo_tm_data_images();
-		return false;
-	});
-}
-
-// PORTFOLIO FILTER
-function khizooo_tm_portfolio(){
-
-	"use strict";
-
-	if(jQuery().isotope) {
-
-		// Needed variables
-		var filter		 = jQuery('.khizooo_tm_portfolio .portfolio_filter ul');
-
-		if(filter.length){
-			// Isotope Filter 
-			filter.find('a').on('click', function(){
-				var element		= jQuery(this);
-				var selector 	= element.attr('data-filter');
-				var list		= element.closest('.khizooo_tm_portfolio').find('.portfolio_list').children('ul');
-				list.isotope({ 
-					filter				: selector,
-					animationOptions	: {
-						duration			: 750,
-						easing				: 'linear',
-						queue				: false
-					}
-				});
-				
-				filter.find('a').removeClass('current');
-				element.addClass('current');
-				return false;
-			});	
-		}
-	}
-}
 
 // MY LOAD
 function khizooo_tm_my_load(){
@@ -473,11 +354,15 @@ function khizooo_tm_data_images(){
 	
 	"use strict";
 	
-	var data			= jQuery('*[data-img-url]');
+	var data = jQuery('*[data-img-url]');
 	
 	data.each(function(){
-		var element			= jQuery(this);
-		var url				= element.data('img-url');
+		var element = jQuery(this);
+		var url = element.data('img-url');
+		// If not absolute, prepend BASE_PATH
+		if (url && !/^https?:\/\//.test(url) && !url.startsWith(window.BASE_PATH)) {
+			url = window.BASE_PATH + url.replace(/^\//, '');
+		}
 		element.css({backgroundImage: 'url('+url+')'});
 	});
 }

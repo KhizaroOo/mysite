@@ -23,6 +23,12 @@
     footer{margin-top:18px;color:var(--muted);font-size:13px}
     @media (max-width:700px){.grid{grid-template-columns:1fr}header{flex-direction:row} .avatar{width:72px;height:72px}}
   </style>
+  <script>
+  // Set BASE_PATH for all HTML pages
+  window.BASE_PATH = (window.location.hostname === "khizarooo.github.io")
+    ? "https://khizarooo.github.io/mysite/"
+    : "file:///D:/khizooo/WEBSITE/static-website/mysite/";
+  </script>
 </head>
 <body>
   <!--

@@ -18,6 +18,25 @@
 	<link rel="stylesheet" type="text/css" href="./css/khizooo.css">
 	<style type="text/css" id="#jarallax-clip-0"> #jarallax-container-0 { clip: rect(0 1505px 298px 0); clip: rect(0, 1505px, 298px, 0); } </style>
 
+	<script>
+	window.BASE_PATH = (window.location.hostname === "khizarooo.github.io")
+			? "https://khizarooo.github.io/mysite/"
+			: "file:///D:/khizooo/WEBSITE/static-website/mysite/";
+	window.addEventListener('DOMContentLoaded', function() {
+		var links = document.querySelectorAll('.khizooo_tm_full_link');
+		var targets = [
+			window.BASE_PATH + 'Artworks.html',
+			window.BASE_PATH + 'Infographics.html',
+			window.BASE_PATH + 'Toolbox.html',
+			window.BASE_PATH + 'Freebies.html',
+			window.BASE_PATH + 'Devspark.html',
+			window.BASE_PATH + 'LandingPage.html'
+		];
+		links.forEach(function(link, i) {
+			link.setAttribute('href', targets[i] || window.BASE_PATH + 'index.html#');
+		});
+	});
+	</script>
 </head>
 
 <body style="background:#eeeeee">
@@ -71,7 +90,7 @@
 											<h3 class="title artooo">artooo -> Artworks</h3>
 											<p class="text">A visual playground of sticky-note art, sketches, illustrations, creativity, emotions, and storytelling through lines.</p>
 										</div>
-										<a class="khizooo_tm_full_link" href="./index.html#"></a>
+										<a class="khizooo_tm_full_link" href="#"></a>
 									</div>
 								</li>
 								<li>
@@ -83,7 +102,7 @@
 											<h3 class="title infooo">infooo -> Infographics</h3>
 											<p class="text">Knowledge hub sharing tech insights, blockchain, AI, development tips, thoughts, research, and digital wisdom.</p>
 										</div>
-										<a class="khizooo_tm_full_link" href="./index.html#"></a>
+										<a class="khizooo_tm_full_link" href="#"></a>
 									</div>
 								</li>
 								<li>
@@ -95,7 +114,7 @@
 											<h3 class="title toolooo">toolooo -> Toolbox</h3>
 											<p class="text">Handy online tools crafted to simplify work, boost productivity, solve problems, and save developer time.</p>
 										</div>
-										<a class="khizooo_tm_full_link" href="./index.html#"></a>
+										<a class="khizooo_tm_full_link" href="#"></a>
 									</div>
 								</li>
 								<li>
@@ -107,7 +126,7 @@
 											<h3 class="title freeooo">freeooo -> Free Assets</h3>
 											<p class="text">Free resources, assets, downloads, templates, experiments, and giveaways to empower creators and developers globally.</p>
 										</div>
-										<a class="khizooo_tm_full_link" href="./index.html#"></a>
+										<a class="khizooo_tm_full_link" href="#"></a>
 									</div>
 								</li>
 								<li>
@@ -119,7 +138,7 @@
 											<h3 class="title devooo">devooo -> DevSpark</h3>
 											<p class="text">Deep dives into development, coding practices, frameworks, tutorials, solutions, and engineering mindset evolution.</p>
 										</div>
-										<a class="khizooo_tm_full_link" href="./index.html#"></a>
+										<a class="khizooo_tm_full_link" href="#"></a>
 									</div>
 								</li>
 								
@@ -141,7 +160,7 @@
 												Upcoming ideas, experimental projects, ambitious concepts, innovations, and monsters waiting to be unleashed.
 											</p>
 										</div>
-										<a class="khizooo_tm_full_link" href="./index.html#"></a>
+										<a class="khizooo_tm_full_link" href="#"></a>
 									</div>
 								</li>
 
