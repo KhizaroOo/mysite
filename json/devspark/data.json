@@ -2040,6 +2040,7 @@
   },
   {
     "category": "Code Generation",
+    "text": "Tools that automatically generate boilerplate, structures, and application code instantly.",
     "subCategory": [
       {
         "title": "",
@@ -2086,6 +2087,7 @@
   },
   {
     "category": "Code Quality",
+    "text": "Static analysis and quality tools that detect issues before developers deploy anything.",
     "subCategory": [
       {
         "title": "",
