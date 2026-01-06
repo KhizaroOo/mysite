@@ -1,6 +1,7 @@
 [
   {
     "category": "Major Cloud Providers",
+    "text": "Top global cloud platforms offering scalable compute, storage, and enterprise-grade solutions.",
     "subCategory": [
       {
         "title": "Google Cloud Platform",
@@ -432,6 +433,7 @@
   },
   {
     "category": "Cloud management solutions",
+    "text": "Tools to manage, optimize, automate, and monitor cloud resources effortlessly and securely.",
     "subCategory": [
       {
         "title": "",
@@ -473,6 +475,7 @@
   },
   {
     "category": "Source Code Repos",
+    "text": "Platforms to host, manage, version, and collaborate on code smoothly with teams.",
     "subCategory": [
       {
         "title": "",
@@ -584,6 +587,7 @@
   },
   {
     "category": "APIs, Data, and ML",
+    "text": "APIs providing data, intelligence, and machine learning capabilities for smarter apps.",
     "subCategory": [
       {
         "title": "",
@@ -1380,6 +1384,7 @@
   },
   {
     "category": "Artifact Repos",
+    "text": "Storage solutions for packages, dependencies, containers, binaries, and build artifacts.",
     "subCategory": [
       {
         "title": "",
@@ -1441,6 +1446,7 @@
   },
   {
     "category": "Tools for Teams and Collaboration",
+    "text": "Platforms helping teams communicate, coordinate, plan, and collaborate more effectively.",
     "subCategory": [
       {
         "title": "",
@@ -1932,6 +1938,7 @@
   },
   {
     "category": "CMS",
+    "text": "Content management systems enabling creators to publish, edit, and organize content seamlessly.",
     "subCategory": [
       {
         "title": "",

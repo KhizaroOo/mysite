@@ -27,6 +27,7 @@
 	khizooo_tm_canvas_effect();
 
 	RenderArtworksGrid();
+	RenderDevsparkList();
 
 	jQuery(window).on('load', function () {
 		khizooo_tm_my_load();
@@ -39,6 +40,71 @@
 	});
 
 });
+
+// DEVTSPARK LIST RENDER
+function RenderDevsparkList() {
+		const listEl = document.getElementById('devspark_list');
+		if (!listEl) return;
+		fetch('https://raw.githubusercontent.com/KhizaroOo/mysite/refs/heads/main/json/devspark/data.json')
+				.then(res => res.json())
+				.then(data => {
+						listEl.innerHTML = '';
+						data.forEach((cat, idx) => {
+								// fallback for missing text
+								const desc = cat.text || '';
+								const li = document.createElement('li');
+								li.innerHTML = `
+									<div class="list_inner" data-category-idx="${idx}">
+										<div class="in">
+											<h3 class="title devooo mb-1">${cat.category}</h3>
+											<p class="text small text-muted mb-0">${desc}</p>
+										</div>
+									</div>
+								`;
+								li.querySelector('.list_inner').onclick = function() {
+									openDevsparkModal(idx);
+								};
+								listEl.appendChild(li);
+						});
+				});
+}
+
+// DEVTSPARK MODAL/OFFCANVAS
+function openDevsparkModal(categoryIdx) {
+		fetch('https://raw.githubusercontent.com/KhizaroOo/mysite/refs/heads/main/json/devspark/data.json')
+			.then(res => res.json())
+			.then(data => {
+				const cat = data[categoryIdx];
+				// Set modal title
+				document.getElementById('offcanvasRightLabel').textContent = cat.category;
+				// Build subcategory HTML
+				let html = '';
+				if (cat.subCategory && cat.subCategory.length > 0) {
+					cat.subCategory.forEach(sub => {
+						html += `<h4 class="mb-3">${sub.title}`;
+						if(sub.link) html += ` <a href="${sub.link}" target="_blank" class="ms-2 small text-primary"><i class="fa fa-link"></i></a>`;
+						html += `</h4>`;
+						if(sub.list && sub.list.length > 0) {
+							html += '<dl class="mb-4">';
+							sub.list.forEach(item => {
+								html += `<dt>${item.title}`;
+								if(item.link) html += ` <a href="${item.link}" target="_blank" class="ms-1 small text-primary"><i class="fa fa-link"></i></a>`;
+								html += `</dt>`;
+								html += `<dd class="mb-2">${item.description || ''}</dd>`;
+							});
+							html += '</dl>';
+						}
+					});
+				} else {
+					html = '<p class="text-muted">No data available for this category.</p>';
+				}
+				document.querySelector('.bd-example.m-0.border-0').innerHTML = html;
+				// Show offcanvas
+				const offcanvasEl = document.getElementById('DevsparkModal');
+				const offcanvas = new bootstrap.Offcanvas(offcanvasEl);
+				offcanvas.show();
+			});
+}
 
 // ARTWORKS GRID RENDER
 function RenderArtworksGrid() {
