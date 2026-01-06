@@ -1,0 +1,1292 @@
+[
+  {
+    "name": "shadcn/ui",
+    "description": "",
+    "url": "https://ui.shadcn.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/components/shadcn",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://ui.shadcn.com&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/shadcn-ui/ui/blob/main/LICENSE.md"
+      }
+    ],
+    "tags": [
+      "React",
+      "Tailwind",
+      "Chart"
+    ]
+  },
+  {
+    "name": "Radix UI",
+    "description": "",
+    "url": "https://www.radix-ui.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/components/radix",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.radix-ui.com&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/radix-ui/themes#license"
+      }
+    ],
+    "tags": [
+      "React"
+    ]
+  },
+  {
+    "name": "HeroUI",
+    "description": "",
+    "url": "https://www.heroui.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703602206/freesets/components/toajvq9dzuq5b41zlhfn.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.heroui.com&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/heroui-inc/heroui/blob/main/LICENSE"
+      }
+    ],
+    "tags": [
+      "Tailwind",
+      "React"
+    ]
+  },
+  {
+    "name": "Codrops",
+    "description": "",
+    "url": "https://tympanus.net/codrops/demos/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/blogs/codrops",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://tympanus.net/codrops/demos/&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [],
+    "tags": [
+      "Three.js",
+      "Webgl"
+    ]
+  },
+  {
+    "name": "Float UI",
+    "description": "",
+    "url": "https://floatui.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1704376726/freesets/components/ztoak6hgzaj7oy0unfsh.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://floatui.com&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [],
+    "tags": [
+      "Tailwind",
+      "React",
+      "Vue",
+      "Svelte",
+      "Alpine",
+      "Copy&Paste",
+      "Templates"
+    ]
+  },
+  {
+    "name": "Component Gallery",
+    "description": "",
+    "url": "https://component.gallery/components/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1707070156/freesets/components/lom1hgu83gzrtsetjbq3.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://component.gallery/components/&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Headless UI",
+    "description": "",
+    "url": "https://headlessui.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703010009/freesets/components/headlessui.com__D-720_aesaoz.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://headlessui.com&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/tailwindlabs/headlessui/blob/main/LICENSE"
+      }
+    ],
+    "tags": [
+      "Tailwind",
+      "React",
+      "Vue"
+    ]
+  },
+  {
+    "name": "Magic UI",
+    "description": "",
+    "url": "https://magicui.design/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/components/magicui",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://magicui.design/&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/magicuidesign/magicui/blob/main/LICENSE.md"
+      }
+    ],
+    "tags": [
+      "Tailwind",
+      "React",
+      "Typescript",
+      "Framer",
+      "Templates"
+    ]
+  },
+  {
+    "name": "React Bits",
+    "description": "",
+    "url": "https://www.reactbits.dev",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/components/react-bits",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.reactbits.dev&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [],
+    "tags": [
+      "React",
+      "Animations",
+      "Copy&Paste"
+    ]
+  },
+  {
+    "name": "Mantine UI",
+    "description": "",
+    "url": "https://ui.mantine.dev",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703610766/freesets/components/hddhgrr25jrdhysazsyb.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://ui.mantine.dev&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/mantinedev/ui.mantine.dev/blob/master/LICENCE"
+      }
+    ],
+    "tags": [
+      "React"
+    ]
+  },
+  {
+    "name": "Tailus UI",
+    "description": "",
+    "url": "https://tailus.io",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703008051/freesets/components/tailus.io__zed6xv.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://tailus.io&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [
+      {
+        "text": "CC",
+        "href": "https://github.com/Tailus-UI/blocks?tab=License"
+      }
+    ],
+    "tags": [
+      "Tailwind",
+      "Copy&Paste",
+      "Templates"
+    ]
+  },
+  {
+    "name": "Tailblocks",
+    "description": "",
+    "url": "https://tailblocks.cc",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703009391/freesets/components/tailblocks.cc__D-720_rg8avy.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://tailblocks.cc&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/mertJF/tailblocks/blob/master/LICENSE"
+      }
+    ],
+    "tags": [
+      "Tailwind",
+      "HTML",
+      "Copy&Paste"
+    ]
+  },
+  {
+    "name": "Rewind-UI",
+    "description": "",
+    "url": "https://rewind-ui.dev",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703554426/freesets/components/nvz1dnaiskainrmj5kec.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://rewind-ui.dev&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/rewindui/rewindui/blob/main/LICENSE"
+      }
+    ],
+    "tags": [
+      "React",
+      "Tailwind"
+    ]
+  },
+  {
+    "name": "Preline UI",
+    "description": "",
+    "url": "https://preline.co/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703601910/freesets/components/dr99a9rkspjafbrqb3bp.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://preline.co/&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/htmlstreamofficial/preline?tab=readme-ov-file#license"
+      }
+    ],
+    "tags": [
+      "Tailwind",
+      "Copy&Paste",
+      "React",
+      "Vue",
+      "Templates"
+    ]
+  },
+  {
+    "name": "HyperUI",
+    "description": "",
+    "url": "https://www.hyperui.dev",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703555425/freesets/components/qij8gxukb0qgx73keqet.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.hyperui.dev&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/markmead/hyperui/blob/main/LICENSE"
+      }
+    ],
+    "tags": [
+      "Tailwind",
+      "HTML",
+      "Copy&Paste"
+    ]
+  },
+  {
+    "name": "Origin UI",
+    "description": "",
+    "url": "https://originui.com/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/components/originui",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://originui.com/&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [
+      {
+        "text": "Free",
+        "href": "https://github.com/origin-space/originui?tab=readme-ov-file#terms-of-use"
+      }
+    ],
+    "tags": [
+      "React",
+      "Tailwind",
+      "Next.js",
+      "Copy&Paste"
+    ]
+  },
+  {
+    "name": "Fancy Components",
+    "description": "",
+    "url": "https://www.fancycomponents.dev/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/components/viyq7pgwtlelyn7lftyn",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.fancycomponents.dev/&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/danielpetho/fancy/blob/main/LICENSE"
+      }
+    ],
+    "tags": [
+      "React",
+      "Tailwind",
+      "TypeScript",
+      "Motion"
+    ]
+  },
+  {
+    "name": "Kibo UI",
+    "description": "",
+    "url": "https://www.kibo-ui.com/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/components/kibo-ui",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.kibo-ui.com/&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [],
+    "tags": [
+      "Copy&Paste",
+      "TypeScript",
+      "React",
+      "Tailwind",
+      "Shadcn",
+      "Lucide"
+    ]
+  },
+  {
+    "name": "LangUI",
+    "description": "",
+    "url": "https://www.langui.dev",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1706404490/freesets/components/fq5eyrvkle6viwojpxj9.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.langui.dev&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [],
+    "tags": [
+      "HTML",
+      "Tailwind",
+      "Copy&Paste"
+    ]
+  },
+  {
+    "name": "Mvpblocks",
+    "description": "",
+    "url": "https://blocks.mvp-subha.me/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/components/Mvpblocks",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://blocks.mvp-subha.me/&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [],
+    "tags": [
+      "Copy&Paste",
+      "React",
+      "Tailwind"
+    ]
+  },
+  {
+    "name": "Shadcn for Vue",
+    "description": "",
+    "url": "https://www.shadcn-vue.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1705070886/freesets/components/tq8verdcllyichpzjuzx.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.shadcn-vue.com&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/radix-vue/shadcn-vue/blob/dev/LICENSE"
+      }
+    ],
+    "tags": [
+      "Vue",
+      "Tailwind"
+    ]
+  },
+  {
+    "name": "daisyUI",
+    "description": "",
+    "url": "https://daisyui.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1704385880/freesets/components/rww2uufklcug7afxcilt.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://daisyui.com&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [],
+    "tags": [
+      "Tailwind"
+    ]
+  },
+  {
+    "name": "UIverse",
+    "description": "",
+    "url": "https://uiverse.io",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/components/uiverse",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://uiverse.io&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [],
+    "tags": [
+      "HTML",
+      "Copy&Paste"
+    ]
+  },
+  {
+    "name": "Material UI",
+    "description": "",
+    "url": "https://mui.com/material-ui/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703555261/freesets/components/vxnmmwmuaicjux1h16vi.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://mui.com/material-ui/&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/mui/material-ui/blob/master/LICENSE"
+      }
+    ],
+    "tags": [
+      "React"
+    ]
+  },
+  {
+    "name": "Material Tailwind",
+    "description": "",
+    "url": "https://www.material-tailwind.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703613034/freesets/components/valpasgzusvtdj2x0h55.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.material-tailwind.com&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [
+      {
+        "text": "Freemium",
+        "href": "https://www.material-tailwind.com/blocks#pricing"
+      }
+    ],
+    "tags": [
+      "React",
+      "Remix",
+      "Gatsby",
+      "Tailwind"
+    ]
+  },
+  {
+    "name": "Ark UI",
+    "description": "",
+    "url": "https://ark-ui.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1704376144/freesets/components/ph1zqdxfl6vhdgnpkcmm.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://ark-ui.com&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/chakra-ui/ark/blob/main/LICENSE"
+      }
+    ],
+    "tags": [
+      "Headless",
+      "React",
+      "Solid",
+      "Vue"
+    ]
+  },
+  {
+    "name": "HTMLrev",
+    "description": "",
+    "url": "https://htmlrev.com/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/components/htmlrev",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://htmlrev.com/&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [],
+    "tags": [
+      "Templates",
+      "Tailwind",
+      "React",
+      "Vue",
+      "Astro",
+      "Svelte"
+    ]
+  },
+  {
+    "name": "Intent UI",
+    "description": "",
+    "url": "https://intentui.com/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/components/intentui",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://intentui.com/&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [],
+    "tags": [
+      "Accessible",
+      "Aria",
+      "React",
+      "Tailwind"
+    ]
+  },
+  {
+    "name": "Park UI",
+    "description": "",
+    "url": "https://park-ui.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1704376342/freesets/components/zzrebeofyyv25lnhkein.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://park-ui.com&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/cschroeter/park-ui/blob/main/LICENSE"
+      }
+    ],
+    "tags": [
+      "React",
+      "Solid",
+      "Panda",
+      "Tailwind"
+    ]
+  },
+  {
+    "name": "Wedges",
+    "description": "",
+    "url": "https://www.lemonsqueezy.com/wedges",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703794367/freesets/components/bf4phtsmzhlygyejht8y.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.lemonsqueezy.com/wedges&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://www.lemonsqueezy.com/wedges"
+      }
+    ],
+    "tags": [
+      "React"
+    ]
+  },
+  {
+    "name": "Melt UI",
+    "description": "",
+    "url": "https://melt-ui.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1706404874/freesets/components/uwvpyu1625khiiiygl6c.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://melt-ui.com&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [],
+    "tags": [
+      "Svelte",
+      "Accessible"
+    ]
+  },
+  {
+    "name": "Tremor",
+    "description": "",
+    "url": "https://www.tremor.so",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/components/tremor",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.tremor.so&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [
+      {
+        "text": "Apache License 2.0",
+        "href": "https://github.com/tremorlabs/tremor/blob/main/LICENSE"
+      }
+    ],
+    "tags": [
+      "Chart",
+      "React"
+    ]
+  },
+  {
+    "name": "Vuesax",
+    "description": "",
+    "url": "https://vuesax.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1705078954/freesets/components/vscputhcnpf4c9hcxala.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://vuesax.com&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [
+      {
+        "text": "Free",
+        "href": "https://vuesax.com/license/"
+      }
+    ],
+    "tags": [
+      "Vue"
+    ]
+  },
+  {
+    "name": "SmoothUI",
+    "description": "",
+    "url": "https://www.smoothui.dev/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/components/smoothui",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.smoothui.dev/&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/educlopez/smoothui/blob/main/LICENSE"
+      }
+    ],
+    "tags": [
+      "React",
+      "Tailwind",
+      "Animations",
+      "Motion"
+    ]
+  },
+  {
+    "name": "Cuicui",
+    "description": "",
+    "url": "https://cuicui.day",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/components/cuicui",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://cuicui.day&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [],
+    "tags": [
+      "React",
+      "Typescript",
+      "Motion",
+      "Tailwind"
+    ]
+  },
+  {
+    "name": "Chart.js",
+    "description": "",
+    "url": "https://www.chartjs.org",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/components/chart.js",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.chartjs.org&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/chartjs/Chart.js/blob/master/LICENSE.md"
+      }
+    ],
+    "tags": [
+      "Chart",
+      "React",
+      "Vue",
+      "Svelte",
+      "Angular"
+    ]
+  },
+  {
+    "name": "Sonner",
+    "description": "",
+    "url": "https://sonner.emilkowal.ski",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/components/sonner",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://sonner.emilkowal.ski&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/emilkowalski/sonner/blob/main/LICENSE.md"
+      }
+    ],
+    "tags": [
+      "Toast",
+      "React"
+    ]
+  },
+  {
+    "name": "Fulldev UI",
+    "description": "",
+    "url": "https://ui.full.dev",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/components/ui_full_dev",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://ui.full.dev&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/fulldotdev/ui/blob/main/LICENCE"
+      }
+    ],
+    "tags": [
+      "Astro"
+    ]
+  },
+  {
+    "name": "Stepperize",
+    "description": "",
+    "url": "https://stepperize.vercel.app/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/components/stepperize",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://stepperize.vercel.app/&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [],
+    "tags": [
+      "Multi-Step Flows",
+      "Forms",
+      "React",
+      "Vue",
+      "Solid",
+      "Svelte"
+    ]
+  },
+  {
+    "name": "TW Components",
+    "description": "",
+    "url": "https://www.creative-tim.com/twcomponents",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/components/twcomponentsqwd",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.creative-tim.com/twcomponents&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [],
+    "tags": [
+      "Tailwind",
+      "HTML",
+      "Copy&Paste"
+    ]
+  },
+  {
+    "name": "Motion-Primitives",
+    "description": "",
+    "url": "https://motion-primitives.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/components/motion-primitives",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://motion-primitives.com&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/ibelick/motion-primitives/blob/main/LICENCE.md"
+      }
+    ],
+    "tags": [
+      "Framer",
+      "React"
+    ]
+  },
+  {
+    "name": "Aceternity UI",
+    "description": "",
+    "url": "https://ui.aceternity.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703456555/freesets/components/puf7ov5ywajnsdircxmo.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://ui.aceternity.com&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [],
+    "tags": [
+      "React",
+      "Tailwind",
+      "Motion"
+    ]
+  },
+  {
+    "name": "LayerChart",
+    "description": "",
+    "url": "https://www.layerchart.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703614228/freesets/components/jz7h94o3obh4l7lxsz2w.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.layerchart.com&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/techniq/layerchart/blob/main/LICENSE"
+      }
+    ],
+    "tags": [
+      "Svelte",
+      "Chart"
+    ]
+  },
+  {
+    "name": "Tailbits",
+    "description": "This project is licensed under the Creative Commons Attribution 4.0 International License. You are free to share and adapt the material for any purpose, even commercially, as long as you provide appropriate credit, a link to the license, and indicate if changes were made.",
+    "url": "https://www.tailbits.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/components/tailbits",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.tailbits.com&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [],
+    "tags": [
+      "Templates",
+      "Tailwind",
+      "HTML",
+      "Copy&Paste"
+    ]
+  },
+  {
+    "name": "ui.ibelick",
+    "description": "",
+    "url": "https://ui.ibelick.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/components/ibelick",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://ui.ibelick.com&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [],
+    "tags": [
+      "Effects",
+      "React",
+      "Tailwind"
+    ]
+  },
+  {
+    "name": "PrimeReact",
+    "description": "",
+    "url": "https://primereact.org/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/components/primereact",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://primereact.org/&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [],
+    "tags": [
+      "React"
+    ]
+  },
+  {
+    "name": "Bits UI",
+    "description": "",
+    "url": "https://www.bits-ui.com/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1706405281/freesets/components/rkr4fgkftg0ziivvaknb.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.bits-ui.com/&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [],
+    "tags": [
+      "Svelte",
+      "Headless"
+    ]
+  },
+  {
+    "name": "Angular Material",
+    "description": "",
+    "url": "https://material.angular.io",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1706407740/freesets/components/snipm2i3ckqhyxdtvs88.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://material.angular.io&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/angular/components/blob/main/LICENSE"
+      }
+    ],
+    "tags": [
+      "Angular"
+    ]
+  },
+  {
+    "name": "Svelte UX",
+    "description": "",
+    "url": "https://svelte-ux.techniq.dev",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/components/svelte-ux",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://svelte-ux.techniq.dev&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/techniq/svelte-ux/blob/main/LICENSE"
+      }
+    ],
+    "tags": [
+      "Svelte"
+    ]
+  },
+  {
+    "name": "buttons.ibelick",
+    "description": "",
+    "url": "https://buttons.ibelick.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1706405496/freesets/components/virh7entwwa55smst4ol.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://buttons.ibelick.com&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [],
+    "tags": [
+      "Buttons",
+      "Tailwind",
+      "Copy&Paste"
+    ]
+  },
+  {
+    "name": "enhanced-button",
+    "description": "",
+    "url": "https://enhanced-button.vercel.app/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/components/enhanced-button",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://enhanced-button.vercel.app/&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [],
+    "tags": [
+      "Buttons"
+    ]
+  },
+  {
+    "name": "3D buttons",
+    "description": "",
+    "url": "https://csspro.com/css-3d-buttons/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1705768856/freesets/components/vxcfat4frzzdbwfqxcvn.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://csspro.com/css-3d-buttons/&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [],
+    "tags": [
+      "3D",
+      "Buttons",
+      "Copy&Paste"
+    ]
+  },
+  {
+    "name": "React Hot Toast",
+    "description": "",
+    "url": "https://react-hot-toast.com/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/components/react-hot-toast",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://react-hot-toast.com/&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/timolins/react-hot-toast/blob/main/LICENSE"
+      }
+    ],
+    "tags": [
+      "React",
+      "Toast"
+    ]
+  },
+  {
+    "name": "SHSF UI",
+    "description": "",
+    "url": "https://www.shsfui.com/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/components/shsfui",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.shsfui.com/&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [],
+    "tags": [
+      "Copy&Paste",
+      "TypeScript",
+      "React",
+      "Tailwind",
+      "Motion",
+      "Shadcn"
+    ]
+  },
+  {
+    "name": "Zag",
+    "description": "",
+    "url": "https://zagjs.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703612418/freesets/components/elhlvbikjnovlf4yrq49.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://zagjs.com&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/chakra-ui/zag/blob/main/LICENSE"
+      }
+    ],
+    "tags": [
+      "React",
+      "Vue",
+      "Solid"
+    ]
+  },
+  {
+    "name": "Chakra UI",
+    "description": "",
+    "url": "https://chakra-ui.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1704821908/freesets/components/qf22qvc0clccdnfkt6ow.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://chakra-ui.com&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/chakra-ui/chakra-ui?tab=readme-ov-file#license"
+      }
+    ],
+    "tags": [
+      "React"
+    ]
+  },
+  {
+    "name": "magecdn SVG Loaders",
+    "description": "",
+    "url": "https://magecdn.com/tools/svg-loaders",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/components/svg-loadersmage",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://magecdn.com/tools/svg-loaders&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [],
+    "tags": [
+      "Loaders"
+    ]
+  },
+  {
+    "name": "Pines",
+    "description": "",
+    "url": "https://devdojo.com/pines",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703600134/freesets/components/b3lgwmyj5xzdpdpxvkmx.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://devdojo.com/pines&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [],
+    "tags": [
+      "Tailwind",
+      "Alpine"
+    ]
+  },
+  {
+    "name": "TW Elements",
+    "description": "You can use it for free as long as you open source the entirety of your project. AGPL is \"sticky\" which means you have to apply the same license to any project you build with TWE & open the project to the public.",
+    "url": "https://tw-elements.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1707066379/freesets/components/ftuta4gbmjp08bvjvyjn.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://tw-elements.com&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [
+      {
+        "text": "AGPL",
+        "href": "https://tw-elements.com/license/"
+      }
+    ],
+    "tags": [
+      "Tailwind"
+    ]
+  },
+  {
+    "name": "CSS checkboxes",
+    "description": "",
+    "url": "https://getcssscan.com/css-checkboxes-examples?ref=css-3d-buttons-bottom",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1705769069/freesets/components/wgqjufaceb0fqgaeqebt.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://getcssscan.com/css-checkboxes-examples?ref=css-3d-buttons-bottom&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [],
+    "tags": [
+      "HTML",
+      "Checkboxes",
+      "Copy&Paste"
+    ]
+  },
+  {
+    "name": "Lobe UI",
+    "description": "",
+    "url": "https://ui.lobehub.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/components/lobehub",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://ui.lobehub.com&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/lobehub/lobe-ui/blob/master/LICENSE"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "cult/ui",
+    "description": "",
+    "url": "https://www.cult-ui.com/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/components/cultui",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.cult-ui.com/&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [],
+    "tags": [
+      "Tailwind",
+      "React"
+    ]
+  },
+  {
+    "name": "Eldora UI",
+    "description": "",
+    "url": "https://eldoraui.site/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/components/eldoraui",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://eldoraui.site/&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/karthikmudunuri/eldoraui/blob/main/LICENSE.md"
+      }
+    ],
+    "tags": [
+      "Tailwind",
+      "React",
+      "Typescript",
+      "Framer"
+    ]
+  },
+  {
+    "name": "CSS box-shadow",
+    "description": "",
+    "url": "https://getcssscan.com/css-box-shadow-examples",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1705768965/freesets/components/fyvka42qkl8nh136frxm.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://getcssscan.com/css-box-shadow-examples&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [],
+    "tags": [
+      "HTML",
+      "Shadows",
+      "Copy&Paste"
+    ]
+  },
+  {
+    "name": "LoaderShip",
+    "description": "",
+    "url": "https://www.loadership.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1707069281/freesets/components/tgovgqfcvl1snnisibtd.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.loadership.com&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [],
+    "tags": [
+      "Loaders",
+      "CSS",
+      "Copy&Paste"
+    ]
+  },
+  {
+    "name": "Flowbite",
+    "description": "",
+    "url": "https://flowbite.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703009841/freesets/components/flowbite.com__D-720_rjocmi.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://flowbite.com&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [
+      {
+        "text": "Freemium",
+        "href": "https://flowbite.com/pro/#pricing"
+      }
+    ],
+    "tags": [
+      "Tailwind",
+      "Copy&Paste"
+    ]
+  },
+  {
+    "name": "AnimatiSS",
+    "description": "",
+    "url": "https://xsgames.co/animatiss/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/components/animatiss",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://xsgames.co/animatiss/&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [],
+    "tags": [
+      "Animations",
+      "CSS"
+    ]
+  },
+  {
+    "name": "Lightweight charts",
+    "description": "",
+    "url": "https://www.tradingview.com/lightweight-charts/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/components/lightweight-charts",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.tradingview.com/lightweight-charts/&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [
+      {
+        "text": "Freemium with attribution",
+        "href": "https://tradingview.github.io/lightweight-charts/docs#license-and-attribution"
+      }
+    ],
+    "tags": [
+      "Chart"
+    ]
+  },
+  {
+    "name": "Toggles",
+    "description": "",
+    "url": "https://toggles.dev",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/components/toggles",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://toggles.dev&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/AlfieJones/theme-toggles/blob/main/LICENSE"
+      }
+    ],
+    "tags": [
+      "Toggles",
+      "HTML",
+      "Copy&Paste"
+    ]
+  },
+  {
+    "name": "tailwindUI",
+    "description": "",
+    "url": "https://tailwindui.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703601630/freesets/components/ewiat7s397akwrcaxd2f.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://tailwindui.com&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [],
+    "tags": [
+      "Tailwind",
+      "React",
+      "Vue",
+      "Copy&Paste"
+    ]
+  },
+  {
+    "name": "Hola svg",
+    "description": "",
+    "url": "https://loaders.holasvg.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/components/hola-svg",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://loaders.holasvg.com&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://loaders.holasvg.com"
+      }
+    ],
+    "tags": [
+      "Loaders"
+    ]
+  },
+  {
+    "name": "LDRS",
+    "description": "",
+    "url": "https://uiball.com/ldrs",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703009609/freesets/components/uiball.com_ldrs__D-720_rxbymx.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://uiball.com/ldrs&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/GriffinJohnston/uiball-loaders/blob/main/LICENSE"
+      }
+    ],
+    "tags": [
+      "Loaders"
+    ]
+  },
+  {
+    "name": "10015 Tools",
+    "description": "",
+    "url": "https://10015.io/tools/css-loader-generator",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/components/css_tools",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://10015.io/tools/css-loader-generator&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [
+      {
+        "text": "Free",
+        "href": "https://10015.io/tools/css-loader-generator"
+      }
+    ],
+    "tags": [
+      "Loaders"
+    ]
+  },
+  {
+    "name": "React Responsive Pagination",
+    "description": "",
+    "url": "https://react-responsive-pagination.elantha.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703456826/freesets/components/y9vgyzcmtlkzo1jqicxh.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://react-responsive-pagination.elantha.com&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [],
+    "tags": [
+      "Pagination",
+      "React"
+    ]
+  },
+  {
+    "name": "Drams",
+    "description": "",
+    "url": "https://drams.framer.website",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/components/drams",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://drams.framer.website&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [],
+    "tags": [
+      "Framer"
+    ]
+  },
+  {
+    "name": "SVG Loaders",
+    "description": "",
+    "url": "https://samherbert.net/svg-loaders/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/components/svg-loaders",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://samherbert.net/svg-loaders/&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/SamHerbert/SVG-Loaders/blob/master/LICENSE.md"
+      }
+    ],
+    "tags": [
+      "Loaders"
+    ]
+  },
+  {
+    "name": "Tailwind UI KIT",
+    "description": "",
+    "url": "https://www.tailwind-kit.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703613682/freesets/components/qeeexxul0yg6rostly73.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.tailwind-kit.com&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/Charlie85270/tail-kit/blob/main/LICENCE.md"
+      }
+    ],
+    "tags": [
+      "Tailwind",
+      "HTML",
+      "Copy&Paste"
+    ]
+  },
+  {
+    "name": "CSS loaders",
+    "description": "",
+    "url": "https://css-loaders.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/components/css-loaders",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://css-loaders.com&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [],
+    "tags": [
+      "Loaders"
+    ]
+  },
+  {
+    "name": "CSS loaders and spinners",
+    "description": "",
+    "url": "https://cssloaders.github.io",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/components/cssloaders",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://cssloaders.github.io&sz=128",
+    "color": "#21c95f",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/vineethtrv/css-loader/blob/master/LICENSE"
+      }
+    ],
+    "tags": [
+      "Loaders"
+    ]
+  }
+]

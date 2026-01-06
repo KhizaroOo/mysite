@@ -1,0 +1,130 @@
+[
+  {
+    "name": "Standard Calculator",
+    "description": "Basic arithmetic operations with a clean, user-friendly interface.",
+    "url": "/math/standard-calculator/",
+    "live": "yes",
+    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-calculator size-5\"><rect width=\"16\" height=\"20\" x=\"4\" y=\"2\" rx=\"2\"></rect><line x1=\"8\" x2=\"16\" y1=\"6\" y2=\"6\"></line><line x1=\"16\" x2=\"16\" y1=\"14\" y2=\"18\"></line><path d=\"M16 10h.01\"></path><path d=\"M12 10h.01\"></path><path d=\"M8 10h.01\"></path><path d=\"M12 14h.01\"></path><path d=\"M8 14h.01\"></path><path d=\"M12 18h.01\"></path><path d=\"M8 18h.01\"></path></svg>",
+    "isCategory": true
+  },
+  {
+    "name": "Scientific Calculator",
+    "description": "Advanced mathematical functions and operations for complex calculations.",
+    "url": "/math/scientific-calculator/",
+    "live": "yes",
+    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-binary size-5\"><rect x=\"14\" y=\"14\" width=\"4\" height=\"6\" rx=\"2\"></rect><rect x=\"6\" y=\"4\" width=\"4\" height=\"6\" rx=\"2\"></rect><path d=\"M6 20h4\"></path><path d=\"M14 10h4\"></path><path d=\"M6 14h2v6\"></path><path d=\"M14 4h2v6\"></path></svg>",
+    "isCategory": true
+  },
+  {
+    "name": "Percentage Calculator",
+    "description": "Calculate percentages, discounts, and percentage changes easily.",
+    "url": "/math/percentage-calculator/",
+    "live": "yes",
+    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-percent size-5\"><line x1=\"19\" x2=\"5\" y1=\"5\" y2=\"19\"></line><circle cx=\"6.5\" cy=\"6.5\" r=\"2.5\"></circle><circle cx=\"17.5\" cy=\"17.5\" r=\"2.5\"></circle></svg>",
+    "isCategory": true
+  },
+  {
+    "name": "Fraction Calculator",
+    "description": "Perform arithmetic operations with fractions and mixed numbers.",
+    "url": "",
+    "live": "coming-soon",
+    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-divide size-5\"><circle cx=\"12\" cy=\"6\" r=\"1\"></circle><line x1=\"5\" x2=\"19\" y1=\"12\" y2=\"12\"></line><circle cx=\"12\" cy=\"18\" r=\"1\"></circle></svg>",
+    "isCategory": false
+  },
+  {
+    "name": "Geometry Calculator",
+    "description": "Calculate areas, perimeters, volumes of various geometric shapes.",
+    "url": "",
+    "live": "coming-soon",
+    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-triangle size-5\"><path d=\"M13.73 4a2 2 0 0 0-3.46 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z\"></path></svg>",
+    "isCategory": false
+  },
+  {
+    "name": "Algebra Calculator",
+    "description": "Solve equations, simplify expressions, and factor polynomials.",
+    "url": "",
+    "live": "coming-soon",
+    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-variable size-5\"><path d=\"M8 21s-4-3-4-9 4-9 4-9\"></path><path d=\"M16 3s4 3 4 9-4 9-4 9\"></path><line x1=\"15\" x2=\"9\" y1=\"9\" y2=\"15\"></line><line x1=\"9\" x2=\"15\" y1=\"9\" y2=\"15\"></line></svg>",
+    "isCategory": false
+  },
+  {
+    "name": "GPA Calculator",
+    "description": "Calculate your Grade Point Average (GPA) with weighted and unweighted options.",
+    "url": "/math/gpa-calculator/",
+    "live": "yes",
+    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-graduation-cap size-5\"><path d=\"M21.42 10.922a1 1 0 0 0-.019-1.838L12.83 5.18a2 2 0 0 0-1.66 0L2.6 9.08a1 1 0 0 0 0 1.832l8.57 3.908a2 2 0 0 0 1.66 0z\"></path><path d=\"M22 10v6\"></path><path d=\"M6 12.5V16a6 3 0 0 0 12 0v-3.5\"></path></svg>",
+    "isCategory": true
+  },
+  {
+    "name": "Interpolation Calculator",
+    "description": "Calculate interpolated values using linear and polynomial interpolation methods for data analysis.",
+    "url": "/math/interpolation-calculator/",
+    "live": "yes",
+    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-trending-up size-5\"><polyline points=\"22 7 13.5 15.5 8.5 10.5 2 17\"></polyline><polyline points=\"16 7 22 7 22 13\"></polyline></svg>",
+    "isCategory": true
+  },
+  {
+    "name": "Statistics Calculator",
+    "description": "Calculate mean, median, mode, and other statistical measures.",
+    "url": "",
+    "live": "coming-soon",
+    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-chart-column-increasing size-5\"><path d=\"M13 17V9\"></path><path d=\"M18 17V5\"></path><path d=\"M3 3v16a2 2 0 0 0 2 2h16\"></path><path d=\"M8 17v-3\"></path></svg>",
+    "isCategory": false
+  },
+  {
+    "name": "Matrix Calculator",
+    "description": "Perform matrix operations like addition, multiplication, and determinants.",
+    "url": "",
+    "live": "coming-soon",
+    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-grid3x3 size-5\"><rect width=\"18\" height=\"18\" x=\"3\" y=\"3\" rx=\"2\"></rect><path d=\"M3 9h18\"></path><path d=\"M3 15h18\"></path><path d=\"M9 3v18\"></path><path d=\"M15 3v18\"></path></svg>",
+    "isCategory": false
+  },
+  {
+    "name": "Probability Calculator",
+    "description": "Calculate probability, combinations, permutations, and odds.",
+    "url": "",
+    "live": "coming-soon",
+    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-circle-dot size-5\"><circle cx=\"12\" cy=\"12\" r=\"10\"></circle><circle cx=\"12\" cy=\"12\" r=\"1\"></circle></svg>",
+    "isCategory": false
+  },
+  {
+    "name": "Number Series Calculator",
+    "description": "Generate and analyze arithmetic, geometric, and other sequences.",
+    "url": "",
+    "live": "coming-soon",
+    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-sigma size-5\"><path d=\"M18 7V5a1 1 0 0 0-1-1H6.5a.5.5 0 0 0-.4.8l4.5 6a2 2 0 0 1 0 2.4l-4.5 6a.5.5 0 0 0 .4.8H17a1 1 0 0 0 1-1v-2\"></path></svg>",
+    "isCategory": false
+  },
+  {
+    "name": "Prime Number Calculator",
+    "description": "Check if a number is prime and find prime factors.",
+    "url": "",
+    "live": "coming-soon",
+    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-hash size-5\"><line x1=\"4\" x2=\"20\" y1=\"9\" y2=\"9\"></line><line x1=\"4\" x2=\"20\" y1=\"15\" y2=\"15\"></line><line x1=\"10\" x2=\"8\" y1=\"3\" y2=\"21\"></line><line x1=\"16\" x2=\"14\" y1=\"3\" y2=\"21\"></line></svg>",
+    "isCategory": false
+  },
+  {
+    "name": "Complex Number Calculator",
+    "description": "Perform calculations with complex numbers.",
+    "url": "",
+    "live": "coming-soon",
+    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-variable size-5\"><path d=\"M8 21s-4-3-4-9 4-9 4-9\"></path><path d=\"M16 3s4 3 4 9-4 9-4 9\"></path><line x1=\"15\" x2=\"9\" y1=\"9\" y2=\"15\"></line><line x1=\"9\" x2=\"15\" y1=\"9\" y2=\"15\"></line></svg>",
+    "isCategory": false
+  },
+  {
+    "name": "Ratio Calculator",
+    "description": "Calculate and simplify ratios, find equivalent ratios.",
+    "url": "",
+    "live": "coming-soon",
+    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-divide size-5\"><circle cx=\"12\" cy=\"6\" r=\"1\"></circle><line x1=\"5\" x2=\"19\" y1=\"12\" y2=\"12\"></line><circle cx=\"12\" cy=\"18\" r=\"1\"></circle></svg>",
+    "isCategory": false
+  },
+  {
+    "name": "Math 2D Shapes",
+    "description": "Calculate area, perimeter and properties of 2D shapes like circles, triangles, rectangles.",
+    "url": "",
+    "live": "coming-soon",
+    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-square size-5\"><rect width=\"18\" height=\"18\" x=\"3\" y=\"3\" rx=\"2\"></rect></svg>",
+    "isCategory": false
+  }
+]

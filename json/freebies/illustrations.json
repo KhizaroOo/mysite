@@ -1,0 +1,812 @@
+[
+  {
+    "name": "transhumans",
+    "description": "",
+    "url": "https://www.transhumans.xyz",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703371694/freesets/illustrations/i2s0aktg4cxjadcggdkz.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.transhumans.xyz&sz=128",
+    "color": "#20c928",
+    "extraLinks": [
+      {
+        "text": "CC0",
+        "href": "https://www.transhumans.xyz"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Open Doodles",
+    "description": "",
+    "url": "https://www.opendoodles.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/illustrations/opendoodles",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.opendoodles.com&sz=128",
+    "color": "#20c928",
+    "extraLinks": [
+      {
+        "text": "CC0",
+        "href": "https://www.opendoodles.com"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Open Peeps",
+    "description": "",
+    "url": "https://www.openpeeps.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1705769882/freesets/illustrations/pjkh9luocxnzvbjzciay.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.openpeeps.com&sz=128",
+    "color": "#20c928",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Reshot",
+    "description": "Items under the Reshot Free License can be used in your commercial and non-commercial projects, for free.",
+    "url": "https://www.reshot.com/free-vector-illustrations/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/illustrations/reshot",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.reshot.com/free-vector-illustrations/&sz=128",
+    "color": "#20c928",
+    "extraLinks": [
+      {
+        "text": "Reshot Free License",
+        "href": "https://www.reshot.com/license/"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "IllustrationKit",
+    "description": "You can use all the illustrations on 'illustration kit' in your personal projects and projects for your clients. No attribution is required although it's appreciated.",
+    "url": "https://illustrationkit.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1705801178/freesets/illustrations/gbizkz4urhlgioz60okp.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://illustrationkit.com&sz=128",
+    "color": "#20c928",
+    "extraLinks": [
+      {
+        "text": "Free",
+        "href": "https://illustrationkit.com/license"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Humaaans",
+    "description": "",
+    "url": "https://www.humaaans.com/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/illustrations/humaaans",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.humaaans.com/&sz=128",
+    "color": "#20c928",
+    "extraLinks": [
+      {
+        "text": "CC0",
+        "href": "https://www.humaaans.com/"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "CocoMaterial",
+    "description": "",
+    "url": "https://cocomaterial.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1704377508/freesets/illustrations/dlhgd4ufz6vff0ykbl2m.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://cocomaterial.com&sz=128",
+    "color": "#20c928",
+    "extraLinks": [
+      {
+        "text": "CC0",
+        "href": "https://cocomaterial.com/license"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "DrawKit",
+    "description": "Free for Personal and Commercial. No attribution required.",
+    "url": "https://www.drawkit.com/?pricing-type=Free",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/illustrations/drawkit",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.drawkit.com/?pricing-type=Free&sz=128",
+    "color": "#20c928",
+    "extraLinks": [
+      {
+        "text": "DrawKit License",
+        "href": "https://www.drawkit.com/license"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Iradesign",
+    "description": "",
+    "url": "https://iradesign.io",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/illustrations/iradesign",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://iradesign.io&sz=128",
+    "color": "#20c928",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://iradesign.io"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "SVG Repo",
+    "description": "",
+    "url": "https://www.svgrepo.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/icons/svgrepo",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.svgrepo.com&sz=128",
+    "color": "#20c928",
+    "extraLinks": [
+      {
+        "text": "Multiple",
+        "href": "https://www.svgrepo.com/page/licensing"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Scribbles",
+    "description": "",
+    "url": "https://illustrations.run",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1704588205/freesets/illustrations/hslkb98bbnal2tubllug.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://illustrations.run&sz=128",
+    "color": "#20c928",
+    "extraLinks": [],
+    "tags": [
+      "Doodles"
+    ]
+  },
+  {
+    "name": "Illlustrations",
+    "description": "",
+    "url": "https://illlustrations.co/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703792772/freesets/illustrations/aevj5uxfubskcnhhr0nu.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://illlustrations.co/&sz=128",
+    "color": "#20c928",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://illlustrations.co/license/"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Big Heads",
+    "description": "",
+    "url": "https://bigheads.io",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/illustrations/bigheads",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://bigheads.io&sz=128",
+    "color": "#20c928",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/RobertBroersma/bigheads/blob/main/LICENSE"
+      }
+    ],
+    "tags": [
+      "Avatars",
+      "Package"
+    ]
+  },
+  {
+    "name": "GEE! ME",
+    "description": "",
+    "url": "https://geeme.vercel.app/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/illustrations/geeme",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://geeme.vercel.app/&sz=128",
+    "color": "#20c928",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Notion Avatar Maker",
+    "description": "",
+    "url": "https://notion-avatar.vercel.app",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1706564268/freesets/illustrations/ad2ipzy12ydj5hfxepb1.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://notion-avatar.vercel.app&sz=128",
+    "color": "#20c928",
+    "extraLinks": [],
+    "tags": [
+      "Avatars"
+    ]
+  },
+  {
+    "name": "Public Work by Cosmos",
+    "description": "",
+    "url": "https://public.work/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/photos/publicwork",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://public.work/&sz=128",
+    "color": "#20c928",
+    "extraLinks": [],
+    "tags": [
+      "Vintage"
+    ]
+  },
+  {
+    "name": "Pixabay",
+    "description": "Free for commercial and noncommercial use. Attribution is not required",
+    "url": "https://pixabay.com/illustrations/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/illustrations/pixabay",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://pixabay.com/illustrations/&sz=128",
+    "color": "#20c928",
+    "extraLinks": [
+      {
+        "text": "Pixabay License",
+        "href": "https://pixabay.com/service/license/"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "ManyPixels",
+    "description": "You can use the illustrations in any project, commercial or personal without attribution or any costs.",
+    "url": "https://www.manypixels.co/gallery",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703792702/freesets/illustrations/xg576ceqevpo4ysfrq92.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.manypixels.co/gallery&sz=128",
+    "color": "#20c928",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Shapefest",
+    "description": "",
+    "url": "https://www.shapefest.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/illustrations/shapefest",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.shapefest.com&sz=128",
+    "color": "#20c928",
+    "extraLinks": [
+      {
+        "text": "Shapefest™ Commercial",
+        "href": "https://www.shapefest.com/license-agreement"
+      }
+    ],
+    "tags": [
+      "3D"
+    ]
+  },
+  {
+    "name": "coolshapes",
+    "description": "",
+    "url": "https://coolshap.es/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/illustrations/coolshap",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://coolshap.es/&sz=128",
+    "color": "#20c928",
+    "extraLinks": [],
+    "tags": [
+      "Package",
+      "Logos"
+    ]
+  },
+  {
+    "name": "Khagwal 3D",
+    "description": "",
+    "url": "https://3d.khagwal.com/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/illustrations/khagwal",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://3d.khagwal.com/&sz=128",
+    "color": "#20c928",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Doodle Ipsum",
+    "description": "You can use Illustrations for commercial and non-commercial purposes.",
+    "url": "https://doodleipsum.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1704587758/freesets/illustrations/mqacxlkhnjwt2c08nvin.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://doodleipsum.com&sz=128",
+    "color": "#20c928",
+    "extraLinks": [
+      {
+        "text": "Free",
+        "href": "https://blush.design/license"
+      }
+    ],
+    "tags": [
+      "Doodles"
+    ]
+  },
+  {
+    "name": "Flexiple illustrations",
+    "description": "Put simply, use it in any project. No attribution needed.\\nCommercial, academic or your pet project, doesn't matter, use Scale's illustrations without attribution.",
+    "url": "https://flexiple.com/illustrations/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/illustrations/flexiple",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://flexiple.com/illustrations/&sz=128",
+    "color": "#20c928",
+    "extraLinks": [
+      {
+        "text": "Free",
+        "href": "https://flexiple.com/illustrations/"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Shapes",
+    "description": "",
+    "url": "https://shapes.framer.website",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1704587990/freesets/illustrations/mezhdpcgrgwri14okctx.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://shapes.framer.website&sz=128",
+    "color": "#20c928",
+    "extraLinks": [],
+    "tags": [
+      "Logos"
+    ]
+  },
+  {
+    "name": "Logoipsum",
+    "description": "",
+    "url": "https://logoipsum.com/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/illustrations/logoipsum",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://logoipsum.com/&sz=128",
+    "color": "#20c928",
+    "extraLinks": [],
+    "tags": [
+      "Placeholder logos"
+    ]
+  },
+  {
+    "name": "Kapwing",
+    "description": "",
+    "url": "https://www.kapwing.com/404-illustrations",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/illustrations/kapwing404",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.kapwing.com/404-illustrations&sz=128",
+    "color": "#20c928",
+    "extraLinks": [],
+    "tags": [
+      "404"
+    ]
+  },
+  {
+    "name": "unDraw",
+    "description": "You can use the illustrations in any project, commercial or personal without attribution or any costs",
+    "url": "https://undraw.co/illustrations",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/illustrations/undraw",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://undraw.co/illustrations&sz=128",
+    "color": "#20c928",
+    "extraLinks": [
+      {
+        "text": "Free",
+        "href": "https://undraw.co/license"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Theme Isle",
+    "description": "All images and vectors published on Themeisle can be used for free. You can use them for noncommercial and commercial purposes.",
+    "url": "https://themeisle.com/illustrations/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/illustrations/themeisle",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://themeisle.com/illustrations/&sz=128",
+    "color": "#20c928",
+    "extraLinks": [
+      {
+        "text": "Free",
+        "href": "https://themeisle.com/illustrations/"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Surface Pack",
+    "description": "",
+    "url": "https://www.figma.com/community/file/883778082594341562",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703371292/freesets/illustrations/t9xk78m50oomndiuojig.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.figma.com/community/file/883778082594341562&sz=128",
+    "color": "#20c928",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Ultima",
+    "description": "All illustrations are available for use in any commercial and personal projects.",
+    "url": "https://ultima.storytale.io",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1705091883/freesets/illustrations/csupf4kdrz9vcxxvhrm3.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://ultima.storytale.io&sz=128",
+    "color": "#20c928",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Heritage Library",
+    "description": "The graphic elements may be used to create physical end products for sale with a maximum of 10.000 units. You can use the graphic elements for multiple projects and multiple clients as far as the maximum of units for sale remains under 10.000.",
+    "url": "https://www.heritagetype.com/pages/free-vintage-illustrations",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1704584516/freesets/illustrations/nwcd494bbjvpsczg2pym.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.heritagetype.com/pages/free-vintage-illustrations&sz=128",
+    "color": "#20c928",
+    "extraLinks": [
+      {
+        "text": "Free",
+        "href": "https://www.heritagetype.com/pages/licensing#graphic_elements"
+      }
+    ],
+    "tags": [
+      "Vintage"
+    ]
+  },
+  {
+    "name": "Svg Doodle",
+    "description": "You can use all icons in your commercial works without attribution.You can find svg brush icon, svg arrow icon, svg circles icon, svg abstract icon, lines svg icons on the site. It just doesn’t allow it to be resold",
+    "url": "https://svgicon.net",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1704821365/freesets/illustrations/bit2rozfujx0aa77g3o8.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://svgicon.net&sz=128",
+    "color": "#20c928",
+    "extraLinks": [],
+    "tags": [
+      "Doodles"
+    ]
+  },
+  {
+    "name": "Open Stickers",
+    "description": "Free for commercial and personal use under Craftwork License",
+    "url": "https://openstickers.craftwork.design/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1705092779/freesets/illustrations/yzt02hxbddqe2kxwfh3n.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://openstickers.craftwork.design/&sz=128",
+    "color": "#20c928",
+    "extraLinks": [
+      {
+        "text": "Free",
+        "href": "https://craftwork.design/license/"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Highlights",
+    "description": "",
+    "url": "https://www.highlights.design",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703789155/freesets/illustrations/msfjc9haujrccyecnk1m.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.highlights.design&sz=128",
+    "color": "#20c928",
+    "extraLinks": [
+      {
+        "text": "CC0",
+        "href": "https://www.highlights.design"
+      }
+    ],
+    "tags": [
+      "Doodles"
+    ]
+  },
+  {
+    "name": "Spectrum",
+    "description": "",
+    "url": "https://spectrums.framer.website/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/icons/spectrums",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://spectrums.framer.website/&sz=128",
+    "color": "#20c928",
+    "extraLinks": [],
+    "tags": [
+      "Logos"
+    ]
+  },
+  {
+    "name": "Hand Drawn Arrows",
+    "description": "",
+    "url": "https://handyarrows.com/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/illustrations/handyarrows",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://handyarrows.com/&sz=128",
+    "color": "#20c928",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Comic Book Illustrations",
+    "description": "",
+    "url": "https://oblikstudio.gumroad.com/l/lmYSZ",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1704386161/freesets/illustrations/pxccleycrmcdrkhq3ctc.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://oblikstudio.gumroad.com/l/lmYSZ&sz=128",
+    "color": "#20c928",
+    "extraLinks": [],
+    "tags": [
+      "Comic"
+    ]
+  },
+  {
+    "name": "uilogos",
+    "description": "",
+    "url": "https://www.uilogos.co/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/illustrations/uilogos",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.uilogos.co/&sz=128",
+    "color": "#20c928",
+    "extraLinks": [
+      {
+        "text": "CC BY 4.0",
+        "href": "https://github.com/realvjy/uilogos.co/blob/main/LICENSE.md"
+      }
+    ],
+    "tags": [
+      "Placeholder logos"
+    ]
+  },
+  {
+    "name": "Illustrations vol.1",
+    "description": "Use freebie resources for any personal and commercial projects... No attribution or link to this site is required but any credit will be highly appreciated.",
+    "url": "https://petrbilek.gumroad.com/l/illustrations-vol-1",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703372745/freesets/illustrations/bpqupesrwq1802w95dje.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://petrbilek.gumroad.com/l/illustrations-vol-1&sz=128",
+    "color": "#20c928",
+    "extraLinks": [
+      {
+        "text": "Free",
+        "href": "https://petrbilek.gumroad.com/l/illustrations-vol-1"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Halftone Illustrations",
+    "description": "",
+    "url": "https://oblikstudio.gumroad.com/l/QZlSv",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703793148/freesets/illustrations/ttfyzejpvzcpqeofuaga.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://oblikstudio.gumroad.com/l/QZlSv&sz=128",
+    "color": "#20c928",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "LukaszAdam Illustrations",
+    "description": "",
+    "url": "https://lukaszadam.com/illustrations",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/illustrations/lukaszadam",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://lukaszadam.com/illustrations&sz=128",
+    "color": "#20c928",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "LottieFiles",
+    "description": "",
+    "url": "https://lottiefiles.com/featured",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1705802516/freesets/illustrations/vf9nfhugpnemyw294hpb.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://lottiefiles.com/featured&sz=128",
+    "color": "#20c928",
+    "extraLinks": [],
+    "tags": [
+      "Animated"
+    ]
+  },
+  {
+    "name": "Remote Work Illustrations",
+    "description": "",
+    "url": "https://oblikstudio.gumroad.com/l/remote-work-illustrations-by-oblik-studio",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1704386489/freesets/illustrations/q0pyimh0idu2g3it2dwa.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://oblikstudio.gumroad.com/l/remote-work-illustrations-by-oblik-studio&sz=128",
+    "color": "#20c928",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Sneakers Vector Set",
+    "description": "",
+    "url": "https://oblikstudio.gumroad.com/l/sneakers-vector-set",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1704386365/freesets/illustrations/ilwjm47oyxzjfp7ryxzp.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://oblikstudio.gumroad.com/l/sneakers-vector-set&sz=128",
+    "color": "#20c928",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Avatar U",
+    "description": "",
+    "url": "https://avatar-u.webflow.io",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1705800238/freesets/illustrations/pysxtdzabt5tibygkhaz.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://avatar-u.webflow.io&sz=128",
+    "color": "#20c928",
+    "extraLinks": [],
+    "tags": [
+      "Avatars"
+    ]
+  },
+  {
+    "name": "Flower Patterns",
+    "description": "",
+    "url": "https://www.figma.com/community/file/998877405686984862",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/illustrations/orezbvbpqtjombu9okqb",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.figma.com/community/file/998877405686984862&sz=128",
+    "color": "#20c928",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "SVG DOODLES",
+    "description": "",
+    "url": "https://svgdoodles.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1704587638/freesets/illustrations/qz847dmbbs6j1fuhy8e9.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://svgdoodles.com&sz=128",
+    "color": "#20c928",
+    "extraLinks": [],
+    "tags": [
+      "Doodles"
+    ]
+  },
+  {
+    "name": "Fresh Folk",
+    "description": "",
+    "url": "https://fresh-folk.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/illustrations/freshfolk",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://fresh-folk.com&sz=128",
+    "color": "#20c928",
+    "extraLinks": [
+      {
+        "text": "CC BY-NC-ND 4.0",
+        "href": "https://fresh-folk.com"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Humanities",
+    "description": "",
+    "url": "https://levinunnink.gumroad.com/l/humanities-illustrations",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703793037/freesets/illustrations/p8lxjt4esu2m2qp2e8my.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://levinunnink.gumroad.com/l/humanities-illustrations&sz=128",
+    "color": "#20c928",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Free Userpics Pack",
+    "description": "",
+    "url": "https://userpics.craftwork.design/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/illustrations/freepack",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://userpics.craftwork.design/&sz=128",
+    "color": "#20c928",
+    "extraLinks": [],
+    "tags": [
+      "Avatars"
+    ]
+  },
+  {
+    "name": "Sketchvalley",
+    "description": "",
+    "url": "https://sketchvalley.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1704584818/freesets/illustrations/vinewnev3m9hz7xu4l3v.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://sketchvalley.com&sz=128",
+    "color": "#20c928",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Personas by Draftbit",
+    "description": "",
+    "url": "https://personas.draftbit.com/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/illustrations/personas",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://personas.draftbit.com/&sz=128",
+    "color": "#20c928",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Memojis",
+    "description": "",
+    "url": "https://www.figma.com/community/plugin/1090391796325905912/memojis",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/illustrations/memojis",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.figma.com/community/plugin/1090391796325905912/memojis&sz=128",
+    "color": "#20c928",
+    "extraLinks": [],
+    "tags": [
+      "Avatars",
+      "3D"
+    ]
+  },
+  {
+    "name": "Designs AI",
+    "description": "",
+    "url": "https://designs.ai/graphicmaker",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/illustrations/designsai",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://designs.ai/graphicmaker&sz=128",
+    "color": "#20c928",
+    "extraLinks": [
+      {
+        "text": "Free with attribution",
+        "href": "https://designs.ai/dos-and-donts"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Iconfinder",
+    "description": "",
+    "url": "https://www.iconfinder.com/search?q=&price=free",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/illustrations/iconfinder",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.iconfinder.com/search?q=&price=free&sz=128",
+    "color": "#20c928",
+    "extraLinks": [
+      {
+        "text": "Multiple",
+        "href": "https://www.iconfinder.com/search?q=&price=free"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Streamline Illustrations",
+    "description": "Free for commercial and personal use WITH ATTRIBUTION",
+    "url": "https://www.streamlinehq.com/illustrations",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/illustrations/streamline",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.streamlinehq.com/illustrations&sz=128",
+    "color": "#20c928",
+    "extraLinks": [
+      {
+        "text": "CC by 4.0",
+        "href": "https://www.streamlinehq.com/license-free"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Cartoon Hands",
+    "description": "",
+    "url": "https://www.figma.com/community/file/990218169140929445",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703371132/freesets/illustrations/rmj8enmxzugaagvizpd4.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.figma.com/community/file/990218169140929445&sz=128",
+    "color": "#20c928",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Porto Illustrations",
+    "description": "",
+    "url": "https://kapustinco.gumroad.com/l/xHIbD",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703371540/freesets/illustrations/evogpioehpgkmmllh3ox.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://kapustinco.gumroad.com/l/xHIbD&sz=128",
+    "color": "#20c928",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Items.Design",
+    "description": "",
+    "url": "https://items.design/category/free",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/illustrations/itemsdesign",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://items.design/category/free&sz=128",
+    "color": "#20c928",
+    "extraLinks": [
+      {
+        "text": "Freemium",
+        "href": "https://items.design/usage-license"
+      }
+    ],
+    "tags": [
+      "3D",
+      "IA"
+    ]
+  },
+  {
+    "name": "Notion Avatar",
+    "description": "",
+    "url": "https://www.figma.com/community/file/1159777445438667306",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1705800496/freesets/illustrations/lodfv721ek2wuedc94oz.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.figma.com/community/file/1159777445438667306&sz=128",
+    "color": "#20c928",
+    "extraLinks": [],
+    "tags": [
+      "Avatars"
+    ]
+  },
+  {
+    "name": "Lifestyle Illustrations",
+    "description": "",
+    "url": "https://kapustinco.gumroad.com/l/IRkNK",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/illustrations/y8nwlbsutlnejuwrhv2q",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://kapustinco.gumroad.com/l/IRkNK&sz=128",
+    "color": "#20c928",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Storyset",
+    "description": "",
+    "url": "https://storyset.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/illustrations/storyset",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://storyset.com&sz=128",
+    "color": "#20c928",
+    "extraLinks": [
+      {
+        "text": "Free with attribution.",
+        "href": "https://storyset.com/faqs"
+      }
+    ],
+    "tags": []
+  }
+]

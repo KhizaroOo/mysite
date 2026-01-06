@@ -1,0 +1,488 @@
+[
+  {
+    "type": "Dev & Code Tools",
+    "description": "Essential tools for developers to code, debug, and optimize faster.",
+    "tools": [
+      {
+        "name": "Code Formatter",
+        "description": "Format JSON, HTML, CSS, JS, and more instantly.",
+        "url": "/tools/code-formatter"
+      },
+      {
+        "name": "Minifier",
+        "description": "Minify JavaScript, CSS, and HTML for performance.",
+        "url": "/tools/minifier"
+      },
+      {
+        "name": "Regex Generator",
+        "description": "Generate and test regular expressions easily.",
+        "url": "/tools/regex-generator"
+      },
+      {
+        "name": "UUID Generator",
+        "description": "Generate unique IDs for apps and databases.",
+        "url": "/tools/uuid-generator"
+      },
+      {
+        "name": "Base64 Encoder/Decoder",
+        "description": "Encode or decode Base64 strings instantly.",
+        "url": "/tools/base64"
+      },
+      {
+        "name": "Hash Generator",
+        "description": "Generate MD5, SHA1, or SHA256 hashes quickly.",
+        "url": "/tools/hash-generator"
+      },
+      {
+        "name": "API Tester",
+        "description": "Test REST and GraphQL APIs with ease.",
+        "url": "/tools/api-tester"
+      },
+      {
+        "name": "JSON Converter",
+        "description": "Convert JSON to CSV, XML, or YAML formats.",
+        "url": "/tools/json-converter"
+      },
+      {
+        "name": "Code Diff Checker",
+        "description": "Compare and find differences between code snippets.",
+        "url": "/tools/code-diff"
+      },
+      {
+        "name": "Cron Expression Builder",
+        "description": "Generate cron job expressions easily.",
+        "url": "/tools/cron-builder"
+      },
+      {
+        "name": "HTML Encoder/Decoder",
+        "description": "Encode or decode HTML entities quickly.",
+        "url": "/tools/html-encoder"
+      },
+      {
+        "name": "JWT Decoder",
+        "description": "Decode and inspect JSON Web Tokens.",
+        "url": "/tools/jwt-decoder"
+      },
+      {
+        "name": "YAML to JSON",
+        "description": "Convert YAML files into JSON format instantly.",
+        "url": "/tools/yaml-to-json"
+      },
+      {
+        "name": "SQL Formatter",
+        "description": "Beautify and format SQL queries.",
+        "url": "/tools/sql-formatter"
+      },
+      {
+        "name": "CSV Formatter",
+        "description": "Format and clean CSV data for readability.",
+        "url": "/tools/csv-formatter"
+      }
+    ]
+  },
+  {
+    "type": "Design & Visual Tools",
+    "description": "Creative tools to design, style, and visualize ideas beautifully.",
+    "tools": [
+      {
+        "name": "Color Palette Generator",
+        "description": "Create and explore unique color palettes.",
+        "url": "/tools/color-palette"
+      },
+      {
+        "name": "Font Pairing Tool",
+        "description": "Find perfect font pairings for your projects.",
+        "url": "/tools/font-pairing"
+      },
+      {
+        "name": "Image Compressor",
+        "description": "Reduce image file size without losing quality.",
+        "url": "/tools/image-compressor"
+      },
+      {
+        "name": "Background Remover",
+        "description": "Remove image backgrounds instantly online.",
+        "url": "/tools/background-remover"
+      },
+      {
+        "name": "Mockup Generator",
+        "description": "Create device and UI mockups in minutes.",
+        "url": "/tools/mockup-generator"
+      },
+      {
+        "name": "Favicon Generator",
+        "description": "Turn any image into a browser favicon.",
+        "url": "/tools/favicon-generator"
+      },
+      {
+        "name": "SVG Optimizer",
+        "description": "Optimize and clean SVG code for web use.",
+        "url": "/tools/svg-optimizer"
+      },
+      {
+        "name": "Logo Maker",
+        "description": "Design simple logos online for free.",
+        "url": "/tools/logo-maker"
+      },
+      {
+        "name": "Image Resizer",
+        "description": "Resize images to any custom dimension.",
+        "url": "/tools/image-resizer"
+      },
+      {
+        "name": "CSS Gradient Generator",
+        "description": "Generate CSS gradients for backgrounds.",
+        "url": "/tools/css-gradient"
+      },
+      {
+        "name": "Shadow Generator",
+        "description": "Create custom CSS shadows visually.",
+        "url": "/tools/css-shadow"
+      },
+      {
+        "name": "Pattern Generator",
+        "description": "Generate geometric and seamless patterns.",
+        "url": "/tools/pattern-generator"
+      },
+      {
+        "name": "Icon Finder",
+        "description": "Search and download free vector icons.",
+        "url": "/tools/icon-finder"
+      },
+      {
+        "name": "Meme Generator",
+        "description": "Create custom memes instantly online.",
+        "url": "/tools/meme-generator"
+      },
+      {
+        "name": "GIF Maker",
+        "description": "Turn images or videos into GIFs quickly.",
+        "url": "/tools/gif-maker"
+      }
+    ]
+  },
+  {
+    "type": "Data & Number Tools",
+    "description": "Powerful calculators and converters for data, numbers, and stats.",
+    "tools": [
+      {
+        "name": "Unit Converter",
+        "description": "Convert between length, weight, and more.",
+        "url": "/tools/unit-converter"
+      },
+      {
+        "name": "Currency Converter",
+        "description": "Convert real-time currency exchange rates.",
+        "url": "/tools/currency-converter"
+      },
+      {
+        "name": "Loan Calculator",
+        "description": "Calculate EMI, loan, and interest payments.",
+        "url": "/tools/loan-calculator"
+      },
+      {
+        "name": "Statistics Tool",
+        "description": "Find mean, median, mode, and standard deviation.",
+        "url": "/tools/statistics"
+      },
+      {
+        "name": "CSV to JSON",
+        "description": "Convert CSV data into JSON instantly.",
+        "url": "/tools/csv-to-json"
+      },
+      {
+        "name": "Random Generator",
+        "description": "Generate random numbers, values, or lists.",
+        "url": "/tools/random-generator"
+      },
+      {
+        "name": "Probability Calculator",
+        "description": "Calculate permutations, combinations, and odds.",
+        "url": "/tools/probability"
+      },
+      {
+        "name": "Prime Number Checker",
+        "description": "Check if a number is prime instantly.",
+        "url": "/tools/prime-checker"
+      },
+      {
+        "name": "Matrix Calculator",
+        "description": "Perform matrix operations easily.",
+        "url": "/tools/matrix-calculator"
+      },
+      {
+        "name": "Percentage Calculator",
+        "description": "Calculate percentages and ratios easily.",
+        "url": "/tools/percentage"
+      },
+      {
+        "name": "Fraction Converter",
+        "description": "Convert fractions into decimals or percentages.",
+        "url": "/tools/fraction-converter"
+      },
+      {
+        "name": "Exponent Calculator",
+        "description": "Solve exponent and power equations.",
+        "url": "/tools/exponent-calculator"
+      },
+      {
+        "name": "Number Base Converter",
+        "description": "Convert between binary, octal, decimal, and hex.",
+        "url": "/tools/base-converter"
+      },
+      {
+        "name": "Roman Numeral Converter",
+        "description": "Convert numbers to and from Roman numerals.",
+        "url": "/tools/roman-converter"
+      },
+      {
+        "name": "Date Difference Calculator",
+        "description": "Find the difference between two dates.",
+        "url": "/tools/date-diff"
+      }
+    ]
+  },
+  {
+    "type": "Writing & Content Tools",
+    "description": "Smart tools for writing, editing, and creating better content.",
+    "tools": [
+      {
+        "name": "Text Case Converter",
+        "description": "Convert text to upper, lower, or title case.",
+        "url": "/tools/text-case"
+      },
+      {
+        "name": "Word Counter",
+        "description": "Count words, characters, and sentences instantly.",
+        "url": "/tools/word-counter"
+      },
+      {
+        "name": "SEO Meta Tag Generator",
+        "description": "Generate SEO-friendly meta tags easily.",
+        "url": "/tools/seo-meta"
+      },
+      {
+        "name": "Blog Title Generator",
+        "description": "Create catchy headlines and blog titles.",
+        "url": "/tools/blog-title"
+      },
+      {
+        "name": "Markdown Previewer",
+        "description": "Preview Markdown files in real time.",
+        "url": "/tools/markdown-previewer"
+      },
+      {
+        "name": "Emoji Picker",
+        "description": "Copy and use emojis anywhere online.",
+        "url": "/tools/emoji-picker"
+      },
+      {
+        "name": "Language Translator",
+        "description": "Translate text into multiple languages.",
+        "url": "/tools/translator"
+      },
+      {
+        "name": "Grammar Checker",
+        "description": "Check and fix grammar mistakes in text.",
+        "url": "/tools/grammar-checker"
+      },
+      {
+        "name": "Plagiarism Checker",
+        "description": "Detect duplicate or copied content easily.",
+        "url": "/tools/plagiarism-checker"
+      },
+      {
+        "name": "Readability Checker",
+        "description": "Check the readability score of your text.",
+        "url": "/tools/readability"
+      },
+      {
+        "name": "Keyword Density Checker",
+        "description": "Analyze keyword frequency in text.",
+        "url": "/tools/keyword-density"
+      },
+      {
+        "name": "Sentence Rewriter",
+        "description": "Rewrite sentences for better clarity.",
+        "url": "/tools/sentence-rewriter"
+      },
+      {
+        "name": "Hashtag Generator",
+        "description": "Generate hashtags for social media content.",
+        "url": "/tools/hashtag-generator"
+      },
+      {
+        "name": "Caption Generator",
+        "description": "Create captions for posts and images.",
+        "url": "/tools/caption-generator"
+      },
+      {
+        "name": "Text to Speech",
+        "description": "Convert written text into spoken voice.",
+        "url": "/tools/text-to-speech"
+      }
+    ]
+  },
+  {
+    "type": "Security & Utility Tools",
+    "description": "Protect, secure, and manage your digital life with smart utilities.",
+    "tools": [
+      {
+        "name": "Password Generator",
+        "description": "Create strong and secure passwords instantly.",
+        "url": "/tools/password-generator"
+      },
+      {
+        "name": "Password Strength Checker",
+        "description": "Check how strong and secure your password is.",
+        "url": "/tools/password-checker"
+      },
+      {
+        "name": "IP Address Lookup",
+        "description": "Find your public or private IP address easily.",
+        "url": "/tools/ip-lookup"
+      },
+      {
+        "name": "WHOIS Lookup",
+        "description": "Check domain ownership and WHOIS records.",
+        "url": "/tools/whois-lookup"
+      },
+      {
+        "name": "DNS Checker",
+        "description": "Check and troubleshoot DNS records instantly.",
+        "url": "/tools/dns-checker"
+      },
+      {
+        "name": "SSL Certificate Checker",
+        "description": "Verify SSL certificates for any website.",
+        "url": "/tools/ssl-checker"
+      },
+      {
+        "name": "URL Encoder/Decoder",
+        "description": "Encode or decode URLs for web use.",
+        "url": "/tools/url-encoder"
+      },
+      {
+        "name": "IP Geolocation",
+        "description": "Locate an IP address with country and city info.",
+        "url": "/tools/ip-geolocation"
+      },
+      {
+        "name": "File Hash Checker",
+        "description": "Generate and compare file hashes for integrity.",
+        "url": "/tools/file-hash"
+      },
+      {
+        "name": "QR Code Generator",
+        "description": "Create QR codes for links, text, or WiFi info.",
+        "url": "/tools/qr-generator"
+      },
+      {
+        "name": "Barcode Generator",
+        "description": "Generate barcodes for retail or logistics use.",
+        "url": "/tools/barcode-generator"
+      },
+      {
+        "name": "Ping Tool",
+        "description": "Check website or server connectivity easily.",
+        "url": "/tools/ping"
+      },
+      {
+        "name": "Port Scanner",
+        "description": "Scan open ports on servers and devices.",
+        "url": "/tools/port-scanner"
+      },
+      {
+        "name": "Email Validator",
+        "description": "Check if an email address is valid and active.",
+        "url": "/tools/email-validator"
+      },
+      {
+        "name": "Disposable Email Generator",
+        "description": "Create temporary email addresses for privacy.",
+        "url": "/tools/temp-email"
+      }
+    ]
+  },
+  {
+    "type": "Everyday Life Tools",
+    "description": "Practical online tools to simplify and organize daily life.",
+    "tools": [
+      {
+        "name": "To-Do List Maker",
+        "description": "Create and manage tasks and checklists online.",
+        "url": "/tools/todo-list"
+      },
+      {
+        "name": "Pomodoro Timer",
+        "description": "Boost focus with the Pomodoro technique timer.",
+        "url": "/tools/pomodoro"
+      },
+      {
+        "name": "BMI Calculator",
+        "description": "Calculate Body Mass Index for health tracking.",
+        "url": "/tools/bmi"
+      },
+      {
+        "name": "Calorie Counter",
+        "description": "Track daily calorie intake and nutrition.",
+        "url": "/tools/calorie-counter"
+      },
+      {
+        "name": "Recipe Finder",
+        "description": "Find recipes by ingredients you have at home.",
+        "url": "/tools/recipe-finder"
+      },
+      {
+        "name": "Meal Planner",
+        "description": "Plan your weekly meals and diet schedule.",
+        "url": "/tools/meal-planner"
+      },
+      {
+        "name": "Workout Timer",
+        "description": "Set custom workout and rest intervals.",
+        "url": "/tools/workout-timer"
+      },
+      {
+        "name": "Habit Tracker",
+        "description": "Track and build positive daily habits.",
+        "url": "/tools/habit-tracker"
+      },
+      {
+        "name": "Shopping List Generator",
+        "description": "Make organized shopping lists instantly.",
+        "url": "/tools/shopping-list"
+      },
+      {
+        "name": "Travel Expense Splitter",
+        "description": "Split travel expenses among friends easily.",
+        "url": "/tools/expense-splitter"
+      },
+      {
+        "name": "Tip Calculator",
+        "description": "Calculate restaurant tips and bill splits.",
+        "url": "/tools/tip-calculator"
+      },
+      {
+        "name": "Baby Name Finder",
+        "description": "Discover unique and popular baby names.",
+        "url": "/tools/baby-names"
+      },
+      {
+        "name": "Event Countdown",
+        "description": "Create countdowns for birthdays, events, and more.",
+        "url": "/tools/countdown"
+      },
+      {
+        "name": "Weather Dashboard",
+        "description": "Check live weather forecasts anywhere.",
+        "url": "/tools/weather"
+      },
+      {
+        "name": "Pet Age Calculator",
+        "description": "Convert pet age into human age equivalent.",
+        "url": "/tools/pet-age"
+      }
+    ]
+  }
+]

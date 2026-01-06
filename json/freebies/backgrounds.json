@@ -1,0 +1,418 @@
+[
+  {
+    "name": "bg.ibelick",
+    "description": "",
+    "url": "https://bg.ibelick.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703614372/freesets/backgrounds/byn5pbw6ikqp95yyyske.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://bg.ibelick.com&sz=128",
+    "color": "#5345f7",
+    "extraLinks": [],
+    "tags": [
+      "Tailwind"
+    ]
+  },
+  {
+    "name": "UVCanvas",
+    "description": "",
+    "url": "https://uvcanvas.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/backgrounds/uvcanvas",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://uvcanvas.com&sz=128",
+    "color": "#5345f7",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/latentcat/uvcanvas?tab=readme-ov-file#license"
+      }
+    ],
+    "tags": [
+      "React",
+      "Package"
+    ]
+  },
+  {
+    "name": "CSS Background Patterns",
+    "description": "",
+    "url": "https://www.magicpattern.design/tools/css-backgrounds",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/backgrounds/csspatterns",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.magicpattern.design/tools/css-backgrounds&sz=128",
+    "color": "#5345f7",
+    "extraLinks": [
+      {
+        "text": "Multiple",
+        "href": "https://www.magicpattern.design/terms"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "ColorBeta",
+    "description": "",
+    "url": "https://colorbeta.com/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/colors/colorbeta",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://colorbeta.com/&sz=128",
+    "color": "#5345f7",
+    "extraLinks": [],
+    "tags": [
+      "Gradients"
+    ]
+  },
+  {
+    "name": "Mazeletter",
+    "description": "",
+    "url": "http://mazeletter.xyz/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/backgrounds/mazeletter",
+    "favicon": "https://www.google.com/s2/favicons?domain=http://mazeletter.xyz/&sz=128",
+    "color": "#5345f7",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Shader Gradient",
+    "description": "",
+    "url": "https://www.shadergradient.co/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/backgrounds/shadergradient",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.shadergradient.co/&sz=128",
+    "color": "#5345f7",
+    "extraLinks": [],
+    "tags": [
+      "React",
+      "Framer",
+      "Figma"
+    ]
+  },
+  {
+    "name": "Pattern Monster",
+    "description": "",
+    "url": "https://pattern.monster",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/backgrounds/pattern_monster",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://pattern.monster&sz=128",
+    "color": "#5345f7",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/catchspider2002/svelte-svg-patterns/blob/master/LICENSE.md"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "NEAT",
+    "description": "",
+    "url": "https://neat.firecms.co/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/backgrounds/neat",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://neat.firecms.co/&sz=128",
+    "color": "#5345f7",
+    "extraLinks": [
+      {
+        "text": "GPL-3.0",
+        "href": "https://github.com/firecmsco/neat/blob/main/LICENSE"
+      }
+    ],
+    "tags": [
+      "Gradients",
+      "Package"
+    ]
+  },
+  {
+    "name": "Gradienty",
+    "description": "",
+    "url": "https://gradienty.codes/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/backgrounds/gradienty",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://gradienty.codes/&sz=128",
+    "color": "#5345f7",
+    "extraLinks": [],
+    "tags": [
+      "Tailwind"
+    ]
+  },
+  {
+    "name": "SVG Patterns",
+    "description": "",
+    "url": "https://nucleoapp.com/svg-patterns",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/backgrounds/svg-patterns",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://nucleoapp.com/svg-patterns&sz=128",
+    "color": "#5345f7",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Pattern Generator",
+    "description": "You can use the patterns in any project, commercial or personal without attribution or any costs",
+    "url": "https://doodad.dev/pattern-generator/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/backgrounds/pattern_generator",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://doodad.dev/pattern-generator/&sz=128",
+    "color": "#5345f7",
+    "extraLinks": [
+      {
+        "text": "Free",
+        "href": "https://doodad.dev/pattern-generator/"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "pattern.css",
+    "description": "",
+    "url": "https://bansal.io/pattern-css",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/backgrounds/pattern_css",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://bansal.io/pattern-css&sz=128",
+    "color": "#5345f7",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/bansal/pattern.css"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "fffuel",
+    "description": "",
+    "url": "https://fffuel.co/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/backgrounds/fffuel",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://fffuel.co/&sz=128",
+    "color": "#5345f7",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Magic UI",
+    "description": "",
+    "url": "https://magicui.design/docs/components/animated-grid-pattern",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/backgrounds/magicui",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://magicui.design/docs/components/animated-grid-pattern&sz=128",
+    "color": "#5345f7",
+    "extraLinks": [],
+    "tags": [
+      "Tailwind"
+    ]
+  },
+  {
+    "name": "Haikei",
+    "description": "Basic Plan, Pro Plan",
+    "url": "https://haikei.app/generators/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/backgrounds/haikei",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://haikei.app/generators/&sz=128",
+    "color": "#5345f7",
+    "extraLinks": [
+      {
+        "text": "Multiple",
+        "href": "https://haikei.app/pricing/"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Hero Patterns",
+    "description": "Free with attribution",
+    "url": "https://www.heropatterns.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/backgrounds/heropatterns",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.heropatterns.com&sz=128",
+    "color": "#5345f7",
+    "extraLinks": [
+      {
+        "text": "CC BY 4.0",
+        "href": "https://heropatterns.com"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Cool Backgrounds",
+    "description": "",
+    "url": "https://coolbackgrounds.io",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1706404961/freesets/backgrounds/fe8ljxu66grtmvzvnlm4.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://coolbackgrounds.io&sz=128",
+    "color": "#5345f7",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "CSS mesh gradients",
+    "description": "",
+    "url": "https://csshero.org/mesher/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/backgrounds/cssheromesher",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://csshero.org/mesher/&sz=128",
+    "color": "#5345f7",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "PatternPad",
+    "description": "Free with attribution",
+    "url": "https://patternpad.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/backgrounds/patternpad",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://patternpad.com&sz=128",
+    "color": "#5345f7",
+    "extraLinks": [
+      {
+        "text": "CC BY 4.0",
+        "href": "https://patternpad.com"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Basic Pattern Repository",
+    "description": "",
+    "url": "https://patterns.helloyes.dev/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/backgrounds/patternshelloyes",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://patterns.helloyes.dev/&sz=128",
+    "color": "#5345f7",
+    "extraLinks": [],
+    "tags": [
+      "SVG"
+    ]
+  },
+  {
+    "name": "Visiwig",
+    "description": "You can use the patterns in any project, commercial or personal without attribution or any costs, but you can’t replicate Vector Pattern Generator, redistribute the patterns in packs, or create integrations for these patterns.",
+    "url": "https://www.visiwig.com/patterns/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/backgrounds/visiwig",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.visiwig.com/patterns/&sz=128",
+    "color": "#5345f7",
+    "extraLinks": [
+      {
+        "text": "Free",
+        "href": "https://www.visiwig.com/pattern-license/"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Tartanify",
+    "description": "",
+    "url": "https://tartanify.com/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/backgrounds/tartanify",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://tartanify.com/&sz=128",
+    "color": "#5345f7",
+    "extraLinks": [
+      {
+        "text": "Multiple",
+        "href": "https://tartanify.com/terms-of-use"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Shape Dividers",
+    "description": "",
+    "url": "https://www.shapedivider.app/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/tools/shape-dividers",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.shapedivider.app/&sz=128",
+    "color": "#5345f7",
+    "extraLinks": [],
+    "tags": [
+      "Section separator"
+    ]
+  },
+  {
+    "name": "SVG Backgrounds",
+    "description": "",
+    "url": "https://www.svgbackgrounds.com/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/backgrounds/svg_backgrounds",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.svgbackgrounds.com/&sz=128",
+    "color": "#5345f7",
+    "extraLinks": [
+      {
+        "text": "CC BY 4.0",
+        "href": "https://www.svgbackgrounds.com/license/"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "CSS Pattern",
+    "description": "",
+    "url": "https://css-pattern.com/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/backgrounds/css_pattern",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://css-pattern.com/&sz=128",
+    "color": "#5345f7",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/Afif13/CSS-Pattern/blob/main/LICENCE"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Super designer",
+    "description": "",
+    "url": "https://superdesigner.co",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1704377698/freesets/backgrounds/kyzflrd7lyidfg5djpv8.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://superdesigner.co&sz=128",
+    "color": "#5345f7",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Shape Divider App",
+    "description": "",
+    "url": "https://www.shapedivider.app",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/backgrounds/shapedivider",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.shapedivider.app&sz=128",
+    "color": "#5345f7",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "CSS3 Patterns Gallery",
+    "description": "",
+    "url": "https://projects.verou.me/css3patterns/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/backgrounds/patterns_gallery",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://projects.verou.me/css3patterns/&sz=128",
+    "color": "#5345f7",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/LeaVerou/css3patterns/blob/master/license.txt"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Tabbied",
+    "description": "",
+    "url": "https://tabbied.com/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/backgrounds/tabbied",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://tabbied.com/&sz=128",
+    "color": "#5345f7",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Gradii",
+    "description": "",
+    "url": "https://www.gradii.fun/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/backgrounds/gradii",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.gradii.fun/&sz=128",
+    "color": "#5345f7",
+    "extraLinks": [],
+    "tags": [
+      "Gradients"
+    ]
+  },
+  {
+    "name": "Photo Gradient",
+    "description": "",
+    "url": "https://photogradient.com/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/backgrounds/photogradient",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://photogradient.com/&sz=128",
+    "color": "#5345f7",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Pattern Collection",
+    "description": "",
+    "url": "https://wpshout.com/pattern-collection/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/inspirations/pattern-collection",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://wpshout.com/pattern-collection/&sz=128",
+    "color": "#5345f7",
+    "extraLinks": [],
+    "tags": [
+      "Inspiration"
+    ]
+  }
+]

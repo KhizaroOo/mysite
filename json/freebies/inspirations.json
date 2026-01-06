@@ -1,0 +1,573 @@
+[
+  {
+    "name": "Godly",
+    "description": "",
+    "url": "https://godly.website",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/inspirations/godly",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://godly.website&sz=128",
+    "color": "#6366f1",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "BentoGrids",
+    "description": "",
+    "url": "https://bentogrids.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/inspirations/bentogrids",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://bentogrids.com&sz=128",
+    "color": "#6366f1",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Unsection",
+    "description": "",
+    "url": "https://www.unsection.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/inspirations/unsection",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.unsection.com&sz=128",
+    "color": "#6366f1",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Design Spells",
+    "description": "",
+    "url": "https://www.designspells.com/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/inspirations/designspells",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.designspells.com/&sz=128",
+    "color": "#6366f1",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Wall of Portfolios",
+    "description": "",
+    "url": "https://www.wallofportfolios.in/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/inspirations/wallofportfolios",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.wallofportfolios.in/&sz=128",
+    "color": "#6366f1",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Web Interactions Gallery",
+    "description": "",
+    "url": "https://www.webinteractions.gallery/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/inspirations/webinteractions",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.webinteractions.gallery/&sz=128",
+    "color": "#6366f1",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Curated Design",
+    "description": "",
+    "url": "https://www.curated.design",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/inspirations/curated-design",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.curated.design&sz=128",
+    "color": "#6366f1",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Darkmode Design",
+    "description": "",
+    "url": "https://www.darkmodedesign.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/inspirations/darkmodedesign",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.darkmodedesign.com&sz=128",
+    "color": "#6366f1",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Dark Design",
+    "description": "",
+    "url": "https://www.dark.design",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/inspirations/darkdesign",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.dark.design&sz=128",
+    "color": "#6366f1",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "HUDS+GUIS",
+    "description": "",
+    "url": "https://www.hudsandguis.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/inspirations/hudsandguis",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.hudsandguis.com&sz=128",
+    "color": "#6366f1",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Laand-book",
+    "description": "",
+    "url": "https://land-book.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/inspirations/land-book",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://land-book.com&sz=128",
+    "color": "#6366f1",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Landing Love",
+    "description": "",
+    "url": "https://www.landing.love",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/inspirations/landing-love",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.landing.love&sz=128",
+    "color": "#6366f1",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Browsing Mode",
+    "description": "",
+    "url": "https://browsingmode.com/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/inspirations/browsingmode",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://browsingmode.com/&sz=128",
+    "color": "#6366f1",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "A1",
+    "description": "",
+    "url": "https://www.a1.gallery/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/inspirations/a1gallery",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.a1.gallery/&sz=128",
+    "color": "#6366f1",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Supahero",
+    "description": "",
+    "url": "https://www.supahero.io/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/inspirations/supahero",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.supahero.io/&sz=128",
+    "color": "#6366f1",
+    "extraLinks": [],
+    "tags": [
+      "Hero sections"
+    ]
+  },
+  {
+    "name": "Minimal Gallery",
+    "description": "",
+    "url": "https://minimal.gallery",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1706407304/freesets/inspirations/cindmoknr2lysvna4iwj.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://minimal.gallery&sz=128",
+    "color": "#6366f1",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Awwwards",
+    "description": "",
+    "url": "https://www.awwwards.com/websites/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/inspirations/awwwards",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.awwwards.com/websites/&sz=128",
+    "color": "#6366f1",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Httpster",
+    "description": "",
+    "url": "https://httpster.net/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/inspirations/httpster",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://httpster.net/&sz=128",
+    "color": "#6366f1",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Adfolio",
+    "description": "",
+    "url": "https://www.adfolio.design/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/inspirations/adfolio",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.adfolio.design/&sz=128",
+    "color": "#6366f1",
+    "extraLinks": [],
+    "tags": [
+      "Ads"
+    ]
+  },
+  {
+    "name": "MaxiBestOf",
+    "description": "",
+    "url": "https://maxibestof.one",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1704381293/freesets/inspirations/ndgtbollo4dhqqt3kowy.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://maxibestof.one&sz=128",
+    "color": "#6366f1",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Pinterest",
+    "description": "",
+    "url": "https://pinterest.com/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/inspirations/pinterest",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://pinterest.com/&sz=128",
+    "color": "#6366f1",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Landing Gallery",
+    "description": "",
+    "url": "https://www.landing.gallery",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1704381074/freesets/inspirations/o8kszgfesntegltgoxwf.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.landing.gallery&sz=128",
+    "color": "#6366f1",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Logo System",
+    "description": "",
+    "url": "https://logosystem.co/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/inspirations/logosystem",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://logosystem.co/&sz=128",
+    "color": "#6366f1",
+    "extraLinks": [],
+    "tags": [
+      "Logos"
+    ]
+  },
+  {
+    "name": "One Page Love",
+    "description": "",
+    "url": "https://onepagelove.com/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/inspirations/onepagelove",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://onepagelove.com/&sz=128",
+    "color": "#6366f1",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Design Everywhere",
+    "description": "",
+    "url": "https://designeverywhere.co/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/inspirations/designeverywhere",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://designeverywhere.co/&sz=128",
+    "color": "#6366f1",
+    "extraLinks": [],
+    "tags": [
+      "Products"
+    ]
+  },
+  {
+    "name": "Dribbble",
+    "description": "",
+    "url": "https://dribbble.com/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/inspirations/dribbble",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://dribbble.com/&sz=128",
+    "color": "#6366f1",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Behance",
+    "description": "",
+    "url": "https://www.behance.net/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/inspirations/behance",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.behance.net/&sz=128",
+    "color": "#6366f1",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "404s",
+    "description": "",
+    "url": "https://www.404s.design/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/inspirations/404s",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.404s.design/&sz=128",
+    "color": "#6366f1",
+    "extraLinks": [],
+    "tags": [
+      "404"
+    ]
+  },
+  {
+    "name": "Navbar Gallery",
+    "description": "",
+    "url": "https://www.navbar.gallery",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/inspirations/navbargallery",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.navbar.gallery&sz=128",
+    "color": "#6366f1",
+    "extraLinks": [],
+    "tags": [
+      "Navbars"
+    ]
+  },
+  {
+    "name": "Prettyfolio",
+    "description": "",
+    "url": "https://www.prettyfolio.com/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/inspirations/prettyfolio",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.prettyfolio.com/&sz=128",
+    "color": "#6366f1",
+    "extraLinks": [],
+    "tags": [
+      "Portfolios"
+    ]
+  },
+  {
+    "name": "Minimum",
+    "description": "",
+    "url": "https://mnmm.xyz",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/inspirations/mnmm",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://mnmm.xyz&sz=128",
+    "color": "#6366f1",
+    "extraLinks": [],
+    "tags": [
+      "Minimalist"
+    ]
+  },
+  {
+    "name": "Footer",
+    "description": "",
+    "url": "https://www.footer.design/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/inspirations/footer",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.footer.design/&sz=128",
+    "color": "#6366f1",
+    "extraLinks": [],
+    "tags": [
+      "Footers"
+    ]
+  },
+  {
+    "name": "ArchDaily",
+    "description": "",
+    "url": "https://www.archdaily.com/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/inspirations/archdaily",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.archdaily.com/&sz=128",
+    "color": "#6366f1",
+    "extraLinks": [],
+    "tags": [
+      "Architecture"
+    ]
+  },
+  {
+    "name": "CTA.gallery",
+    "description": "",
+    "url": "https://www.cta.gallery/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/inspirations/ctagallery",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.cta.gallery/&sz=128",
+    "color": "#6366f1",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "App Motion",
+    "description": "",
+    "url": "https://appmotion.design/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/inspirations/appmotion",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://appmotion.design/&sz=128",
+    "color": "#6366f1",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "LogoFav",
+    "description": "",
+    "url": "https://www.logofav.com/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/inspirations/logofav",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.logofav.com/&sz=128",
+    "color": "#6366f1",
+    "extraLinks": [],
+    "tags": [
+      "Logos"
+    ]
+  },
+  {
+    "name": "60fps",
+    "description": "",
+    "url": "https://60fps.design/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/inspirations/60fps",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://60fps.design/&sz=128",
+    "color": "#6366f1",
+    "extraLinks": [],
+    "tags": [
+      "Apps",
+      "Animations"
+    ]
+  },
+  {
+    "name": "a-fresh",
+    "description": "",
+    "url": "https://a-fresh.website",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1706407151/freesets/inspirations/qkca9a1zqyzcs2c6vaeo.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://a-fresh.website&sz=128",
+    "color": "#6366f1",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "CallToInspiration",
+    "description": "",
+    "url": "https://calltoinspiration.com/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/inspirations/calltoinspiration",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://calltoinspiration.com/&sz=128",
+    "color": "#6366f1",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Landings",
+    "description": "",
+    "url": "https://landings.dev/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/inspirations/landingsdev",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://landings.dev/&sz=128",
+    "color": "#6366f1",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "3D Websites",
+    "description": "",
+    "url": "https://3dwebsites.design/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/inspirations/3dwebsites",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://3dwebsites.design/&sz=128",
+    "color": "#6366f1",
+    "extraLinks": [],
+    "tags": [
+      "3D"
+    ]
+  },
+  {
+    "name": "Site of Sites",
+    "description": "",
+    "url": "https://www.siteofsites.co/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/inspirations/siteofsites",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.siteofsites.co/&sz=128",
+    "color": "#6366f1",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Pattern Collection",
+    "description": "",
+    "url": "https://wpshout.com/pattern-collection/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/inspirations/pattern-collection",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://wpshout.com/pattern-collection/&sz=128",
+    "color": "#6366f1",
+    "extraLinks": [],
+    "tags": [
+      "Patterns"
+    ]
+  },
+  {
+    "name": "lookup.design",
+    "description": "",
+    "url": "https://lookup.design/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/inspirations/lookupdesign",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://lookup.design/&sz=128",
+    "color": "#6366f1",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Dead Simple Sites",
+    "description": "",
+    "url": "https://deadsimplesites.com/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/inspirations/deadsimplesites",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://deadsimplesites.com/&sz=128",
+    "color": "#6366f1",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Websitevice",
+    "description": "",
+    "url": "https://websitevice.com/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/inspirations/websitevice",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://websitevice.com/&sz=128",
+    "color": "#6366f1",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Siteinspire",
+    "description": "",
+    "url": "https://www.siteinspire.com/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/inspirations/siteinspire",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.siteinspire.com/&sz=128",
+    "color": "#6366f1",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Daily Delights",
+    "description": "",
+    "url": "https://delights.design",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/inspirations/delights",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://delights.design&sz=128",
+    "color": "#6366f1",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Layers",
+    "description": "",
+    "url": "https://layers.to/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1707067044/freesets/inspirations/zfqj3ezli1xkq5bkpoep.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://layers.to/&sz=128",
+    "color": "#6366f1",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Three.js",
+    "description": "",
+    "url": "https://threejs.org",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/inspirations/threejs",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://threejs.org&sz=128",
+    "color": "#6366f1",
+    "extraLinks": [],
+    "tags": [
+      "3D"
+    ]
+  },
+  {
+    "name": "OGimage.gallery",
+    "description": "",
+    "url": "https://www.ogimage.gallery/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/inspirations/ogimage",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.ogimage.gallery/&sz=128",
+    "color": "#6366f1",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Sass Landing Page",
+    "description": "",
+    "url": "https://saaslandingpage.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/inspirations/saaslandingpage",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://saaslandingpage.com&sz=128",
+    "color": "#6366f1",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Viewport UI",
+    "description": "",
+    "url": "https://viewport-ui.design/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/inspirations/viewport-ui",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://viewport-ui.design/&sz=128",
+    "color": "#6366f1",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Design Vault",
+    "description": "",
+    "url": "https://designvault.io/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/inspirations/designvault",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://designvault.io/&sz=128",
+    "color": "#6366f1",
+    "extraLinks": [],
+    "tags": []
+  }
+]

@@ -1,0 +1,1054 @@
+[
+  {
+    "name": "Iconify",
+    "description": "",
+    "url": "https://icon-sets.iconify.design",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/icons/iconify",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://icon-sets.iconify.design&sz=128",
+    "color": "#2b6dff",
+    "extraLinks": [
+      {
+        "text": "Multiple",
+        "href": "https://iconify.design/#license"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Google icons",
+    "description": "",
+    "url": "https://fonts.google.com/icons",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/icons/google",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://fonts.google.com/icons&sz=128",
+    "color": "#2b6dff",
+    "extraLinks": [
+      {
+        "text": "Apache V2.0",
+        "href": "https://developers.google.com/fonts/docs/material_icons#licensing"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Simple Icons",
+    "description": "",
+    "url": "https://simpleicons.org",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1705765217/freesets/icons/jvhe6jrpy38zrqi6dhvp.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://simpleicons.org&sz=128",
+    "color": "#2b6dff",
+    "extraLinks": [],
+    "tags": [
+      "Brands"
+    ]
+  },
+  {
+    "name": "Tabler icons",
+    "description": "",
+    "url": "https://tabler-icons.io",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/icons/tabler",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://tabler-icons.io&sz=128",
+    "color": "#2b6dff",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/tabler/tabler-icons/blob/master/LICENSE"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "SVG Repo",
+    "description": "",
+    "url": "https://www.svgrepo.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/icons/svgrepo",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.svgrepo.com&sz=128",
+    "color": "#2b6dff",
+    "extraLinks": [
+      {
+        "text": "Multiple",
+        "href": "https://www.svgrepo.com/page/licensing"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Reshot",
+    "description": "Items under the Reshot Free License can be used in your commercial and non-commercial projects, for free.",
+    "url": "https://www.reshot.com/free-svg-icons/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1704381958/freesets/icons/eum2c2gjrwgwfv7aq3qm.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.reshot.com/free-svg-icons/&sz=128",
+    "color": "#2b6dff",
+    "extraLinks": [
+      {
+        "text": "Reshot Free License",
+        "href": "https://www.reshot.com/license/"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Radix Icons",
+    "description": "",
+    "url": "https://www.radix-ui.com/icons",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1705772255/freesets/icons/mzzgjxfoem5kafvfyyhh.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.radix-ui.com/icons&sz=128",
+    "color": "#2b6dff",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/radix-ui/icons/blob/master/LICENSE"
+      }
+    ],
+    "tags": [
+      "Package"
+    ]
+  },
+  {
+    "name": "Iconoir",
+    "description": "",
+    "url": "https://iconoir.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1705777316/freesets/icons/ruzpsrpudbcvjvqtcv4j.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://iconoir.com&sz=128",
+    "color": "#2b6dff",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/iconoir-icons/iconoir/blob/main/LICENSE"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Hero Icons",
+    "description": "",
+    "url": "https://heroicons.com/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/icons/heroicons",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://heroicons.com/&sz=128",
+    "color": "#2b6dff",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/tailwindlabs/heroicons/blob/master/LICENSE"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Lucide",
+    "description": "",
+    "url": "https://lucide.dev",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/icons/jn6a97pgfb9sq4pa2tzn",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://lucide.dev&sz=128",
+    "color": "#2b6dff",
+    "extraLinks": [
+      {
+        "text": "ISC License",
+        "href": "https://lucide.dev/license"
+      }
+    ],
+    "tags": [
+      "Package"
+    ]
+  },
+  {
+    "name": "svgl",
+    "description": "",
+    "url": "https://svgl.app",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/icons/svgl",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://svgl.app&sz=128",
+    "color": "#2b6dff",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/pheralb/svgl/blob/main/LICENSE"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Phosphor",
+    "description": "",
+    "url": "https://phosphoricons.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/icons/phosphor",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://phosphoricons.com&sz=128",
+    "color": "#2b6dff",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://raw.githubusercontent.com/phosphor-icons/phosphor-home/master/LICENSE"
+      }
+    ],
+    "tags": [
+      "Package"
+    ]
+  },
+  {
+    "name": "React Icons",
+    "description": "",
+    "url": "https://react-icons.github.io/react-icons/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/icons/react-icons",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://react-icons.github.io/react-icons/&sz=128",
+    "color": "#2b6dff",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/react-icons/react-icons/blob/master/LICENSE"
+      }
+    ],
+    "tags": [
+      "Package"
+    ]
+  },
+  {
+    "name": "Mage Icons",
+    "description": "",
+    "url": "https://mageicons.com/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/icons/mageicons",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://mageicons.com/&sz=128",
+    "color": "#2b6dff",
+    "extraLinks": [
+      {
+        "text": "Apache 2.0",
+        "href": "https://github.com/Mage-Icons/mage-icons/blob/main/License.txt"
+      }
+    ],
+    "tags": [
+      "Package"
+    ]
+  },
+  {
+    "name": "Remix Icon",
+    "description": "",
+    "url": "https://remixicon.com/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/icons/remixicon",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://remixicon.com/&sz=128",
+    "color": "#2b6dff",
+    "extraLinks": [
+      {
+        "text": "Apache License V2.0",
+        "href": "https://remixicon.com/license"
+      }
+    ],
+    "tags": [
+      "Package"
+    ]
+  },
+  {
+    "name": "Feather Icons",
+    "description": "",
+    "url": "https://feathericons.com/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/icons/feather-icons",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://feathericons.com/&sz=128",
+    "color": "#2b6dff",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/feathericons/feather/blob/main/LICENSE"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Ionicons",
+    "description": "",
+    "url": "https://ionic.io/ionicons",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1705777616/freesets/icons/cqpb3phdbpbkizotyl0f.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://ionic.io/ionicons&sz=128",
+    "color": "#2b6dff",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/ionic-team/ionicons/blob/main/LICENSE"
+      }
+    ],
+    "tags": [
+      "Package"
+    ]
+  },
+  {
+    "name": "Eva Icons",
+    "description": "",
+    "url": "https://akveo.github.io/eva-icons/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/icons/evaicons",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://akveo.github.io/eva-icons/&sz=128",
+    "color": "#2b6dff",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/akveo/eva-icons/blob/master/LICENSE.txt"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Font Awesome Icons",
+    "description": "",
+    "url": "https://fontawesome.com/icons",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/icons/fontawesome",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://fontawesome.com/icons&sz=128",
+    "color": "#2b6dff",
+    "extraLinks": [
+      {
+        "text": "Multiple",
+        "href": "https://fontawesome.com/license"
+      }
+    ],
+    "tags": [
+      "Package"
+    ]
+  },
+  {
+    "name": "useAnimations",
+    "description": "All the free files available in useAnimations are distributed under Creative Commons (CC) Attribution (BY) unless stated otherwise.",
+    "url": "https://useanimations.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1704382354/freesets/icons/ndch8kgt9gb92gaixk9a.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://useanimations.com&sz=128",
+    "color": "#2b6dff",
+    "extraLinks": [
+      {
+        "text": "CC",
+        "href": "https://useanimations.com/licencing-and-terms.html"
+      }
+    ],
+    "tags": [
+      "Animated"
+    ]
+  },
+  {
+    "name": "MingCute Design",
+    "description": "",
+    "url": "https://www.mingcute.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1705776623/freesets/icons/lgi0vtfqupkfqf5ruvmz.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.mingcute.com&sz=128",
+    "color": "#2b6dff",
+    "extraLinks": [
+      {
+        "text": "Apache 2.0",
+        "href": "https://github.com/Richard9394/MingCute/blob/main/LICENSE"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Isocons",
+    "description": "",
+    "url": "https://www.isocons.app/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/icons/isocons",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.isocons.app/&sz=128",
+    "color": "#2b6dff",
+    "extraLinks": [],
+    "tags": [
+      "3D"
+    ]
+  },
+  {
+    "name": "Carbon",
+    "description": "",
+    "url": "https://carbondesignsystem.com/elements/icons/library/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1705776835/freesets/icons/rvzgmjez12yrvwjigqnn.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://carbondesignsystem.com/elements/icons/library/&sz=128",
+    "color": "#2b6dff",
+    "extraLinks": [
+      {
+        "text": "Apache 2.0",
+        "href": "https://github.com/carbon-design-system/carbon/tree/v10/packages/icons#-license"
+      }
+    ],
+    "tags": [
+      "Package"
+    ]
+  },
+  {
+    "name": "Animatedicons",
+    "description": "You're free to use AnimatedIcons in any project, be it for commercial or personal use, without the need for attribution or any costs",
+    "url": "https://animatedicons.co/icons",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/icons/animatedicons",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://animatedicons.co/icons&sz=128",
+    "color": "#2b6dff",
+    "extraLinks": [
+      {
+        "text": "Free",
+        "href": "https://animatedicons.co/license"
+      }
+    ],
+    "tags": [
+      "Animated"
+    ]
+  },
+  {
+    "name": "CSS Icons",
+    "description": "",
+    "url": "https://css.gg/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/icons/CSSIcons",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://css.gg/&sz=128",
+    "color": "#2b6dff",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/astrit/css.gg/blob/master/LICENSE.md"
+      }
+    ],
+    "tags": [
+      "Package"
+    ]
+  },
+  {
+    "name": "Ikonate",
+    "description": "",
+    "url": "https://ikonate.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/icons/ikonate",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://ikonate.com&sz=128",
+    "color": "#2b6dff",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/mikolajdobrucki/ikonate/blob/master/LICENSE"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "ManyPixels",
+    "description": "You can use the illustrations in any project, commercial or personal without attribution or any costs.",
+    "url": "https://www.manypixels.co/gallery",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1704385023/freesets/icons/xxyu2syjxgm7twcyegba.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.manypixels.co/gallery&sz=128",
+    "color": "#2b6dff",
+    "extraLinks": [
+      {
+        "text": "Free",
+        "href": "https://www.manypixels.co/terms-of-service"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Zondicons",
+    "description": "All the free files available in zondicons are distributed under Creative Commons (CC) Attribution (BY) unless stated otherwise.",
+    "url": "http://www.zondicons.com/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/icons/zondicons",
+    "favicon": "https://www.google.com/s2/favicons?domain=http://www.zondicons.com/&sz=128",
+    "color": "#2b6dff",
+    "extraLinks": [
+      {
+        "text": "CC",
+        "href": "https://github.com/dukestreetstudio/zondicons/blob/master/LICENSE"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Pixelarticons",
+    "description": "486 icons free",
+    "url": "https://pixelarticons.com/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/icons/pixelarticons",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://pixelarticons.com/&sz=128",
+    "color": "#2b6dff",
+    "extraLinks": [],
+    "tags": [
+      "Pixelart",
+      "Package"
+    ]
+  },
+  {
+    "name": "Streamline Icons",
+    "description": "",
+    "url": "https://www.streamlinehq.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/icons/streamline",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.streamlinehq.com&sz=128",
+    "color": "#2b6dff",
+    "extraLinks": [
+      {
+        "text": "CC by 4.0",
+        "href": "https://www.streamlinehq.com/license-free"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "TDesign Icons",
+    "description": "",
+    "url": "https://tdesign.tencent.com/design/icon",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1705777927/freesets/icons/p16gzcdv7iacvdnud2ch.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://tdesign.tencent.com/design/icon&sz=128",
+    "color": "#2b6dff",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/Tencent/tdesign-icons/blob/main/LICENSE"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "pqoqubbw/icons",
+    "description": "",
+    "url": "https://icons.pqoqubbw.dev/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/icons/pqoqubbw",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://icons.pqoqubbw.dev/&sz=128",
+    "color": "#2b6dff",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/pqoqubbw/icons/blob/main/LICENSE"
+      }
+    ],
+    "tags": [
+      "Motion",
+      "Lucide",
+      "Package",
+      "React"
+    ]
+  },
+  {
+    "name": "3D Icons",
+    "description": "",
+    "url": "https://3dicons.co/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/icons/hh9zkxpnfjckvekzz0ey",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://3dicons.co/&sz=128",
+    "color": "#2b6dff",
+    "extraLinks": [
+      {
+        "text": "CC0",
+        "href": "https://3dicons.co/?ref=lapaninja"
+      }
+    ],
+    "tags": [
+      "3D"
+    ]
+  },
+  {
+    "name": "Spectrum",
+    "description": "",
+    "url": "https://spectrums.framer.website/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/icons/spectrums",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://spectrums.framer.website/&sz=128",
+    "color": "#2b6dff",
+    "extraLinks": [],
+    "tags": [
+      "Logos"
+    ]
+  },
+  {
+    "name": "Sargam Icons",
+    "description": "",
+    "url": "https://sargamicons.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/icons/sargamicons",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://sargamicons.com&sz=128",
+    "color": "#2b6dff",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/planetabhi/sargam-icons/blob/main/LICENSE.txt"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Iconmonstr",
+    "description": "License may use the Work in non-commercial and commercial projects, services or products without attribution.",
+    "url": "https://iconmonstr.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/icons/iconmonstr",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://iconmonstr.com&sz=128",
+    "color": "#2b6dff",
+    "extraLinks": [
+      {
+        "text": "Free",
+        "href": "https://iconmonstr.com/license/"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Drawkit",
+    "description": "Free for Personal and Commercial. No attribution required.",
+    "url": "https://www.drawkit.com/illustration-types/icons",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/icons/quqeaqpdwrr9pfl7syvz",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.drawkit.com/illustration-types/icons&sz=128",
+    "color": "#2b6dff",
+    "extraLinks": [
+      {
+        "text": "DrawKit License",
+        "href": "https://www.drawkit.com/license"
+      }
+    ],
+    "tags": [
+      "3D"
+    ]
+  },
+  {
+    "name": "Basicons",
+    "description": "",
+    "url": "https://basicons.xyz",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1704821116/freesets/icons/iugy1xeoa4h1rk0xopit.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://basicons.xyz&sz=128",
+    "color": "#2b6dff",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/solomon-fibonacci/react-basicons/blob/main/LICENSE"
+      }
+    ],
+    "tags": [
+      "Package"
+    ]
+  },
+  {
+    "name": "coolshapes",
+    "description": "",
+    "url": "https://coolshap.es/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/illustrations/coolshap",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://coolshap.es/&sz=128",
+    "color": "#2b6dff",
+    "extraLinks": [],
+    "tags": [
+      "Package",
+      "Logos"
+    ]
+  },
+  {
+    "name": "Clarity",
+    "description": "",
+    "url": "https://clarity.design/documentation/icons/shapes",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1705778097/freesets/icons/ldvm1lc29yfknxdzzm1a.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://clarity.design/documentation/icons/shapes&sz=128",
+    "color": "#2b6dff",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/vmware/clarity-assets/blob/master/LICENSE"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Core UI Icons",
+    "description": "",
+    "url": "https://coreui.io/icons/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/icons/coreuiicons",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://coreui.io/icons/&sz=128",
+    "color": "#2b6dff",
+    "extraLinks": [
+      {
+        "text": "Freemium",
+        "href": "https://coreui.io/icons/pricing/"
+      }
+    ],
+    "tags": [
+      "Package"
+    ]
+  },
+  {
+    "name": "Unicorn icons",
+    "description": "Free with attribution",
+    "url": "https://unicornicons.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/icons/ocpqwxgjvphvpk6b44ed",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://unicornicons.com&sz=128",
+    "color": "#2b6dff",
+    "extraLinks": [
+      {
+        "text": "Unicorn icons License",
+        "href": "https://unicornicons.com/license"
+      }
+    ],
+    "tags": [
+      "Animated"
+    ]
+  },
+  {
+    "name": "Boxicons",
+    "description": "",
+    "url": "https://boxicons.com/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/icons/boxicons",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://boxicons.com/&sz=128",
+    "color": "#2b6dff",
+    "extraLinks": [
+      {
+        "text": "Freemium",
+        "href": "https://boxicons.com/pricing"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "ICONSVG",
+    "description": "",
+    "url": "https://iconsvg.xyz",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1704820992/freesets/icons/lq4ll4tgmsdzhe4ysibx.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://iconsvg.xyz&sz=128",
+    "color": "#2b6dff",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://iconsvg.xyz"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Bootstrap Icons",
+    "description": "",
+    "url": "https://icons.getbootstrap.com/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/icons/bootstrap",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://icons.getbootstrap.com/&sz=128",
+    "color": "#2b6dff",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/twbs/bootstrap/blob/main/LICENSE"
+      }
+    ],
+    "tags": [
+      "Package"
+    ]
+  },
+  {
+    "name": "magecdn SVG Loaders",
+    "description": "",
+    "url": "https://magecdn.com/tools/svg-loaders",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/components/svg-loadersmage",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://magecdn.com/tools/svg-loaders&sz=128",
+    "color": "#2b6dff",
+    "extraLinks": [],
+    "tags": [
+      "Loaders"
+    ]
+  },
+  {
+    "name": "Majesticons",
+    "description": "",
+    "url": "https://www.majesticons.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/icons/majesticons",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.majesticons.com&sz=128",
+    "color": "#2b6dff",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/halfmage/majesticons/blob/main/LICENSE"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Teenyicons",
+    "description": "",
+    "url": "https://teenyicons.com/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/icons/teenyicons",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://teenyicons.com/&sz=128",
+    "color": "#2b6dff",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/teenyicons/teenyicons/blob/master/LICENSE"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Keyicons",
+    "description": "",
+    "url": "https://keyicons.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/icons/keyicons",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://keyicons.com&sz=128",
+    "color": "#2b6dff",
+    "extraLinks": [
+      {
+        "text": "CC BY 4.0",
+        "href": "https://keyicons.com"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Zwicon",
+    "description": "",
+    "url": "http://zwicon.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/icons/zwicon",
+    "favicon": "https://www.google.com/s2/favicons?domain=http://zwicon.com&sz=128",
+    "color": "#2b6dff",
+    "extraLinks": [
+      {
+        "text": "CC BY-ND 4.0",
+        "href": "http://zwicon.com/how-to-use.html"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Notion-style Icons",
+    "description": "Use on unlimited personal and commercial projects",
+    "url": "https://maryamato88.gumroad.com/l/pbmkt",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703028113/freesets/icons/Notion_Style_Icons_kpixkv.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://maryamato88.gumroad.com/l/pbmkt&sz=128",
+    "color": "#2b6dff",
+    "extraLinks": [],
+    "tags": [
+      "Scribble"
+    ]
+  },
+  {
+    "name": "Icons for AI",
+    "description": "",
+    "url": "https://iconsforai.com/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/icons/iconsforai",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://iconsforai.com/&sz=128",
+    "color": "#2b6dff",
+    "extraLinks": [
+      {
+        "text": "CC BY 4.0",
+        "href": "https://iconsforai.com/license"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Flagpack",
+    "description": "you can Flagpack for any project; commercial or personal. Flagpack is open source and can be used, changed and shared",
+    "url": "https://flagpack.xyz",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/icons/w4emtntc7owwt8bu4etm",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://flagpack.xyz&sz=128",
+    "color": "#2b6dff",
+    "extraLinks": [
+      {
+        "text": "Free",
+        "href": "https://flagpack.xyz/support"
+      }
+    ],
+    "tags": [
+      "Flags"
+    ]
+  },
+  {
+    "name": "Grumpyicons",
+    "description": "Free for personal and commercial projects. No attribution required.",
+    "url": "https://www.petrbilek.com/products/grumpyicons",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/icons/eelqaxmso9pbbfstgl5z",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.petrbilek.com/products/grumpyicons&sz=128",
+    "color": "#2b6dff",
+    "extraLinks": [
+      {
+        "text": "Free",
+        "href": "https://www.petrbilek.com/docs/license"
+      }
+    ],
+    "tags": [
+      "Scribble"
+    ]
+  },
+  {
+    "name": "Icon Freebies Glimsy",
+    "description": "",
+    "url": "https://orenjistudio.gumroad.com/l/glimsy",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703027910/freesets/icons/Glimsy_bwpu4k.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://orenjistudio.gumroad.com/l/glimsy&sz=128",
+    "color": "#2b6dff",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Line Icon Pack",
+    "description": "Free for personal and commercial projects. No attribution required.",
+    "url": "https://www.petrbilek.com/products/line-icon-pack",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/icons/l4zhbu6rb8yde0ckdnv2",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.petrbilek.com/products/line-icon-pack&sz=128",
+    "color": "#2b6dff",
+    "extraLinks": [
+      {
+        "text": "Free",
+        "href": "https://www.petrbilek.com/docs/license"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Tilda Icons",
+    "description": "The Licensee can use the Icons for free for personal or commercial projects as long as the Licensee mentions the owner of the Icons.",
+    "url": "https://tilda.cc/free-icons/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1704382565/freesets/icons/dxhlcgkgwque1gddimtd.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://tilda.cc/free-icons/&sz=128",
+    "color": "#2b6dff",
+    "extraLinks": [
+      {
+        "text": "Free with attribution",
+        "href": "https://tilda.cc/free-icons/license/"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "SVG Flag Icons",
+    "description": "",
+    "url": "https://nucleoapp.com/svg-flag-icons",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/icons/svg-flag-icons",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://nucleoapp.com/svg-flag-icons&sz=128",
+    "color": "#2b6dff",
+    "extraLinks": [],
+    "tags": [
+      "Flags"
+    ]
+  },
+  {
+    "name": "Unicons",
+    "description": "",
+    "url": "https://iconscout.com/unicons",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/icons/unicons",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://iconscout.com/unicons&sz=128",
+    "color": "#2b6dff",
+    "extraLinks": [
+      {
+        "text": "Freemium",
+        "href": "https://iconscout.com/pricing"
+      }
+    ],
+    "tags": [
+      "Package"
+    ]
+  },
+  {
+    "name": "Iconic",
+    "description": "",
+    "url": "https://iconic.app/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/icons/iconic",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://iconic.app/&sz=128",
+    "color": "#2b6dff",
+    "extraLinks": [
+      {
+        "text": "Free",
+        "href": "https://iconic.app/iconic-pro-license/"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Gravity UI",
+    "description": "",
+    "url": "https://preview.gravity-ui.com/icons/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/icons/gravity-ui",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://preview.gravity-ui.com/icons/&sz=128",
+    "color": "#2b6dff",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/gravity-ui/icons/blob/main/LICENSE"
+      }
+    ],
+    "tags": [
+      "Package",
+      "React"
+    ]
+  },
+  {
+    "name": "Noun Project",
+    "description": "Free with attribution",
+    "url": "https://thenounproject.com/icons/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/icons/g4ovyr2rjrlb7l5kqggf",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://thenounproject.com/icons/&sz=128",
+    "color": "#2b6dff",
+    "extraLinks": [
+      {
+        "text": "Freemium",
+        "href": "https://thenounproject.com/pricing/#icons"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Octicons",
+    "description": "",
+    "url": "https://primer.style/foundations/icons",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/icons/octicons",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://primer.style/foundations/icons&sz=128",
+    "color": "#2b6dff",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/primer/octicons/blob/main/LICENSE"
+      }
+    ],
+    "tags": [
+      "Package"
+    ]
+  },
+  {
+    "name": "IconaMoon",
+    "description": "",
+    "url": "https://www.figma.com/community/file/1014143897459418663",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1705776986/freesets/icons/ubb1mslpo6luz1pivm0n.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.figma.com/community/file/1014143897459418663&sz=128",
+    "color": "#2b6dff",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Solar",
+    "description": "",
+    "url": "https://www.figma.com/community/file/1166831539721848736",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1705776270/freesets/icons/g5k7wqiikvrxcmevnhet.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.figma.com/community/file/1166831539721848736&sz=128",
+    "color": "#2b6dff",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Icon Icons",
+    "description": "Free for personal or commercial use as long as the owner of the icons is mentioned.",
+    "url": "https://icon-icons.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/icons/icon-icons",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://icon-icons.com&sz=128",
+    "color": "#2b6dff",
+    "extraLinks": [
+      {
+        "text": "Free",
+        "href": "https://icon-icons.com/license"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "FlatIcon",
+    "description": "Free for personal or commercial use as long as the owner of the icons is mentioned.",
+    "url": "https://www.flaticon.com/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/icons/flaticon",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.flaticon.com/&sz=128",
+    "color": "#2b6dff",
+    "extraLinks": [
+      {
+        "text": "Freemium",
+        "href": "https://support.flaticon.com/s/topic/0TO3V000000CmIxWAK/licenses?language=en_US"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Iconscout",
+    "description": "",
+    "url": "https://iconscout.com/icons",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/icons/iconscout",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://iconscout.com/icons&sz=128",
+    "color": "#2b6dff",
+    "extraLinks": [
+      {
+        "text": "Freemium",
+        "href": "https://iconscout.com/pricing"
+      }
+    ],
+    "tags": [
+      "Package"
+    ]
+  },
+  {
+    "name": "Untitled UI Icons",
+    "description": "",
+    "url": "https://www.untitledui.com/icons",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/icons/u0vnq5jvrwli4mzr4dl0",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.untitledui.com/icons&sz=128",
+    "color": "#2b6dff",
+    "extraLinks": [
+      {
+        "text": "Freemium",
+        "href": "https://www.untitledui.com/pricing"
+      }
+    ],
+    "tags": []
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Pixabay",
+    "description": "Free for commercial and noncommercial use. Attribution is not required.",
+    "url": "https://pixabay.com/videos/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/videos/pixabay",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://pixabay.com/videos/&sz=128",
+    "color": "#ef2350",
+    "extraLinks": [
+      {
+        "text": "Pixabay License",
+        "href": "https://pixabay.com/service/license/"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Pexels",
+    "description": "All photos and videos on Pexels can be downloaded and used for free.",
+    "url": "https://www.pexels.com/videos/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/videos/pexels",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.pexels.com/videos/&sz=128",
+    "color": "#ef2350",
+    "extraLinks": [
+      {
+        "text": "Free",
+        "href": "https://www.pexels.com/license/"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Coverr",
+    "description": "All Videos published on Coverr.co can be used free for commercial and non-commercial purposes. You do not need to ask permission from or provide credit to the videographer or Coverr.co, although it is appreciated when possible.",
+    "url": "https://coverr.co",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/videos/coverr",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://coverr.co&sz=128",
+    "color": "#ef2350",
+    "extraLinks": [
+      {
+        "text": "Free",
+        "href": "https://coverr.co/license"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "ISO Republic",
+    "description": "",
+    "url": "https://isorepublic.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703379961/freesets/videos/seihdp8tiic1xff7lmty.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://isorepublic.com&sz=128",
+    "color": "#ef2350",
+    "extraLinks": [
+      {
+        "text": "CC0",
+        "href": "https://isorepublic.com/license/"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Focastock",
+    "description": "",
+    "url": "https://focastock.com/videos/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/videos/rmvbtxdr4upad8r1opip",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://focastock.com/videos/&sz=128",
+    "color": "#ef2350",
+    "extraLinks": [
+      {
+        "text": "CC0",
+        "href": "https://focastock.com/license/"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Videezy",
+    "description": "Standard, Pro, Creative Commons and Editorial Use Only",
+    "url": "https://www.videezy.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/videos/videezy",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.videezy.com&sz=128",
+    "color": "#ef2350",
+    "extraLinks": [
+      {
+        "text": "Multiple",
+        "href": "https://www.videezy.com/terms"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Mixkit",
+    "description": "Items under the Mixkit Stock Video Free License can be used in your commercial and non-commercial projects, for free.",
+    "url": "https://mixkit.co/free-stock-video/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/videos/mixkit",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://mixkit.co/free-stock-video/&sz=128",
+    "color": "#ef2350",
+    "extraLinks": [
+      {
+        "text": "Free",
+        "href": "https://mixkit.co/license/"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Freepik",
+    "description": "Free with attribution",
+    "url": "https://www.freepik.com/videos",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/photos/freepik",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.freepik.com/videos&sz=128",
+    "color": "#ef2350",
+    "extraLinks": [
+      {
+        "text": "Freepik License",
+        "href": "https://www.freepik.com/legal/terms-of-use#nav-freepik-agreement"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Vidsplay",
+    "description": "",
+    "url": "https://www.vidsplay.com/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/videos/g6rwxg8wydrdpfnywijw",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.vidsplay.com/&sz=128",
+    "color": "#ef2350",
+    "extraLinks": [
+      {
+        "text": "Free with attribution",
+        "href": "https://www.vidsplay.com/terms/"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Dareful",
+    "description": "",
+    "url": "https://dareful.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/videos/luzv5hwxmjiwp0xzw2o9.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://dareful.com&sz=128",
+    "color": "#ef2350",
+    "extraLinks": [
+      {
+        "text": "CC BY 4.0 DEED",
+        "href": "https://dareful.com"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Vimeo",
+    "description": "",
+    "url": "https://vimeo.com/groups/freehd/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/videos/eybg2hh9eshhaxvdtsci.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://vimeo.com/groups/freehd/&sz=128",
+    "color": "#ef2350",
+    "extraLinks": [],
+    "tags": []
+  }
+]

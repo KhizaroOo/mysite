@@ -1,0 +1,367 @@
+[
+  {
+    "name": "Poly Haven",
+    "description": "Our assets are all licensed as CC0, which is effectively Public Domain.",
+    "url": "https://polyhaven.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/3d/polyhaven",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://polyhaven.com&sz=128",
+    "color": "#8935ff",
+    "extraLinks": [
+      {
+        "text": "CC0",
+        "href": "https://polyhaven.com/license"
+      }
+    ],
+    "tags": [
+      "HDRIs",
+      "Textures",
+      "Models"
+    ]
+  },
+  {
+    "name": "Itchio",
+    "description": "Itchio is a marketplace for indie game developers. Each asset has its own license.",
+    "url": "https://itch.io/game-assets/free",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/3d/itchio",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://itch.io/game-assets/free&sz=128",
+    "color": "#8935ff",
+    "extraLinks": [],
+    "tags": [
+      "Store"
+    ]
+  },
+  {
+    "name": "Kenney",
+    "description": "",
+    "url": "https://kenney.nl",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/3d/kenney",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://kenney.nl&sz=128",
+    "color": "#8935ff",
+    "extraLinks": [
+      {
+        "text": "CC0",
+        "href": "https://www.kenney.nl/support"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "ambientCG",
+    "description": "All ambientCG assets are provided under the Creative Commons CC0 1.0 Universal License.",
+    "url": "https://ambientcg.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/3d/ambientcg",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://ambientcg.com&sz=128",
+    "color": "#8935ff",
+    "extraLinks": [
+      {
+        "text": "CC0 1.0",
+        "href": "https://docs.ambientcg.com/license/"
+      }
+    ],
+    "tags": [
+      "HDRIs",
+      "Textures",
+      "Models"
+    ]
+  },
+  {
+    "name": "3D model collection",
+    "description": "",
+    "url": "https://sketchfab.com/nebulousflynn/collections/cc0-9e9b8c5442ab4b59ba16b6fa5e43b8da",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/3d/nebulousflynn",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://sketchfab.com/nebulousflynn/collections/cc0-9e9b8c5442ab4b59ba16b6fa5e43b8da&sz=128",
+    "color": "#8935ff",
+    "extraLinks": [],
+    "tags": [
+      "Models",
+      "Heritage",
+      "Models"
+    ]
+  },
+  {
+    "name": "Share Textures",
+    "description": "All of our content is copyright-free [CC0]. It means you can use them anywhere you want which includes commercial projects too.",
+    "url": "https://www.sharetextures.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/3d/sharetextures",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.sharetextures.com&sz=128",
+    "color": "#8935ff",
+    "extraLinks": [
+      {
+        "text": "CC0",
+        "href": "https://www.sharetextures.com/p/license"
+      }
+    ],
+    "tags": [
+      "Atlases",
+      "Textures",
+      "Models"
+    ]
+  },
+  {
+    "name": "BlenderKit",
+    "description": "BlenderKit only has 2 available licenses. Everything you download is available for commercial use. Both allow you to sell higher-level-derivative works, but royalty free license doesn't allow to re-sell 3D models even if modified.",
+    "url": "https://www.blenderkit.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/3d/blenderkit",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.blenderkit.com&sz=128",
+    "color": "#8935ff",
+    "extraLinks": [
+      {
+        "text": "RF & CC0",
+        "href": "https://www.blenderkit.com/docs/licenses/"
+      }
+    ],
+    "tags": [
+      "Textures",
+      "Models",
+      "HDRIs",
+      "Brushes"
+    ]
+  },
+  {
+    "name": "Sketchfab",
+    "description": "",
+    "url": "https://sketchfab.com/features/free-3d-models",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/3d/sketchfab",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://sketchfab.com/features/free-3d-models&sz=128",
+    "color": "#8935ff",
+    "extraLinks": [],
+    "tags": [
+      "Store"
+    ]
+  },
+  {
+    "name": "CG Bookcase",
+    "description": "The textures are published under the CC0 1.0 license, which means means you can use them for free without giving credit.",
+    "url": "https://www.cgbookcase.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/3d/cgbookcase",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.cgbookcase.com&sz=128",
+    "color": "#8935ff",
+    "extraLinks": [
+      {
+        "text": "CC0 1.0",
+        "href": "https://www.cgbookcase.com/textures"
+      }
+    ],
+    "tags": [
+      "Textures"
+    ]
+  },
+  {
+    "name": "ArtStation Marketplace",
+    "description": "",
+    "url": "https://www.artstation.com/marketplace/game-dev?section=trending&price_to=0",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/3d/artstation",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.artstation.com/marketplace/game-dev?section=trending&price_to=0&sz=128",
+    "color": "#8935ff",
+    "extraLinks": [],
+    "tags": [
+      "Store"
+    ]
+  },
+  {
+    "name": "3Dassets.one",
+    "description": "",
+    "url": "https://3dassets.one",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/3d/3dassetsone",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://3dassets.one&sz=128",
+    "color": "#8935ff",
+    "extraLinks": [],
+    "tags": [
+      "HDRIs",
+      "Textures",
+      "Models"
+    ]
+  },
+  {
+    "name": "3dsky",
+    "description": "",
+    "url": "https://3dsky.org/3dmodels?types=free",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/3d/3dskyorg",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://3dsky.org/3dmodels?types=free&sz=128",
+    "color": "#8935ff",
+    "extraLinks": [],
+    "tags": [
+      "Store"
+    ]
+  },
+  {
+    "name": "Quaternius",
+    "description": "",
+    "url": "https://quaternius.com/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/3d/quaternius",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://quaternius.com/&sz=128",
+    "color": "#8935ff",
+    "extraLinks": [],
+    "tags": [
+      "Models"
+    ]
+  },
+  {
+    "name": "Blend Swap",
+    "description": "",
+    "url": "https://www.blendswap.com/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/3d/blendswap",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.blendswap.com/&sz=128",
+    "color": "#8935ff",
+    "extraLinks": [],
+    "tags": [
+      "Models"
+    ]
+  },
+  {
+    "name": "Turbosquid",
+    "description": "",
+    "url": "https://www.turbosquid.com/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/3d/turbosquid",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.turbosquid.com/&sz=128",
+    "color": "#8935ff",
+    "extraLinks": [
+      {
+        "text": "Multiple",
+        "href": "https://blog.turbosquid.com/turbosquid-3d-model-license/"
+      }
+    ],
+    "tags": [
+      "Models"
+    ]
+  },
+  {
+    "name": "Online 3D Viewer",
+    "description": "",
+    "url": "https://3dviewer.net/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/3d/3dviewer",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://3dviewer.net/&sz=128",
+    "color": "#8935ff",
+    "extraLinks": [],
+    "tags": [
+      "Tool"
+    ]
+  },
+  {
+    "name": "CGTrader",
+    "description": "",
+    "url": "https://www.cgtrader.com/free-3d-models",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/3d/cgtrader",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.cgtrader.com/free-3d-models&sz=128",
+    "color": "#8935ff",
+    "extraLinks": [
+      {
+        "text": "Freemium",
+        "href": "https://www.cgtrader.com/pages/terms-and-conditions#royalty-free-license"
+      }
+    ],
+    "tags": [
+      "Models"
+    ]
+  },
+  {
+    "name": "NormalMap-Online",
+    "description": "",
+    "url": "https://cpetry.github.io/NormalMap-Online/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/3d/normalmap",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://cpetry.github.io/NormalMap-Online/&sz=128",
+    "color": "#8935ff",
+    "extraLinks": [],
+    "tags": [
+      "Tool"
+    ]
+  },
+  {
+    "name": "Dimensiva",
+    "description": "",
+    "url": "https://dimensiva.com/free-3d-models/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/3d/dimensiva",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://dimensiva.com/free-3d-models/&sz=128",
+    "color": "#8935ff",
+    "extraLinks": [],
+    "tags": [
+      "Models"
+    ]
+  },
+  {
+    "name": "Game Art 2D",
+    "description": "For the game assets in Freebies section, it's under Creative Common Zero (CC0) a.k.a Public Domain license.",
+    "url": "https://www.gameart2d.com/freebies.html",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/3d/gameart2d",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.gameart2d.com/freebies.html&sz=128",
+    "color": "#8935ff",
+    "extraLinks": [
+      {
+        "text": "CC0",
+        "href": "https://www.gameart2d.com/license.html"
+      }
+    ],
+    "tags": [
+      "Sprites",
+      "Tileset",
+      "GUI"
+    ]
+  },
+  {
+    "name": "textures.com",
+    "description": "",
+    "url": "https://www.textures.com/free",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/3d/textures",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.textures.com/free&sz=128",
+    "color": "#8935ff",
+    "extraLinks": [
+      {
+        "text": "Freemium",
+        "href": "https://www.textures.com/faq-license"
+      }
+    ],
+    "tags": [
+      "Textures"
+    ]
+  },
+  {
+    "name": "Quixel",
+    "description": "",
+    "url": "https://quixel.com/megascans/free",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/3d/quixel",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://quixel.com/megascans/free&sz=128",
+    "color": "#8935ff",
+    "extraLinks": [
+      {
+        "text": "Freemium",
+        "href": "https://quixel.com/pricing"
+      }
+    ],
+    "tags": [
+      "Decals",
+      "Textures",
+      "Models"
+    ]
+  },
+  {
+    "name": "Poliigon",
+    "description": "",
+    "url": "https://www.poliigon.com/search/free",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/3d/poliigon",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.poliigon.com/search/free&sz=128",
+    "color": "#8935ff",
+    "extraLinks": [
+      {
+        "text": "Freemium",
+        "href": "https://www.poliigon.com/pricing"
+      }
+    ],
+    "tags": [
+      "HDRIs",
+      "Textures",
+      "Models"
+    ]
+  },
+  {
+    "name": "3DExport",
+    "description": "",
+    "url": "https://3dexport.com/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/3d/3dexport",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://3dexport.com/&sz=128",
+    "color": "#8935ff",
+    "extraLinks": [],
+    "tags": [
+      "Models"
+    ]
+  }
+]

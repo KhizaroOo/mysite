@@ -1,0 +1,353 @@
+[
+  {
+    "name": "Pexels",
+    "description": "All photos and videos on Pexels can be downloaded and used for free.",
+    "url": "https://www.pexels.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/photos/pexels",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.pexels.com&sz=128",
+    "color": "#d41cf1",
+    "extraLinks": [
+      {
+        "text": "Free",
+        "href": "https://www.pexels.com/license/"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "PixaBay",
+    "description": "Free for commercial and noncommercial use. Attribution is not required.",
+    "url": "https://pixabay.com/photos/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/photos/pixabay",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://pixabay.com/photos/&sz=128",
+    "color": "#d41cf1",
+    "extraLinks": [
+      {
+        "text": "Pixabay License",
+        "href": "https://pixabay.com/es/service/license/"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Unsplash",
+    "description": "Free for Commercial and non-commercial purposes. No attribution required.",
+    "url": "https://unsplash.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/photos/unsplash",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://unsplash.com&sz=128",
+    "color": "#d41cf1",
+    "extraLinks": [
+      {
+        "text": "Free",
+        "href": "https://unsplash.com/license"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Picography",
+    "description": "",
+    "url": "https://picography.co",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/photos/picography",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://picography.co&sz=128",
+    "color": "#d41cf1",
+    "extraLinks": [
+      {
+        "text": "CC0 1.0",
+        "href": "https://picography.co/terms/"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Lummi Photos",
+    "description": "",
+    "url": "https://www.lummi.ai/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/photos/lummi",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.lummi.ai/&sz=128",
+    "color": "#d41cf1",
+    "extraLinks": [
+      {
+        "text": "Free",
+        "href": "https://www.lummi.ai/terms"
+      }
+    ],
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "name": "Neurascapes",
+    "description": "",
+    "url": "https://www.neurascapes.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/photos/neurascapes",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.neurascapes.com&sz=128",
+    "color": "#d41cf1",
+    "extraLinks": [
+      {
+        "text": "Free",
+        "href": "https://www.neurascapes.com/license"
+      }
+    ],
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "name": "Openverse",
+    "description": "",
+    "url": "https://openverse.org",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/photos/openverse",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://openverse.org&sz=128",
+    "color": "#d41cf1",
+    "extraLinks": [
+      {
+        "text": "CC",
+        "href": "https://openverse.org"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "BURST",
+    "description": "All our photos are free for commercial use with no attribution required",
+    "url": "https://www.shopify.com/stock-photos",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/photos/nqabpisbca27jeilwiz0",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.shopify.com/stock-photos&sz=128",
+    "color": "#d41cf1",
+    "extraLinks": [
+      {
+        "text": "Burst license",
+        "href": "https://www.shopify.com/stock-photos/licenses/shopify-some-rights-reserved"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "ISO Republic",
+    "description": "",
+    "url": "https://isorepublic.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703379961/freesets/videos/seihdp8tiic1xff7lmty.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://isorepublic.com&sz=128",
+    "color": "#d41cf1",
+    "extraLinks": [
+      {
+        "text": "CC0",
+        "href": "https://isorepublic.com/license/"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Public Work by Cosmos",
+    "description": "",
+    "url": "https://public.work/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/photos/publicwork",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://public.work/&sz=128",
+    "color": "#d41cf1",
+    "extraLinks": [],
+    "tags": [
+      "Vintage"
+    ]
+  },
+  {
+    "name": "Foodiesfeed",
+    "description": "",
+    "url": "https://www.foodiesfeed.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703380304/freesets/photos/dtpc63qf0lta9arfmjxp.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.foodiesfeed.com&sz=128",
+    "color": "#d41cf1",
+    "extraLinks": [
+      {
+        "text": "CC0",
+        "href": "https://www.foodiesfeed.com/license/"
+      }
+    ],
+    "tags": [
+      "Food",
+      "IA"
+    ]
+  },
+  {
+    "name": "Foca stock",
+    "description": "",
+    "url": "https://focastock.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/photos/vo91kfa8yf1bfjlh3hp9",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://focastock.com&sz=128",
+    "color": "#d41cf1",
+    "extraLinks": [
+      {
+        "text": "CC0",
+        "href": "https://focastock.com/license/"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Librestock",
+    "description": "",
+    "url": "https://librestock.com/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/photos/k0wczfs8jhkdyt2emb42",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://librestock.com/&sz=128",
+    "color": "#d41cf1",
+    "extraLinks": [
+      {
+        "text": "CC0",
+        "href": "https://librestock.com/license/"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "StockSnap",
+    "description": "",
+    "url": "https://stocksnap.io",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/photos/stocksnap",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://stocksnap.io&sz=128",
+    "color": "#d41cf1",
+    "extraLinks": [
+      {
+        "text": "CC0 1.0",
+        "href": "https://stocksnap.io/license"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Little Visuals",
+    "description": "",
+    "url": "https://littlevisuals.co",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/photos/dnhigbkxnmiyyb4niexl",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://littlevisuals.co&sz=128",
+    "color": "#d41cf1",
+    "extraLinks": [
+      {
+        "text": "CC0",
+        "href": "https://littlevisuals.co"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Barnimages",
+    "description": "",
+    "url": "https://barnimages.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/photos/cxuir76i6d8mt9misxxg",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://barnimages.com&sz=128",
+    "color": "#d41cf1",
+    "extraLinks": [
+      {
+        "text": "Free",
+        "href": "https://barnimages.com/license/"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Skitterphoto",
+    "description": "",
+    "url": "https://skitterphoto.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/photos/skitterphoto",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://skitterphoto.com&sz=128",
+    "color": "#d41cf1",
+    "extraLinks": [
+      {
+        "text": "CC0",
+        "href": "https://skitterphoto.com/license"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Shotstash",
+    "description": "",
+    "url": "https://shotstash.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/photos/bnxx11wyktgmdczf7a7i",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://shotstash.com&sz=128",
+    "color": "#d41cf1",
+    "extraLinks": [
+      {
+        "text": "CC0",
+        "href": "https://shotstash.com/license/"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Nappy",
+    "description": "",
+    "url": "https://nappy.co",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/photos/nappy",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://nappy.co&sz=128",
+    "color": "#d41cf1",
+    "extraLinks": [
+      {
+        "text": "CC0 1.0",
+        "href": "https://nappy.co/license"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Picjumbo",
+    "description": "",
+    "url": "https://picjumbo.com/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/photos/picjumbo",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://picjumbo.com/&sz=128",
+    "color": "#d41cf1",
+    "extraLinks": [
+      {
+        "text": "Freemium",
+        "href": "https://picjumbo.com/faq-and-terms/"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Gratisography",
+    "description": "",
+    "url": "https://gratisography.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703380639/freesets/photos/gvsm7y89qgfqju6mwvsi.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://gratisography.com&sz=128",
+    "color": "#d41cf1",
+    "extraLinks": [
+      {
+        "text": "Free",
+        "href": "https://gratisography.com/license/"
+      }
+    ],
+    "tags": [
+      "IA"
+    ]
+  },
+  {
+    "name": "Noun Project",
+    "description": "Free with attribution",
+    "url": "https://thenounproject.com/photos/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/photos/rjsgqt0ldn8betpkcmty",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://thenounproject.com/photos/&sz=128",
+    "color": "#d41cf1",
+    "extraLinks": [
+      {
+        "text": "Freemium",
+        "href": "https://thenounproject.com/pricing/#photos"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Freepik",
+    "description": "Free with attribution",
+    "url": "https://www.freepik.com/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/photos/freepik",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.freepik.com/&sz=128",
+    "color": "#d41cf1",
+    "extraLinks": [
+      {
+        "text": "Freepik License",
+        "href": "https://www.freepik.com/legal/terms-of-use#nav-freepik-agreement"
+      }
+    ],
+    "tags": []
+  }
+]

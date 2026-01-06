@@ -1,0 +1,627 @@
+[
+  {
+    "name": "Matter.js",
+    "description": "",
+    "url": "https://brm.io/matter-js/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703714061/freesets/libraries/umlx1hgt8bjycqzwpqqj.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://brm.io/matter-js/&sz=128",
+    "color": "#ff006e",
+    "extraLinks": [],
+    "tags": [
+      "Physics"
+    ]
+  },
+  {
+    "name": "react-magic-motion",
+    "description": "",
+    "url": "https://www.react-magic-motion.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/libraries/react-magic-motion",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.react-magic-motion.com&sz=128",
+    "color": "#ff006e",
+    "extraLinks": [],
+    "tags": [
+      "Animation",
+      "React"
+    ]
+  },
+  {
+    "name": "Tweakpane",
+    "description": "",
+    "url": "https://tweakpane.github.io/docs/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/libraries/tweakpane",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://tweakpane.github.io/docs/&sz=128",
+    "color": "#ff006e",
+    "extraLinks": [],
+    "tags": [
+      "GUI"
+    ]
+  },
+  {
+    "name": "useHooks",
+    "description": "",
+    "url": "https://usehooks.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703461359/freesets/libraries/cnxclmmyt8gkenlzjhsw.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://usehooks.com&sz=128",
+    "color": "#ff006e",
+    "extraLinks": [],
+    "tags": [
+      "Hooks"
+    ]
+  },
+  {
+    "name": "MotionNumber for Framer Motion",
+    "description": "",
+    "url": "https://motion-number.barvian.me/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/libraries/motion-number",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://motion-number.barvian.me/&sz=128",
+    "color": "#ff006e",
+    "extraLinks": [],
+    "tags": [
+      "Transition, format, and localize numbers"
+    ]
+  },
+  {
+    "name": "AutoAnimate",
+    "description": "",
+    "url": "https://auto-animate.formkit.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703722122/freesets/libraries/x1cx4uqv29hd6ylowwcv.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://auto-animate.formkit.com&sz=128",
+    "color": "#ff006e",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/formkit/auto-animate/blob/master/LICENSE"
+      }
+    ],
+    "tags": [
+      "Animations"
+    ]
+  },
+  {
+    "name": "Mousetrap",
+    "description": "",
+    "url": "https://craig.is/killing/mice",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1707069869/freesets/libraries/b4uluaeygy8jpnk2flzs.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://craig.is/killing/mice&sz=128",
+    "color": "#ff006e",
+    "extraLinks": [],
+    "tags": [
+      "Keyboard shortcuts"
+    ]
+  },
+  {
+    "name": "next-video",
+    "description": "",
+    "url": "https://next-video.dev",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/libraries/next-video",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://next-video.dev&sz=128",
+    "color": "#ff006e",
+    "extraLinks": [],
+    "tags": [
+      "Video",
+      "Next.js"
+    ]
+  },
+  {
+    "name": "Luxon",
+    "description": "",
+    "url": "https://moment.github.io/luxon/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703714373/freesets/libraries/zzq11qc4dh3byrn2g1o1.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://moment.github.io/luxon/&sz=128",
+    "color": "#ff006e",
+    "extraLinks": [],
+    "tags": [
+      "Time",
+      "Dates"
+    ]
+  },
+  {
+    "name": "Haiku",
+    "description": "",
+    "url": "https://www.reacthaiku.dev",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/libraries/react-haiku",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.reacthaiku.dev&sz=128",
+    "color": "#ff006e",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/DavidHDev/react-haiku/blob/main/LICENSE.md"
+      }
+    ],
+    "tags": [
+      "React",
+      "Hooks",
+      "Utilities"
+    ]
+  },
+  {
+    "name": "Starlight",
+    "description": "",
+    "url": "https://starlight.astro.build/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/libraries/starlight",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://starlight.astro.build/&sz=128",
+    "color": "#ff006e",
+    "extraLinks": [],
+    "tags": [
+      "Documentation sites",
+      "Astro"
+    ]
+  },
+  {
+    "name": "COBE",
+    "description": "",
+    "url": "https://cobe.vercel.app/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/libraries/cobe",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://cobe.vercel.app/&sz=128",
+    "color": "#ff006e",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/shuding/cobe/blob/main/LICENSE"
+      }
+    ],
+    "tags": [
+      "WebGL globe"
+    ]
+  },
+  {
+    "name": "Swapy",
+    "description": "",
+    "url": "https://swapy.tahazsh.com/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/libraries/swapytahazsh",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://swapy.tahazsh.com/&sz=128",
+    "color": "#ff006e",
+    "extraLinks": [],
+    "tags": [
+      "drag-to-swap layout"
+    ]
+  },
+  {
+    "name": "Blendy",
+    "description": "",
+    "url": "https://blendy.tahazsh.com/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/libraries/blendytahazsh",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://blendy.tahazsh.com/&sz=128",
+    "color": "#ff006e",
+    "extraLinks": [],
+    "tags": [
+      "Transitions",
+      "framework-agnostic"
+    ]
+  },
+  {
+    "name": "PDFSlick",
+    "description": "",
+    "url": "https://pdfslick.dev/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/libraries/pdfslick",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://pdfslick.dev/&sz=128",
+    "color": "#ff006e",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/pdfslick/pdfslick/blob/main/LICENSE"
+      }
+    ],
+    "tags": [
+      "View and Interact with PDFs"
+    ]
+  },
+  {
+    "name": "Anime.js",
+    "description": "",
+    "url": "https://animejs.com/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/libraries/animejs",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://animejs.com/&sz=128",
+    "color": "#ff006e",
+    "extraLinks": [],
+    "tags": [
+      "Animation Engine"
+    ]
+  },
+  {
+    "name": "Driver.js",
+    "description": "",
+    "url": "https://driverjs.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/libraries/driverjs",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://driverjs.com&sz=128",
+    "color": "#ff006e",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/kamranahmedse/driver.js/blob/master/license"
+      }
+    ],
+    "tags": [
+      "Drive user's focus"
+    ]
+  },
+  {
+    "name": "GSAP",
+    "description": "",
+    "url": "https://gsap.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703722231/freesets/libraries/y0vnr0nzd18wdbsg1lkz.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://gsap.com&sz=128",
+    "color": "#ff006e",
+    "extraLinks": [],
+    "tags": [
+      "Animations"
+    ]
+  },
+  {
+    "name": "Swiper",
+    "description": "",
+    "url": "https://swiperjs.com/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/libraries/swiperjs",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://swiperjs.com/&sz=128",
+    "color": "#ff006e",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/nolimits4web/swiper/blob/master/LICENSE"
+      }
+    ],
+    "tags": [
+      "Sliders"
+    ]
+  },
+  {
+    "name": "tldraw SDK",
+    "description": "\"This license does not permit commercial use. If you wish to use tldraw in a commercial product or enterprise, you will need to purchase a commercial license.\"",
+    "url": "https://editorjs.io",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/libraries/tldraw",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://editorjs.io&sz=128",
+    "color": "#ff006e",
+    "extraLinks": [
+      {
+        "text": "tldraw license",
+        "href": "https://tldraw.dev/community/license"
+      }
+    ],
+    "tags": [
+      "Infinite canvas"
+    ]
+  },
+  {
+    "name": "react-spring",
+    "description": "",
+    "url": "https://www.react-spring.dev",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703722374/freesets/libraries/qp1ugsdvlw1umw7ozp7d.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.react-spring.dev&sz=128",
+    "color": "#ff006e",
+    "extraLinks": [],
+    "tags": [
+      "Animations",
+      "React"
+    ]
+  },
+  {
+    "name": "Locomotive Scroll",
+    "description": "",
+    "url": "https://locomotivemtl.github.io/locomotive-scroll/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703460989/freesets/libraries/c624lahc77sg5fgo1eaq.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://locomotivemtl.github.io/locomotive-scroll/&sz=128",
+    "color": "#ff006e",
+    "extraLinks": [],
+    "tags": [
+      "Scroll"
+    ]
+  },
+  {
+    "name": "Tempo",
+    "description": "",
+    "url": "https://tempo.formkit.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/libraries/tempo",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://tempo.formkit.com&sz=128",
+    "color": "#ff006e",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/formkit/tempo/blob/main/LICENSE"
+      }
+    ],
+    "tags": [
+      "Time",
+      "Dates"
+    ]
+  },
+  {
+    "name": "Unpic",
+    "description": "",
+    "url": "https://unpic.pics/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/libraries/unpicpics",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://unpic.pics/&sz=128",
+    "color": "#ff006e",
+    "extraLinks": [],
+    "tags": [
+      "Image tools"
+    ]
+  },
+  {
+    "name": "Vaul",
+    "description": "",
+    "url": "https://vaul.emilkowal.ski",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703716210/freesets/libraries/xzlo82pgowtivmpjxdlk.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://vaul.emilkowal.ski&sz=128",
+    "color": "#ff006e",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/emilkowalski/vaul/blob/main/LICENSE.md"
+      }
+    ],
+    "tags": [
+      "Drawer",
+      "React"
+    ]
+  },
+  {
+    "name": "swup",
+    "description": "",
+    "url": "https://swup.js.org/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/libraries/swup",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://swup.js.org/&sz=128",
+    "color": "#ff006e",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/swup/swup/blob/master/LICENSE"
+      }
+    ],
+    "tags": [
+      "Transitions for server-rendered pages"
+    ]
+  },
+  {
+    "name": "Yoopta-Editor",
+    "description": "",
+    "url": "https://yoopta.dev/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/libraries/bvivtqfwrnj2xakfi8zt",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://yoopta.dev/&sz=128",
+    "color": "#ff006e",
+    "extraLinks": [],
+    "tags": [
+      "Rich-text editor"
+    ]
+  },
+  {
+    "name": "Atropos",
+    "description": "",
+    "url": "https://atroposjs.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703715783/freesets/libraries/fnn0q2erzzpqkyhrzckk.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://atroposjs.com&sz=128",
+    "color": "#ff006e",
+    "extraLinks": [],
+    "tags": [
+      "Parallax"
+    ]
+  },
+  {
+    "name": "Sandpack",
+    "description": "",
+    "url": "https://sandpack.codesandbox.io",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703721779/freesets/libraries/pd8lyjpwf79zercchctr.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://sandpack.codesandbox.io&sz=128",
+    "color": "#ff006e",
+    "extraLinks": [
+      {
+        "text": "Apache License 2.0",
+        "href": "https://github.com/codesandbox/sandpack"
+      }
+    ],
+    "tags": [
+      "Live coding"
+    ]
+  },
+  {
+    "name": "Tilt",
+    "description": "",
+    "url": "https://jdion.xyz/tilt",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/libraries/tilt",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://jdion.xyz/tilt&sz=128",
+    "color": "#ff006e",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/jonathandion/mono/blob/main/LICENSE"
+      }
+    ],
+    "tags": [
+      "Parallax"
+    ]
+  },
+  {
+    "name": "Framer Motion",
+    "description": "",
+    "url": "https://www.framer.com/motion/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703721531/freesets/libraries/mwfnikeq6pgt2y8xeeuu.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.framer.com/motion/&sz=128",
+    "color": "#ff006e",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/framer/motion?tab=readme-ov-file#%EF%B8%8F-license"
+      }
+    ],
+    "tags": [
+      "Animations",
+      "React"
+    ]
+  },
+  {
+    "name": "Editor.js",
+    "description": "",
+    "url": "https://editorjs.io",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/libraries/editorjs",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://editorjs.io&sz=128",
+    "color": "#ff006e",
+    "extraLinks": [
+      {
+        "text": "Apache License 2.0",
+        "href": "https://github.com/codex-team/editor.js/blob/next/LICENSE"
+      }
+    ],
+    "tags": [
+      "Block-style editor"
+    ]
+  },
+  {
+    "name": "RoughNotation",
+    "description": "",
+    "url": "https://roughnotation.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703716041/freesets/libraries/xywhclwf3zv29jtmppkf.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://roughnotation.com&sz=128",
+    "color": "#ff006e",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/rough-stuff/rough-notation/blob/master/LICENSE"
+      }
+    ],
+    "tags": [
+      "Annotations"
+    ]
+  },
+  {
+    "name": "lightGallery",
+    "description": "",
+    "url": "https://www.lightgalleryjs.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1705093204/freesets/libraries/gbvshhwql1vuevniicae.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.lightgalleryjs.com&sz=128",
+    "color": "#ff006e",
+    "extraLinks": [],
+    "tags": [
+      "Image gallery"
+    ]
+  },
+  {
+    "name": "PhotoSwipe",
+    "description": "",
+    "url": "https://photoswipe.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1705093099/freesets/libraries/p4tly9q7bbbnseutl1al.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://photoswipe.com&sz=128",
+    "color": "#ff006e",
+    "extraLinks": [],
+    "tags": [
+      "Image gallery"
+    ]
+  },
+  {
+    "name": "Plyr",
+    "description": "",
+    "url": "https://plyr.io",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703722052/freesets/libraries/vnzjqkvjkko8oynzkvoa.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://plyr.io&sz=128",
+    "color": "#ff006e",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/sampotts/plyr/blob/master/LICENSE.md"
+      }
+    ],
+    "tags": [
+      "Media player"
+    ]
+  },
+  {
+    "name": "React Google Maps",
+    "description": "",
+    "url": "https://visgl.github.io/react-google-maps/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/libraries/react-google-maps",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://visgl.github.io/react-google-maps/&sz=128",
+    "color": "#ff006e",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/visgl/react-google-maps/blob/main/LICENSE.md"
+      }
+    ],
+    "tags": [
+      "Maps"
+    ]
+  },
+  {
+    "name": "FilePond",
+    "description": "",
+    "url": "https://pqina.nl/filepond/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703715871/freesets/libraries/eadtlmvs1fn45whzka3p.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://pqina.nl/filepond/&sz=128",
+    "color": "#ff006e",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/pqina/filepond/blob/master/LICENSE"
+      }
+    ],
+    "tags": [
+      "Uploads"
+    ]
+  },
+  {
+    "name": "Draggable JS",
+    "description": "",
+    "url": "https://shopify.github.io/draggable/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/libraries/draggable",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://shopify.github.io/draggable/&sz=128",
+    "color": "#ff006e",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/Shopify/shopify.github.com/blob/main/LICENSE.md"
+      }
+    ],
+    "tags": [
+      "Drag and drop"
+    ]
+  },
+  {
+    "name": "yup",
+    "description": "",
+    "url": "https://github.com/jquense/yup",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703721354/freesets/libraries/vf3bljcv8cw7nklk3s1o.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://github.com/jquense/yup&sz=128",
+    "color": "#ff006e",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/jquense/yup/blob/master/LICENSE.md"
+      }
+    ],
+    "tags": [
+      "Form validation"
+    ]
+  },
+  {
+    "name": "ipad-cursor",
+    "description": "",
+    "url": "https://cursor.oooo.so/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/libraries/cursoroooo",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://cursor.oooo.so/&sz=128",
+    "color": "#ff006e",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/CatsJuice/ipad-cursor/blob/main/LICENSE"
+      }
+    ],
+    "tags": [
+      "iPad's mouse effect"
+    ]
+  },
+  {
+    "name": "Mapbox",
+    "description": "",
+    "url": "https://www.mapbox.com/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/libraries/mapbox",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.mapbox.com/&sz=128",
+    "color": "#ff006e",
+    "extraLinks": [
+      {
+        "text": "Freemium",
+        "href": "https://www.mapbox.com/pricing"
+      }
+    ],
+    "tags": [
+      "Maps"
+    ]
+  }
+]

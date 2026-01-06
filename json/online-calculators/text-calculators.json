@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Case Converter",
+    "description": "Convert text between different cases (camel, snake, pascal, etc).",
+    "url": "/text/case-converter/",
+    "live": "yes",
+    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-pencil size-5\"><path d=\"M21.174 6.812a1 1 0 0 0-3.986-3.987L3.842 16.174a2 2 0 0 0-.5.83l-1.321 4.352a.5.5 0 0 0 .623.622l4.353-1.32a2 2 0 0 0 .83-.497z\"></path><path d=\"m15 5 4 4\"></path></svg>",
+    "isCategory": true
+  },
+  {
+    "name": "Syllable Counter",
+    "description": "Count syllables in words and analyze text complexity.",
+    "url": "/text/syllable-counter/",
+    "live": "yes",
+    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-align-justify size-5\"><path d=\"M3 12h18\"></path><path d=\"M3 18h18\"></path><path d=\"M3 6h18\"></path></svg>",
+    "isCategory": true
+  },
+  {
+    "name": "Word Unscrambler",
+    "description": "Unscramble letters to find possible words.",
+    "url": "/text/word-unscrambler/",
+    "live": "yes",
+    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-scroll-text size-5\"><path d=\"M15 12h-5\"></path><path d=\"M15 8h-5\"></path><path d=\"M19 17V5a2 2 0 0 0-2-2H4\"></path><path d=\"M8 21h12a2 2 0 0 0 2-2v-1a1 1 0 0 0-1-1H11a1 1 0 0 0-1 1v1a2 2 0 1 1-4 0V5a2 2 0 1 0-4 0v2a1 1 0 0 0 1 1h3\"></path></svg>",
+    "isCategory": true
+  },
+  {
+    "name": "Word Counter",
+    "description": "Count words, characters, sentences, and paragraphs in your text.",
+    "url": "/text/word-counter/",
+    "live": "yes",
+    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-type size-5\"><polyline points=\"4 7 4 4 20 4 20 7\"></polyline><line x1=\"9\" x2=\"15\" y1=\"20\" y2=\"20\"></line><line x1=\"12\" x2=\"12\" y1=\"4\" y2=\"20\"></line></svg>",
+    "isCategory": true
+  },
+  {
+    "name": "Readability Calculator",
+    "description": "Calculate readability scores and grade levels for your text.",
+    "url": "",
+    "live": "coming-soon",
+    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-book size-5\"><path d=\"M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H19a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1H6.5a1 1 0 0 1 0-5H20\"></path></svg>",
+    "isCategory": false
+  },
+  {
+    "name": "Text Analyzer",
+    "description": "Analyze text for word frequency, reading time, and other metrics.",
+    "url": "",
+    "live": "coming-soon",
+    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-file-text size-5\"><path d=\"M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7Z\"></path><path d=\"M14 2v4a2 2 0 0 0 2 2h4\"></path><path d=\"M10 9H8\"></path><path d=\"M16 13H8\"></path><path d=\"M16 17H8\"></path></svg>",
+    "isCategory": false
+  }
+]

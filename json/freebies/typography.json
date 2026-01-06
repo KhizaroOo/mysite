@@ -1,0 +1,254 @@
+[
+  {
+    "name": "Google fonts",
+    "description": "",
+    "url": "https://fonts.google.com/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/typography/google",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://fonts.google.com/&sz=128",
+    "color": "#ffaa1b",
+    "extraLinks": [
+      {
+        "text": "Multiple",
+        "href": "https://developers.google.com/fonts/faq#can_i_use_any_font_in_a_commercial_product"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Fontsource",
+    "description": "",
+    "url": "https://fontsource.org",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703614544/freesets/typography/i5momje7eakesx8ltcex.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://fontsource.org&sz=128",
+    "color": "#ffaa1b",
+    "extraLinks": [
+      {
+        "text": "Multiple",
+        "href": "https://github.com/fontsource/fontsource?tab=readme-ov-file#licensing"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "name": "Typewolf",
+    "description": "",
+    "url": "https://www.typewolf.com/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703374218/freesets/typography/uhcny9gmqaobpoxtfglb.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.typewolf.com/&sz=128",
+    "color": "#ffaa1b",
+    "extraLinks": [],
+    "tags": [
+      "Inspiration"
+    ]
+  },
+  {
+    "name": "Typo/graphic",
+    "description": "",
+    "url": "https://www.typographicposters.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/typography/mawekotxpersuho9mast",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.typographicposters.com&sz=128",
+    "color": "#ffaa1b",
+    "extraLinks": [],
+    "tags": [
+      "Inspiration"
+    ]
+  },
+  {
+    "name": "Fontshare",
+    "description": "",
+    "url": "https://www.fontshare.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/typography/fontshare",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.fontshare.com&sz=128",
+    "color": "#ffaa1b",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Fontpair",
+    "description": "",
+    "url": "https://www.fontpair.co",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/typography/j8zzfqs6ujvggncphlip",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.fontpair.co&sz=128",
+    "color": "#ffaa1b",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Free Faces",
+    "description": "",
+    "url": "https://www.freefaces.gallery",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/typography/freefaces",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.freefaces.gallery&sz=128",
+    "color": "#ffaa1b",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "UNCUT.wtf",
+    "description": "",
+    "url": "https://uncut.wtf/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/typography/uncutwtf",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://uncut.wtf/&sz=128",
+    "color": "#ffaa1b",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Archetype",
+    "description": "",
+    "url": "https://archetypeapp.com/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/typography/archetype",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://archetypeapp.com/&sz=128",
+    "color": "#ffaa1b",
+    "extraLinks": [],
+    "tags": [
+      "Tool"
+    ]
+  },
+  {
+    "name": "Font Meme",
+    "description": "",
+    "url": "https://fontmeme.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703378435/freesets/typography/lhrtmhl3nrcuqlvht8nt.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://fontmeme.com&sz=128",
+    "color": "#ffaa1b",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Fontjoy",
+    "description": "",
+    "url": "https://fontjoy.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/typography/fontjoy",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://fontjoy.com&sz=128",
+    "color": "#ffaa1b",
+    "extraLinks": [],
+    "tags": [
+      "Tool"
+    ]
+  },
+  {
+    "name": "Font Brief",
+    "description": "",
+    "url": "https://www.fontbrief.com/home",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/typography/fontbrief",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.fontbrief.com/home&sz=128",
+    "color": "#ffaa1b",
+    "extraLinks": [],
+    "tags": [
+      "Tool"
+    ]
+  },
+  {
+    "name": "Font style matcher",
+    "description": "",
+    "url": "https://meowni.ca/font-style-matcher/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/typography/font-style-matcher",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://meowni.ca/font-style-matcher/&sz=128",
+    "color": "#ffaa1b",
+    "extraLinks": [],
+    "tags": [
+      "Tool"
+    ]
+  },
+  {
+    "name": "Fonts In Use",
+    "description": "",
+    "url": "https://fontsinuse.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1706564814/freesets/typography/i91pmpuedxlquhnh6n7q.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://fontsinuse.com&sz=128",
+    "color": "#ffaa1b",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Fluid typography",
+    "description": "",
+    "url": "https://modern-fluid-typography.vercel.app",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/typography/fluid-typography",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://modern-fluid-typography.vercel.app&sz=128",
+    "color": "#ffaa1b",
+    "extraLinks": [],
+    "tags": [
+      "Tool"
+    ]
+  },
+  {
+    "name": "Beautiful web type",
+    "description": "",
+    "url": "https://beautifulwebtype.com/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/typography/beautifulwebtype",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://beautifulwebtype.com/&sz=128",
+    "color": "#ffaa1b",
+    "extraLinks": [],
+    "tags": [
+      "Inspiration"
+    ]
+  },
+  {
+    "name": "Typescale",
+    "description": "",
+    "url": "https://typescale.io/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/typography/typescale",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://typescale.io/&sz=128",
+    "color": "#ffaa1b",
+    "extraLinks": [],
+    "tags": [
+      "Plugin"
+    ]
+  },
+  {
+    "name": "Font.Download",
+    "description": "",
+    "url": "https://font.download/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/typography/fontdownload",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://font.download/&sz=128",
+    "color": "#ffaa1b",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Modern Font Stacks",
+    "description": "",
+    "url": "https://modernfontstacks.com/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/typography/modernfontstacks",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://modernfontstacks.com/&sz=128",
+    "color": "#ffaa1b",
+    "extraLinks": [],
+    "tags": [
+      "CSS"
+    ]
+  },
+  {
+    "name": "DaFont",
+    "description": "",
+    "url": "https://www.dafont.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/typography/viak4hfmoiao8nywnzbc",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.dafont.com&sz=128",
+    "color": "#ffaa1b",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Font Pairings",
+    "description": "",
+    "url": "https://fontpairings.bypeople.com/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/typography/fontpairings",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://fontpairings.bypeople.com/&sz=128",
+    "color": "#ffaa1b",
+    "extraLinks": [],
+    "tags": [
+      "Tool"
+    ]
+  },
+  {
+    "name": "OnlineWebFonts.COM",
+    "description": "",
+    "url": "https://www.onlinewebfonts.com/fonts",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/typography/xmqlrpdre5sm4gnly50g",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.onlinewebfonts.com/fonts&sz=128",
+    "color": "#ffaa1b",
+    "extraLinks": [],
+    "tags": []
+  }
+]

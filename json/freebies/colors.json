@@ -1,0 +1,460 @@
+[
+  {
+    "name": "Realtime Colors",
+    "description": "",
+    "url": "https://www.realtimecolors.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/colors/realtime-colors",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.realtimecolors.com&sz=128",
+    "color": "#ff36a2",
+    "extraLinks": [],
+    "tags": [
+      "Preview"
+    ]
+  },
+  {
+    "name": "AI Colors",
+    "description": "",
+    "url": "https://tintmint.net",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/colors/ai-colors",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://tintmint.net&sz=128",
+    "color": "#ff36a2",
+    "extraLinks": [],
+    "tags": [
+      "AI",
+      "Preview"
+    ]
+  },
+  {
+    "name": "Color selector",
+    "description": "",
+    "url": "https://www.color-selector.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/colors/color-selector",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.color-selector.com&sz=128",
+    "color": "#ff36a2",
+    "extraLinks": [],
+    "tags": [
+      "Catalogue"
+    ]
+  },
+  {
+    "name": "Coolors",
+    "description": "",
+    "url": "https://coolors.co",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/colors/coolors",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://coolors.co&sz=128",
+    "color": "#ff36a2",
+    "extraLinks": [],
+    "tags": [
+      "Image"
+    ]
+  },
+  {
+    "name": "ColorBeta",
+    "description": "",
+    "url": "https://colorbeta.com/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/colors/colorbeta",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://colorbeta.com/&sz=128",
+    "color": "#ff36a2",
+    "extraLinks": [],
+    "tags": [
+      "Gradients"
+    ]
+  },
+  {
+    "name": "hue.tools",
+    "description": "",
+    "url": "https://hue.tools/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/colors/huetools",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://hue.tools/&sz=128",
+    "color": "#ff36a2",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Picular",
+    "description": "",
+    "url": "https://picular.co",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/colors/picular",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://picular.co&sz=128",
+    "color": "#ff36a2",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Color Leap",
+    "description": "",
+    "url": "https://colorleap.app/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1706205331/freesets/colors/vlvjtgfchdlyfp0y5hhr.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://colorleap.app/&sz=128",
+    "color": "#ff36a2",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Pigment",
+    "description": "",
+    "url": "https://pigment.shapefactory.co",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1706206051/freesets/colors/mxpvc3dhmnidvwu3hnkq.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://pigment.shapefactory.co&sz=128",
+    "color": "#ff36a2",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Inspotype",
+    "description": "",
+    "url": "https://www.inspotype.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/colors/inspotype",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.inspotype.com&sz=128",
+    "color": "#ff36a2",
+    "extraLinks": [],
+    "tags": [
+      "Preview"
+    ]
+  },
+  {
+    "name": "Colormind",
+    "description": "",
+    "url": "http://colormind.io/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/colors/colormind",
+    "favicon": "https://www.google.com/s2/favicons?domain=http://colormind.io/&sz=128",
+    "color": "#ff36a2",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Werner",
+    "description": "",
+    "url": "https://www.c82.net/werner/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1706204887/freesets/colors/nlwp5zdb5a92xvkiqakr.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.c82.net/werner/&sz=128",
+    "color": "#ff36a2",
+    "extraLinks": [],
+    "tags": [
+      "Catalogue"
+    ]
+  },
+  {
+    "name": "HueSnap",
+    "description": "",
+    "url": "https://www.huesnap.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1706206139/freesets/colors/ilpiojkklmm5indg4niz.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.huesnap.com&sz=128",
+    "color": "#ff36a2",
+    "extraLinks": [],
+    "tags": [
+      "Image"
+    ]
+  },
+  {
+    "name": "Adobe Color",
+    "description": "",
+    "url": "https://color.adobe.com/es/create/color-wheel",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1706202013/freesets/colors/ex9scrdemangoqjif70o.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://color.adobe.com/es/create/color-wheel&sz=128",
+    "color": "#ff36a2",
+    "extraLinks": [],
+    "tags": [
+      "Images"
+    ]
+  },
+  {
+    "name": "Palette Maker",
+    "description": "",
+    "url": "https://palettemaker.com/app",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/colors/palettemaker",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://palettemaker.com/app&sz=128",
+    "color": "#ff36a2",
+    "extraLinks": [],
+    "tags": [
+      "Preview"
+    ]
+  },
+  {
+    "name": "Hypercolor",
+    "description": "",
+    "url": "https://hypercolor.dev/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/colors/hypercolor",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://hypercolor.dev/&sz=128",
+    "color": "#ff36a2",
+    "extraLinks": [
+      {
+        "text": "MIT",
+        "href": "https://github.com/jordihales/hypercolor/blob/main/LICENSE"
+      }
+    ],
+    "tags": [
+      "Generator",
+      "Gradients",
+      "Tailwind"
+    ]
+  },
+  {
+    "name": "Randoma11y",
+    "description": "",
+    "url": "https://randoma11y.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/colors/randoma11y",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://randoma11y.com&sz=128",
+    "color": "#ff36a2",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Material Theme Builder",
+    "description": "",
+    "url": "https://material-foundation.github.io/material-theme-builder/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/colors/material-theme-builder",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://material-foundation.github.io/material-theme-builder/&sz=128",
+    "color": "#ff36a2",
+    "extraLinks": [
+      {
+        "text": "Apache V2.0",
+        "href": "https://github.com/material-foundation/material-theme-builder/blob/main/LICENSE"
+      }
+    ],
+    "tags": [
+      "Generator",
+      "Preview"
+    ]
+  },
+  {
+    "name": "ColorMagic",
+    "description": "",
+    "url": "https://colormagic.app/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/colors/colormagic",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://colormagic.app/&sz=128",
+    "color": "#ff36a2",
+    "extraLinks": [],
+    "tags": [
+      "Generator",
+      "AI"
+    ]
+  },
+  {
+    "name": "WebGradients",
+    "description": "",
+    "url": "https://webgradients.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1706201464/freesets/colors/f4k7kpstuybqrq5iivep.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://webgradients.com&sz=128",
+    "color": "#ff36a2",
+    "extraLinks": [],
+    "tags": [
+      "Gradients"
+    ]
+  },
+  {
+    "name": "Palette",
+    "description": "",
+    "url": "https://palettte.app/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/colors/palette",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://palettte.app/&sz=128",
+    "color": "#ff36a2",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Flat UI Colors",
+    "description": "",
+    "url": "https://flatuicolors.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1706203336/freesets/colors/lwhtjq9voxepwbq5vegj.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://flatuicolors.com&sz=128",
+    "color": "#ff36a2",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "CSS Gradient",
+    "description": "",
+    "url": "https://cssgradient.io",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/colors/css-gradient",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://cssgradient.io&sz=128",
+    "color": "#ff36a2",
+    "extraLinks": [],
+    "tags": [
+      "Gradients"
+    ]
+  },
+  {
+    "name": "Culrs",
+    "description": "",
+    "url": "https://culrs.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/colors/culrs",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://culrs.com&sz=128",
+    "color": "#ff36a2",
+    "extraLinks": [],
+    "tags": [
+      "Palettes"
+    ]
+  },
+  {
+    "name": "Colorable",
+    "description": "",
+    "url": "https://colorable.jxnblk.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/colors/colorable",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://colorable.jxnblk.com&sz=128",
+    "color": "#ff36a2",
+    "extraLinks": [],
+    "tags": [
+      "Preview"
+    ]
+  },
+  {
+    "name": "Material UI",
+    "description": "",
+    "url": "https://materialui.co/colors",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1706201744/freesets/colors/dzigel4p6odtxm6a7vek.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://materialui.co/colors&sz=128",
+    "color": "#ff36a2",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Cool Contrast",
+    "description": "",
+    "url": "https://coolcontrast.vercel.app/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/colors/coolcontrast",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://coolcontrast.vercel.app/&sz=128",
+    "color": "#ff36a2",
+    "extraLinks": [],
+    "tags": [
+      "Preview",
+      "Contrast"
+    ]
+  },
+  {
+    "name": "Happy Hues",
+    "description": "",
+    "url": "https://www.happyhues.co",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703609981/freesets/colors/nqn5hl6bvuoq4wfhvj1j.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.happyhues.co&sz=128",
+    "color": "#ff36a2",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "tints.dev",
+    "description": "",
+    "url": "https://www.tints.dev/brand/8C1AE5",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703609895/freesets/colors/xadvbhxlkdnnpjgdl2lk.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.tints.dev/brand/8C1AE5&sz=128",
+    "color": "#ff36a2",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Color Hunt",
+    "description": "",
+    "url": "https://colorhunt.co",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1706203553/freesets/colors/tf04wgbxukm07xo2tinj.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://colorhunt.co&sz=128",
+    "color": "#ff36a2",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Shaper",
+    "description": "",
+    "url": "https://hihayk.github.io/shaper/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1707612765/freesets/colors/zjo076mgjflmmbpefkjr.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://hihayk.github.io/shaper/&sz=128",
+    "color": "#ff36a2",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Toptal",
+    "description": "",
+    "url": "https://www.toptal.com/designers/colourcode/freebuild-color-builder",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1706204167/freesets/colors/jxfys7m34d2ysx1urjqf.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.toptal.com/designers/colourcode/freebuild-color-builder&sz=128",
+    "color": "#ff36a2",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "UI Colors",
+    "description": "",
+    "url": "https://uicolors.app/create",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/colors/uicolors",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://uicolors.app/create&sz=128",
+    "color": "#ff36a2",
+    "extraLinks": [],
+    "tags": [
+      "Preview"
+    ]
+  },
+  {
+    "name": "Poline",
+    "description": "",
+    "url": "https://meodai.github.io/poline/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/colors/poline",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://meodai.github.io/poline/&sz=128",
+    "color": "#ff36a2",
+    "extraLinks": [],
+    "tags": [
+      "Library"
+    ]
+  },
+  {
+    "name": "Khroma",
+    "description": "",
+    "url": "https://www.khroma.co",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1706205072/freesets/colors/nanohbilxxdv7az375iz.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.khroma.co&sz=128",
+    "color": "#ff36a2",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Paletton",
+    "description": "",
+    "url": "https://www.paletton.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1706201622/freesets/colors/bueddeahtc97swuendgx.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.paletton.com&sz=128",
+    "color": "#ff36a2",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "M.D. Palette Generator",
+    "description": "",
+    "url": "https://materialpalettes.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/colors/h9xk2r0tj0cmem8lrrrq.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://materialpalettes.com&sz=128",
+    "color": "#ff36a2",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Scale",
+    "description": "",
+    "url": "https://hihayk.github.io/scale/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/colors/o4mxuxdozuahnutgopw5.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://hihayk.github.io/scale/&sz=128",
+    "color": "#ff36a2",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "uiGradients",
+    "description": "",
+    "url": "https://uigradients.com/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/colors/oakf9ule9y1chxb8yatt.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://uigradients.com/&sz=128",
+    "color": "#ff36a2",
+    "extraLinks": [],
+    "tags": [
+      "Gradients"
+    ]
+  },
+  {
+    "name": "ColorHexa",
+    "description": "",
+    "url": "https://www.colorhexa.com/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/colors/colorhexa",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.colorhexa.com/&sz=128",
+    "color": "#ff36a2",
+    "extraLinks": [],
+    "tags": []
+  }
+]

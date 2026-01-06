@@ -1,0 +1,38 @@
+[
+  {
+    "name": "SIP Calculator",
+    "description": "Calculate returns on your Systematic Investment Plan (SIP) investments with detailed growth analysis.",
+    "url": "calculators/finance-calculators/sip-calculator",
+    "live": "yes",
+    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-trending-up size-5\"><polyline points=\"22 7 13.5 15.5 8.5 10.5 2 17\"></polyline><polyline points=\"16 7 22 7 22 13\"></polyline></svg>",
+    "isCategory": true
+  },
+  {
+    "name": "Lumpsum Calculator",
+    "description": "Calculate returns on your Lumpsum investments with detailed growth analysis.",
+    "url": "calculators/finance-calculators/lumpsum-calculator",
+    "live": "yes",
+    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-trending-up size-5\"><polyline points=\"22 7 13.5 15.5 8.5 10.5 2 17\"></polyline><polyline points=\"16 7 22 7 22 13\"></polyline></svg>",
+    "isCategory": false
+  },
+  {
+    "name": "Simple Interest Calculator",
+    "description": "Calculate basic interest earned on principal amount with simple interest rate.",
+    "url": "calculators/finance-calculators/simple-interest-calculator/",
+    "live": "yes",
+    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-calculator size-5\"><rect width=\"16\" height=\"20\" x=\"4\" y=\"2\" rx=\"2\"></rect><line x1=\"8\" x2=\"16\" y1=\"6\" y2=\"6\"></line><line x1=\"16\" x2=\"16\" y1=\"14\" y2=\"18\"></line><path d=\"M16 10h.01\"></path><path d=\"M12 10h.01\"></path><path d=\"M8 10h.01\"></path><path d=\"M12 14h.01\"></path><path d=\"M8 14h.01\"></path><path d=\"M12 18h.01\"></path><path d=\"M8 18h.01\"></path></svg>",
+    "isCategory": true
+  },
+  {
+    "name": "Return on Investment Calculator",
+    "description": "Calculate Return on Investment (ROI) for your investments.",
+    "url": "calculators/finance-calculators/return-on-investment-calculator/",
+    "live": "yes",
+    "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-trending-up size-5\"><polyline points=\"22 7 13.5 15.5 8.5 10.5 2 17\"></polyline><polyline points=\"16 7 22 7 22 13\"></polyline></svg>",
+    "isCategory": true
+  }
+]
+
+
+
+

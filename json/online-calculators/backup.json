@@ -1,0 +1,241 @@
+ //
+ //{
+ //  "name": "Car Loan Payoff Calculator",
+ //  "description": "Calculate car loan payments, interest, and create amortization schedules.",
+ //  "url": "calculators/finance-calculators/car-loan-payoff-calculator/",
+ //  "live": "yes",
+ //  "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-calculator size-5\"><rect width=\"16\" height=\"20\" x=\"4\" y=\"2\" rx=\"2\"></rect><line x1=\"8\" x2=\"16\" y1=\"6\" y2=\"6\"></line><line x1=\"16\" x2=\"16\" y1=\"14\" y2=\"18\"></line><path d=\"M16 10h.01\"></path><path d=\"M12 10h.01\"></path><path d=\"M8 10h.01\"></path><path d=\"M12 14h.01\"></path><path d=\"M8 14h.01\"></path><path d=\"M12 18h.01\"></path><path d=\"M8 18h.01\"></path></svg>",
+ //  "isCategory": true
+ //},
+ //{
+ //  "name": "Mortgage Calculator",
+ //  "description": "Calculate mortgage payments, interest, and create amortization schedules.",
+ //  "url": "calculators/finance-calculators/mortgage-calculator/",
+ //  "live": "yes",
+ //  "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-building size-5\"><rect width=\"16\" height=\"20\" x=\"4\" y=\"2\" rx=\"2\" ry=\"2\"></rect><path d=\"M9 22v-4h6v4\"></path><path d=\"M8 6h.01\"></path><path d=\"M16 6h.01\"></path><path d=\"M12 6h.01\"></path><path d=\"M12 10h.01\"></path><path d=\"M12 14h.01\"></path><path d=\"M16 10h.01\"></path><path d=\"M16 14h.01\"></path><path d=\"M8 10h.01\"></path><path d=\"M8 14h.01\"></path></svg>",
+ //  "isCategory": true
+ //},
+ //{
+ //  "name": "Compound Interest Calculator",
+ //  "description": "Calculate how your money grows with compound interest over time with detailed analysis.",
+ //  "url": "calculators/finance-calculators/compound-interest-calculator/",
+ //  "live": "yes",
+ //  "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-trending-up size-5\"><polyline points=\"22 7 13.5 15.5 8.5 10.5 2 17\"></polyline><polyline points=\"16 7 22 7 22 13\"></polyline></svg>",
+ //  "isCategory": true
+ //},
+ //{
+ //  "name": "Loan Amortization Calculator",
+ //  "description": "Calculate loan payments, interest, and create amortization schedules.",
+ //  "url": "calculators/finance-calculators/loan-amortization-calculator/",
+ //  "live": "yes",
+ //  "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-landmark size-5\"><line x1=\"3\" x2=\"21\" y1=\"22\" y2=\"22\"></line><line x1=\"6\" x2=\"6\" y1=\"18\" y2=\"11\"></line><line x1=\"10\" x2=\"10\" y1=\"18\" y2=\"11\"></line><line x1=\"14\" x2=\"14\" y1=\"18\" y2=\"11\"></line><line x1=\"18\" x2=\"18\" y1=\"18\" y2=\"11\"></line><polygon points=\"12 2 20 7 4 7\"></polygon></svg>",
+ //  "isCategory": true
+ //},
+ //{
+ //  "name": "EMI Calculator",
+ //  "description": "Calculate your Equated Monthly Installment (EMI) for loans with detailed breakup.",
+ //  "url": "",
+ //  "live": "coming-soon",
+ //  "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-dollar-sign size-5\"><line x1=\"12\" x2=\"12\" y1=\"2\" y2=\"22\"></line><path d=\"M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6\"></path></svg>",
+ //  "isCategory": false
+ //},
+ //{
+ //  "name": "GST Calculator",
+ //  "description": "Calculate Goods and Services Tax (GST) with inclusive and exclusive options.",
+ //  "url": "",
+ //  "live": "coming-soon",
+ //  "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-percent size-5\"><line x1=\"19\" x2=\"5\" y1=\"5\" y2=\"19\"></line><circle cx=\"6.5\" cy=\"6.5\" r=\"2.5\"></circle><circle cx=\"17.5\" cy=\"17.5\" r=\"2.5\"></circle></svg>",
+ //  "isCategory": false
+ //},
+ //{
+ //  "name": "Tax Calculator",
+ //  "description": "Calculate your income tax liability with detailed deductions and exemptions.",
+ //  "url": "",
+ //  "live": "coming-soon",
+ //  "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-receipt size-5\"><path d=\"M4 2v20l2-1 2 1 2-1 2 1 2-1 2 1 2-1 2 1V2l-2 1-2-1-2 1-2-1-2 1-2-1-2 1Z\"></path><path d=\"M16 8h-6a2 2 0 1 0 0 4h4a2 2 0 1 1 0 4H8\"></path><path d=\"M12 17.5v-11\"></path></svg>",
+ //  "isCategory": false
+ //},
+ //{
+ //  "name": "ROI Calculator",
+ //  "description": "Calculate Return on Investment (ROI) for your investments.",
+ //  "url": "",
+ //  "live": "coming-soon",
+ //  "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-trending-up size-5\"><polyline points=\"22 7 13.5 15.5 8.5 10.5 2 17\"></polyline><polyline points=\"16 7 22 7 22 13\"></polyline></svg>",
+ //  "isCategory": false
+ //},
+ //{
+ //  "name": "Tip Calculator",
+ //  "description": "Calculate tips and split bills easily among groups.",
+ //  "url": "",
+ //  "live": "coming-soon",
+ //  "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-calculator size-5\"><rect width=\"16\" height=\"20\" x=\"4\" y=\"2\" rx=\"2\"></rect><line x1=\"8\" x2=\"16\" y1=\"6\" y2=\"6\"></line><line x1=\"16\" x2=\"16\" y1=\"14\" y2=\"18\"></line><path d=\"M16 10h.01\"></path><path d=\"M12 10h.01\"></path><path d=\"M8 10h.01\"></path><path d=\"M12 14h.01\"></path><path d=\"M8 14h.01\"></path><path d=\"M12 18h.01\"></path><path d=\"M8 18h.01\"></path></svg>",
+ //  "isCategory": false
+ //},
+ //{
+ //  "name": "Currency Converter",
+ //  "description": "Convert between different currencies with real-time exchange rates.",
+ //  "url": "",
+ //  "live": "coming-soon",
+ //  "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-coins size-5\"><circle cx=\"8\" cy=\"8\" r=\"6\"></circle><path d=\"M18.09 10.37A6 6 0 1 1 10.34 18\"></path><path d=\"M7 6h1v4\"></path><path d=\"m16.71 13.88.7.71-2.82 2.82\"></path></svg>",
+ //  "isCategory": false
+ //},
+ //{
+ //  "name": "Debt Payoff Calculator",
+ //  "description": "Plan your debt payoff strategy with detailed payment schedules.",
+ //  "url": "",
+ //  "live": "coming-soon",
+ //  "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-credit-card size-5\"><rect width=\"20\" height=\"14\" x=\"2\" y=\"5\" rx=\"2\"></rect><line x1=\"2\" x2=\"22\" y1=\"10\" y2=\"10\"></line></svg>",
+ //  "isCategory": false
+ //},
+ //{
+ //  "name": "Salary Calculator",
+ //  "description": "Calculate take-home salary with tax and deduction considerations.",
+ //  "url": "",
+ //  "live": "coming-soon",
+ //  "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-wallet size-5\"><path d=\"M19 7V4a1 1 0 0 0-1-1H5a2 2 0 0 0 0 4h15a1 1 0 0 1 1 1v4h-3a2 2 0 0 0 0 4h3a1 1 0 0 0 1-1v-2a1 1 0 0 0-1-1\"></path><path d=\"M3 5v14a2 2 0 0 0 2 2h15a1 1 0 0 0 1-1v-4\"></path></svg>",
+ //  "isCategory": false
+ //},
+ //{
+ //  "name": "SWP Calculator",
+ //  "description": "Calculate Systematic Withdrawal Plan (SWP) to plan your regular withdrawals and remaining investments.",
+ //  "url": "",
+ //  "live": "coming-soon",
+ //  "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-piggy-bank size-5\"><path d=\"M19 5c-1.5 0-2.8 1.4-3 2-3.5-1.5-11-.3-11 5 0 1.8 0 3 2 4.5V20h4v-2h3v2h4v-4c1-.5 1.7-1 2-2h2v-4h-2c0-1-.5-1.5-1-2V5z\"></path><path d=\"M2 9v1c0 1.1.9 2 2 2h1\"></path><path d=\"M16 11h.01\"></path></svg>",
+ //  "isCategory": false
+ //},
+ //{
+ //  "name": "Step Up SIP Calculator",
+ //  "description": "Calculate returns on SIP with annual increment in investment amount.",
+ //  "url": "",
+ //  "live": "coming-soon",
+ //  "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-trending-up size-5\"><polyline points=\"22 7 13.5 15.5 8.5 10.5 2 17\"></polyline><polyline points=\"16 7 22 7 22 13\"></polyline></svg>",
+ //  "isCategory": false
+ //},
+ //{
+ //  "name": "Retirement Calculator",
+ //  "description": "Plan your retirement by calculating corpus needed and monthly investments required.",
+ //  "url": "calculators/finance-calculators/retirement-calculator/",
+ //  "live": "yes",
+ //  "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-building size-5\"><rect width=\"16\" height=\"20\" x=\"4\" y=\"2\" rx=\"2\" ry=\"2\"></rect><path d=\"M9 22v-4h6v4\"></path><path d=\"M8 6h.01\"></path><path d=\"M16 6h.01\"></path><path d=\"M12 6h.01\"></path><path d=\"M12 10h.01\"></path><path d=\"M12 14h.01\"></path><path d=\"M16 10h.01\"></path><path d=\"M16 14h.01\"></path><path d=\"M8 10h.01\"></path><path d=\"M8 14h.01\"></path></svg>",
+ //  "isCategory": true
+ //},
+ //{
+ //  "name": "Fixed Deposit Calculator",
+ //  "description": "Calculate returns and maturity amount on your Fixed Deposit investments.",
+ //  "url": "",
+ //  "live": "coming-soon",
+ //  "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-coins size-5\"><circle cx=\"8\" cy=\"8\" r=\"6\"></circle><path d=\"M18.09 10.37A6 6 0 1 1 10.34 18\"></path><path d=\"M7 6h1v4\"></path><path d=\"m16.71 13.88.7.71-2.82 2.82\"></path></svg>",
+ //  "isCategory": false
+ //},
+ //{
+ //  "name": "Recurring Deposit Calculator",
+ //  "description": "Calculate maturity amount and interest earned on your Recurring Deposits.",
+ //  "url": "",
+ //  "live": "coming-soon",
+ //  "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-piggy-bank size-5\"><path d=\"M19 5c-1.5 0-2.8 1.4-3 2-3.5-1.5-11-.3-11 5 0 1.8 0 3 2 4.5V20h4v-2h3v2h4v-4c1-.5 1.7-1 2-2h2v-4h-2c0-1-.5-1.5-1-2V5z\"></path><path d=\"M2 9v1c0 1.1.9 2 2 2h1\"></path><path d=\"M16 11h.01\"></path></svg>",
+ //  "isCategory": false
+ //},
+ //{
+ //  "name": "PPF Calculator",
+ //  "description": "Calculate returns on Public Provident Fund (PPF) investments with tax benefits.",
+ //  "url": "",
+ //  "live": "coming-soon",
+ //  "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-calculator size-5\"><rect width=\"16\" height=\"20\" x=\"4\" y=\"2\" rx=\"2\"></rect><line x1=\"8\" x2=\"16\" y1=\"6\" y2=\"6\"></line><line x1=\"16\" x2=\"16\" y1=\"14\" y2=\"18\"></line><path d=\"M16 10h.01\"></path><path d=\"M12 10h.01\"></path><path d=\"M8 10h.01\"></path><path d=\"M12 14h.01\"></path><path d=\"M8 14h.01\"></path><path d=\"M12 18h.01\"></path><path d=\"M8 18h.01\"></path></svg>",
+ //  "isCategory": false
+ //},
+ //{
+ //  "name": "NPS Calculator",
+ //  "description": "Calculate returns on National Pension System (NPS) investments for retirement planning.",
+ //  "url": "",
+ //  "live": "coming-soon",
+ //  "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-building size-5\"><rect width=\"16\" height=\"20\" x=\"4\" y=\"2\" rx=\"2\" ry=\"2\"></rect><path d=\"M9 22v-4h6v4\"></path><path d=\"M8 6h.01\"></path><path d=\"M16 6h.01\"></path><path d=\"M12 6h.01\"></path><path d=\"M12 10h.01\"></path><path d=\"M12 14h.01\"></path><path d=\"M16 10h.01\"></path><path d=\"M16 14h.01\"></path><path d=\"M8 10h.01\"></path><path d=\"M8 14h.01\"></path></svg>",
+ //  "isCategory": false
+ //},
+ //{
+ //  "name": "Mutual Fund Calculator",
+ //  "description": "Calculate returns on your Mutual Fund investments with detailed portfolio analysis.",
+ //  "url": "",
+ //  "live": "coming-soon",
+ //  "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-trending-up size-5\"><polyline points=\"22 7 13.5 15.5 8.5 10.5 2 17\"></polyline><polyline points=\"16 7 22 7 22 13\"></polyline></svg>",
+ //  "isCategory": false
+ //},
+ //{
+ //  "name": "Investment Calculator",
+ //  "description": "Calculate investment returns, compound interest, and portfolio growth.",
+ //  "url": "",
+ //  "live": "coming-soon",
+ //  "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-trending-up size-5\"><polyline points=\"22 7 13.5 15.5 8.5 10.5 2 17\"></polyline><polyline points=\"16 7 22 7 22 13\"></polyline></svg>",
+ //  "isCategory": false
+ //},
+ //{
+ //  "name": "Credit Card Payoff Calculator",
+ //  "description": "Calculate credit card payoff time and interest savings.",
+ //  "url": "",
+ //  "live": "coming-soon",
+ //  "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-credit-card size-5\"><rect width=\"20\" height=\"14\" x=\"2\" y=\"5\" rx=\"2\"></rect><line x1=\"2\" x2=\"22\" y1=\"10\" y2=\"10\"></line></svg>",
+ //  "isCategory": false
+ //},
+ //{
+ //  "name": "Savings Calculator",
+ //  "description": "Calculate savings growth and plan for your financial goals.",
+ //  "url": "",
+ //  "live": "coming-soon",
+ //  "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-piggy-bank size-5\"><path d=\"M19 5c-1.5 0-2.8 1.4-3 2-3.5-1.5-11-.3-11 5 0 1.8 0 3 2 4.5V20h4v-2h3v2h4v-4c1-.5 1.7-1 2-2h2v-4h-2c0-1-.5-1.5-1-2V5z\"></path><path d=\"M2 9v1c0 1.1.9 2 2 2h1\"></path><path d=\"M16 11h.01\"></path></svg>",
+ //  "isCategory": false
+ //},
+ //{
+ //  "name": "Loan Calculator",
+ //  "description": "Calculate loan payments, interest, and create amortization schedules.",
+ //  "url": "",
+ //  "live": "coming-soon",
+ //  "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-coins size-5\"><circle cx=\"8\" cy=\"8\" r=\"6\"></circle><path d=\"M18.09 10.37A6 6 0 1 1 10.34 18\"></path><path d=\"M7 6h1v4\"></path><path d=\"m16.71 13.88.7.71-2.82 2.82\"></path></svg>",
+ //  "isCategory": false
+ //},
+ //{
+ //  "name": "Crypto Tax Liability Estimator",
+ //  "description": "Input your crypto trades to estimate taxable gains/losses based on local tax laws.",
+ //  "url": "",
+ //  "live": "coming-soon",
+ //  "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-coins size-5\"><circle cx=\"8\" cy=\"8\" r=\"6\"></circle><path d=\"M18.09 10.37A6 6 0 1 1 10.34 18\"></path><path d=\"M7 6h1v4\"></path><path d=\"m16.71 13.88.7.71-2.82 2.82\"></path></svg>",
+ //  "isCategory": false
+ //},
+ //{
+ //  "name": "Dividend Reinvestment Growth Calculator",
+ //  "description": "Calculate long-term portfolio growth with dividend yields and reinvestment factors.",
+ //  "url": "",
+ //  "live": "coming-soon",
+ //  "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-trending-up size-5\"><polyline points=\"22 7 13.5 15.5 8.5 10.5 2 17\"></polyline><polyline points=\"16 7 22 7 22 13\"></polyline></svg>",
+ //  "isCategory": false
+ //},
+ //{
+ //  "name": "Side Hustle Break-Even Calculator",
+ //  "description": "For freelancers or gig workers, calculate when you'll break even based on costs and rates.",
+ //  "url": "",
+ //  "live": "coming-soon",
+ //  "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-wallet size-5\"><path d=\"M19 7V4a1 1 0 0 0-1-1H5a2 2 0 0 0 0 4h15a1 1 0 0 1 1 1v4h-3a2 2 0 0 0 0 4h3a1 1 0 0 0 1-1v-2a1 1 0 0 0-1-1\"></path><path d=\"M3 5v14a2 2 0 0 0 2 2h15a1 1 0 0 0 1-1v-4\"></path></svg>",
+ //  "isCategory": false
+ //},
+ //{
+ //  "name": "Streaming Revenue Calculator",
+ //  "description": "Calculate your streaming revenue based on your monthly income and subscription cost.",
+ //  "url": "",
+ //  "live": "coming-soon",
+ //  "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-dollar-sign size-5\"><line x1=\"12\" x2=\"12\" y1=\"2\" y2=\"22\"></line><path d=\"M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6\"></path></svg>",
+ //  "isCategory": false
+ //},
+ //{
+ //  "name": "Freelance Illustration Rate Calculator",
+ //  "description": "Calculate fair hourly or flat rates based on project complexity, hours, and client type (individual vs. corporate).",
+ //  "url": "",
+ //  "live": "coming-soon",
+ //  "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-brush size-5\"><path d=\"m9.06 11.9 8.07-8.06a2.85 2.85 0 1 1 4.03 4.03l-8.06 8.08\"></path><path d=\"M7.07 14.94c-1.66 0-3 1.35-3 3.02 0 1.33-2.5 1.52-2 2.02 1.08 1.1 2.49 2.02 4 2.02 2.2 0 4-1.8 4-4.04a3.01 3.01 0 0 0-3-3.02z\"></path></svg>",
+ //  "isCategory": false
+ //},
+ //{
+ //  "name": "Music Royalty Splitter",
+ //  "description": "Divide streaming revenue fairly among band members or collaborators based on contribution percentages.",
+ //  "url": "",
+ //  "live": "coming-soon",
+ //  "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-music size-5\"><path d=\"M9 18V5l12-2v13\"></path><circle cx=\"6\" cy=\"18\" r=\"3\"></circle><circle cx=\"18\" cy=\"16\" r=\"3\"></circle></svg>",
+ //  "isCategory": false
+ //}

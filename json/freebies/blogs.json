@@ -1,0 +1,281 @@
+[
+  {
+    "name": "Josh Comeau",
+    "description": "",
+    "url": "https://www.joshwcomeau.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/blogs/josh.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.joshwcomeau.com&sz=128",
+    "color": "#00a1ff",
+    "extraLinks": [],
+    "tags": [
+      "Web"
+    ]
+  },
+  {
+    "name": "DEV",
+    "description": "",
+    "url": "https://dev.to",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1705068140/freesets/blogs/u1nkrg7tysvugcd8nwy0.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://dev.to&sz=128",
+    "color": "#00a1ff",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Codrops",
+    "description": "",
+    "url": "https://tympanus.net/codrops/demos/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/blogs/codrops",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://tympanus.net/codrops/demos/&sz=128",
+    "color": "#00a1ff",
+    "extraLinks": [],
+    "tags": [
+      "Three.js",
+      "Webgl"
+    ]
+  },
+  {
+    "name": "Modern CSS",
+    "description": "",
+    "url": "https://moderncss.dev",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/blogs/moderncss",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://moderncss.dev&sz=128",
+    "color": "#00a1ff",
+    "extraLinks": [],
+    "tags": [
+      "CSS"
+    ]
+  },
+  {
+    "name": "Medium",
+    "description": "",
+    "url": "https://www.medium.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1706564504/freesets/blogs/medium",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.medium.com&sz=128",
+    "color": "#00a1ff",
+    "extraLinks": [],
+    "tags": [
+      "Community"
+    ]
+  },
+  {
+    "name": "Rauno Craft",
+    "description": "",
+    "url": "https://rauno.me/craft",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1706403955/freesets/blogs/ypica0qiozuuuamcyk6c.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://rauno.me/craft&sz=128",
+    "color": "#00a1ff",
+    "extraLinks": [],
+    "tags": [
+      "UI"
+    ]
+  },
+  {
+    "name": "Not a Number",
+    "description": "",
+    "url": "https://www.nan.fyi",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/blogs/nan",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.nan.fyi&sz=128",
+    "color": "#00a1ff",
+    "extraLinks": [],
+    "tags": [
+      "Animation",
+      "svg"
+    ]
+  },
+  {
+    "name": "The Shape of AI",
+    "description": "",
+    "url": "https://www.shapeof.ai/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/blogs/shapeofai",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.shapeof.ai/&sz=128",
+    "color": "#00a1ff",
+    "extraLinks": [],
+    "tags": [
+      "AI",
+      "Patterns"
+    ]
+  },
+  {
+    "name": "Maximeheckel",
+    "description": "",
+    "url": "https://blog.maximeheckel.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/blogs/maxime",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://blog.maximeheckel.com&sz=128",
+    "color": "#00a1ff",
+    "extraLinks": [],
+    "tags": [
+      "Three.js",
+      "React",
+      "3D"
+    ]
+  },
+  {
+    "name": "Varun Vachhar",
+    "description": "",
+    "url": "https://varun.ca/writing/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/blogs/varun",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://varun.ca/writing/&sz=128",
+    "color": "#00a1ff",
+    "extraLinks": [],
+    "tags": [
+      "Three.js",
+      "3D"
+    ]
+  },
+  {
+    "name": "Zajno Digital Studio",
+    "description": "",
+    "url": "https://motion.zajno.com/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/blogs/motionzajno.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://motion.zajno.com/&sz=128",
+    "color": "#00a1ff",
+    "extraLinks": [],
+    "tags": [
+      "Animation",
+      "Design"
+    ]
+  },
+  {
+    "name": "Emil Kowalski",
+    "description": "",
+    "url": "https://emilkowal.ski/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/blogs/milkowalski",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://emilkowal.ski/&sz=128",
+    "color": "#00a1ff",
+    "extraLinks": [],
+    "tags": [
+      "Animation",
+      "Design"
+    ]
+  },
+  {
+    "name": "Overreacted",
+    "description": "",
+    "url": "https://overreacted.io",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/blogs/overreacted",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://overreacted.io&sz=128",
+    "color": "#00a1ff",
+    "extraLinks": [],
+    "tags": [
+      "React",
+      "JavaScript"
+    ]
+  },
+  {
+    "name": "CSS-Tricks",
+    "description": "",
+    "url": "https://css-tricks.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703443444/freesets/blogs/t8ufepbmlyfmcphliioh.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://css-tricks.com&sz=128",
+    "color": "#00a1ff",
+    "extraLinks": [],
+    "tags": [
+      "CSS"
+    ]
+  },
+  {
+    "name": "Smashing Magazine",
+    "description": "",
+    "url": "https://www.smashingmagazine.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703443742/freesets/blogs/uzktydktlmwcig9xgrtu.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.smashingmagazine.com&sz=128",
+    "color": "#00a1ff",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "web.dev",
+    "description": "",
+    "url": "https://web.dev/blog",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703444856/freesets/blogs/fd6dopnvhkecuooyvrhv.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://web.dev/blog&sz=128",
+    "color": "#00a1ff",
+    "extraLinks": [],
+    "tags": []
+  },
+  {
+    "name": "Design Systems",
+    "description": "",
+    "url": "https://www.designsystems.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703459247/freesets/blogs/u4hastncvnhlfdc8iaal.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.designsystems.com&sz=128",
+    "color": "#00a1ff",
+    "extraLinks": [],
+    "tags": [
+      "Design system"
+    ]
+  },
+  {
+    "name": "Hashnode",
+    "description": "",
+    "url": "https://www.hashnode.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1706564504/freesets/blogs/hashnode",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.hashnode.com&sz=128",
+    "color": "#00a1ff",
+    "extraLinks": [],
+    "tags": [
+      "Community"
+    ]
+  },
+  {
+    "name": "Design good practices",
+    "description": "",
+    "url": "https://goodpractices.design",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1706564504/freesets/blogs/cyyuklvwucjn7hrxljfr.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://goodpractices.design&sz=128",
+    "color": "#00a1ff",
+    "extraLinks": [],
+    "tags": [
+      "UI/UX"
+    ]
+  },
+  {
+    "name": "Paul Scanlon Articles",
+    "description": "",
+    "url": "https://www.paulie.dev/articles/",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/v1703452484/freesets/blogs/qzwz1ulr6yjg9cb8bygn.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.paulie.dev/articles/&sz=128",
+    "color": "#00a1ff",
+    "extraLinks": [],
+    "tags": [
+      "Three.js"
+    ]
+  },
+  {
+    "name": "Patterns.dev",
+    "description": "",
+    "url": "https://www.patterns.dev",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/blogs/mvif3lc9bdwrcjtfgsxh.webp",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.patterns.dev&sz=128",
+    "color": "#00a1ff",
+    "extraLinks": [],
+    "tags": [
+      "Patterns"
+    ]
+  },
+  {
+    "name": "A List Apart",
+    "description": "",
+    "url": "https://www.alistapart.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/blogs/alistapart",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.alistapart.com&sz=128",
+    "color": "#00a1ff",
+    "extraLinks": [],
+    "tags": [
+      "Community"
+    ]
+  },
+  {
+    "name": "Sitepoint",
+    "description": "",
+    "url": "https://www.sitepoint.com",
+    "image": "https://res.cloudinary.com/cosmocloudinary/image/upload/freesets/blogs/sitepoint",
+    "favicon": "https://www.google.com/s2/favicons?domain=https://www.sitepoint.com&sz=128",
+    "color": "#00a1ff",
+    "extraLinks": [],
+    "tags": [
+      "Learning"
+    ]
+  }
+]
