@@ -2269,6 +2269,7 @@
   },
   {
     "category": "Code Search and Browsing",
+    "text": "Tools to search, browse, and discover code and dependencies across repositories and platforms.",
     "subCategory": [
       {
         "title": "",
@@ -2305,6 +2306,7 @@
   },
   {
     "category": "CI and CD",
+    "text": "Continuous integration and delivery platforms to automate building, testing, and deploying code.",
     "subCategory": [
       {
         "title": "",
@@ -2471,6 +2473,7 @@
   },
   {
     "category": "Testing",
+    "text": "Testing tools and platforms for automated, manual, and visual validation of code and applications.",
     "subCategory": [
       {
         "title": "",
@@ -2677,6 +2680,7 @@
   },
   {
     "category": "Security and PKI",
+    "text": "Security, encryption, and PKI tools to protect code, data, and infrastructure.",
     "subCategory": [
       {
         "title": "",
@@ -2918,6 +2922,7 @@
   },
   {
     "category": "Authentication, Authorization, and User Management",
+    "text": "Authentication, authorization, and user management solutions for secure access and identity.",
     "subCategory": [
       {
         "title": "",
@@ -3074,6 +3079,7 @@
   },
   {
     "category": "Mobile App Distribution and Feedback",
+    "text": "Platforms for distributing mobile apps and collecting user feedback efficiently.",
     "subCategory": [
       {
         "title": "",
@@ -3115,6 +3121,7 @@
   },
   {
     "category": "Management System",
+    "text": "Systems for managing devices, servers, and applications across environments.",
     "subCategory": [
       {
         "title": "",
@@ -3171,6 +3178,7 @@
   },
   {
     "category": "Messaging and Streaming",
+    "text": "Messaging and streaming platforms for real-time communication and data delivery.",
     "subCategory": [
       {
         "title": "",
@@ -3282,6 +3290,7 @@
   },
   {
     "category": "Log Management",
+    "text": "Log management solutions for collecting, storing, and analyzing application and system logs.",
     "subCategory": [
       {
         "title": "",
@@ -3343,6 +3352,7 @@
   },
   {
     "category": "Translation Management",
+    "text": "Translation management tools for localizing content and applications across languages.",
     "subCategory": [
       {
         "title": "",
@@ -3464,6 +3474,7 @@
   },
   {
     "category": "Monitoring",
+    "text": "Monitoring platforms for tracking uptime, performance, and reliability of systems and services.",
     "subCategory": [
       {
         "title": "",
@@ -3805,6 +3816,7 @@
   },
   {
     "category": "Crash and Exception Handling",
+    "text": "Crash and exception handling tools for error tracking and debugging in applications.",
     "subCategory": [
       {
         "title": "",
@@ -3891,6 +3903,7 @@
   },
   {
     "category": "Search",
+    "text": "Search solutions for indexing, querying, and discovering data and content efficiently.",
     "subCategory": [
       {
         "title": "",
@@ -3932,6 +3945,7 @@
   },
   {
     "category": "Education and Career Development",
+    "text": "Platforms and resources for learning, skill development, and career advancement in tech.",
     "subCategory": [
       {
         "title": "",
@@ -4013,6 +4027,7 @@
   },
   {
     "category": "Email",
+    "text": "Email service providers and tools for sending, receiving, and managing email communications.",
     "subCategory": [
       {
         "title": "Zoho",
@@ -4124,6 +4139,7 @@
   },
   {
     "category": "Feature Toggles Management Platforms",
+    "text": "Feature toggle management platforms for controlling feature rollouts and experiments in software applications.",
     "subCategory": [
       {
         "title": "",
@@ -4175,6 +4191,7 @@
   },
   {
     "category": "Font",
+    "text": "Resources for finding, downloading, and managing fonts for design and development projects.",
     "subCategory": [
       {
         "title": "",
@@ -4246,6 +4263,7 @@
   },
   {
     "category": "Forms",
+    "text": "Form builders and form backend services for creating, managing, and processing online forms.", 
     "subCategory": [
       {
         "title": "",
@@ -4447,6 +4465,7 @@
   },
   {
     "category": "Generative AI",
+    "text": "Generative AI tools and platforms for creating content, images, code, and more using artificial intelligence.",
     "subCategory": [
       {
         "title": "",
@@ -4538,6 +4557,7 @@
   },
   {
     "category": "CDN and Protection",
+    "text": "Content Delivery Networks (CDNs) and security services for protecting and optimizing web applications and content delivery.",
     "subCategory": [
       {
         "title": "",
@@ -4639,6 +4659,7 @@
   },
   {
     "category": "PaaS",
+    "text": "Platform as a Service (PaaS) providers for deploying, managing, and scaling applications in the cloud.",
     "subCategory": [
       {
         "title": "",
@@ -4765,6 +4786,7 @@
   },
   {
     "category": "BaaS",
+    "text": "Backend as a Service (BaaS) providers for building and managing application backends without server-side coding.",
     "subCategory": [
       {
         "title": "",
@@ -4926,6 +4948,7 @@
   },
   {
     "category": "Low-code Platform",
+    "text": "Low-code platforms for building applications with minimal hand-coding, using visual development tools and pre-built components.",
     "subCategory": [
       {
         "title": "",
@@ -5002,6 +5025,7 @@
   },
   {
     "category": "Web Hosting",
+    "text": "Web hosting providers for deploying and hosting websites and web applications.", 
     "subCategory": [
       {
         "title": "",
@@ -5163,6 +5187,7 @@
   },
   {
     "category": "DNS",
+    "text": "Free DNS hosting and Dynamic DNS (DDNS) services for managing domain name system records and dynamic IP addresses.",
     "subCategory": [
       {
         "title": "",
@@ -5294,6 +5319,7 @@
   },
   {
     "category": "Domain",
+    "text": "Free domain name providers offering subdomains or free domains for personal or small-scale use.",
     "subCategory": [
       {
         "title": "",
@@ -5315,6 +5341,7 @@
   },
   {
     "category": "IaaS",
+    "text": "Infrastructure as a Service (IaaS) providers offering virtualized computing resources over the internet.",
     "subCategory": [
       {
         "title": "",
@@ -5356,6 +5383,7 @@
   },
   {
     "category": "Managed Data Services",
+    "text": "Managed database and data services for storing, managing, and analyzing data without the need for self-hosting or maintenance.",
     "subCategory": [
       {
         "title": "",
@@ -5522,6 +5550,7 @@
   },
   {
     "category": "Tunneling, WebRTC, Web Socket Servers and Other Routers",
+    "text": "Services for exposing local servers to the internet, WebRTC/STUN/TURN services, and web socket server hosting.",
     "subCategory": [
       {
         "title": "",
@@ -5643,6 +5672,7 @@
   },
   {
     "category": "Issue Tracking and Project Management",
+    "text": "Tools for managing projects, tracking issues, and collaborating with teams.",
     "subCategory": [
       {
         "title": "",
@@ -6009,6 +6039,7 @@
   },
   {
     "category": "Storage and Media Processing",
+    "text": "File storage services, image and video processing/CDN services, and other media-related tools.",
     "subCategory": [
       {
         "title": "",
@@ -6265,6 +6296,7 @@
   },
   {
     "category": "Design and UI",
+    "text": "Design tools, UI kits, icon sets, color palette generators, and other resources for designers and front-end developers.",
     "subCategory": [
       {
         "title": "",
@@ -6791,6 +6823,7 @@
   },
   {
     "category": "Design Inspiration",
+    "text": "Collections of design inspiration, including screenshots and videos of mobile apps and websites.",
     "subCategory": [
       {
         "title": "",
@@ -6867,6 +6900,7 @@
   },
   {
     "category": "Data Visualization on Maps",
+    "text": "APIs and tools for creating maps, geospatial data visualization, geocoding, routing, and other location-based services.",
     "subCategory": [
       {
         "title": "",
@@ -6998,6 +7032,7 @@
   },
   {
     "category": "Package Build System",
+    "text": "Online services to build software packages for various operating systems and distributions.",
     "subCategory": [
       {
         "title": "",
@@ -7024,6 +7059,7 @@
   },
   {
     "category": "IDE and Code Editing",
+    "text": "Online and offline integrated development environments (IDEs) and code editors for various programming languages and frameworks.",
     "subCategory": [
       {
         "title": "",
@@ -7300,6 +7336,7 @@
   },
   {
     "category": "Analytics, Events and Statistics",
+    "text": "Analytics platforms, event tracking services, and statistics tools for monitoring website and application performance.", 
     "subCategory": [
       {
         "title": "",
@@ -7546,6 +7583,7 @@
   },
   {
     "category": "Visitor Session Recording",
+    "text": "Tools and services for recording visitor sessions, heatmaps, and user interactions to analyze user behavior and improve user experience.",
     "subCategory": [
       {
         "title": "",
@@ -7617,6 +7655,7 @@
   },
   {
     "category": "International Mobile Number Verification API and SDK",
+    "text": "APIs and SDKs for validating and verifying international mobile phone numbers to ensure accuracy and authenticity.",
     "subCategory": [
       {
         "title": "",
@@ -7638,6 +7677,7 @@
   },
   {
     "category": "Payment and Billing Integration",
+    "text": "APIs and platforms for managing payments, subscriptions, and billing processes in applications and services.",
     "subCategory": [
       {
         "title": "",
@@ -7734,6 +7774,7 @@
   },
   {
     "category": "Docker Related",
+    "text": "Tools and services related to Docker containerization technology, including image registries, management solutions, and learning resources.",
     "subCategory": [
       {
         "title": "",
@@ -7775,6 +7816,7 @@
   },
   {
     "category": "Vagrant Related",
+    "text": "Resources and tools related to Vagrant, a tool for building and managing virtual machine environments.",
     "subCategory": [
       {
         "title": "",
@@ -7791,6 +7833,7 @@
   },
   {
     "category": "Dev Blogging Sites",
+    "text": "Platforms and sites for developers to share their knowledge, experiences, and insights through blogging.",
     "subCategory": [
       {
         "title": "",
@@ -7827,6 +7870,7 @@
   },
   {
     "category": "Commenting Platforms",
+    "text": "Platforms and tools for adding commenting functionality to websites and applications, enabling user engagement and feedback.",
     "subCategory": [
       {
         "title": "",
@@ -7863,6 +7907,7 @@
   },
   {
     "category": "Screenshot APIs",
+    "text": "APIs for capturing screenshots of web pages and applications, useful for testing, monitoring, and visual documentation.",
     "subCategory": [
       {
         "title": "",
@@ -7909,6 +7954,7 @@
   },
   {
     "category": "Flutter Related and Building IOS Apps without Mac",
+    "text": "Tools and services for Flutter development, including online IDEs and platforms for building iOS apps without a Mac.",
     "subCategory": [
       {
         "title": "",
@@ -7935,6 +7981,7 @@
   },
   {
     "category": "Browser-based hardware emulation written in Javascript",
+    "text": "Emulators that run directly in the browser, allowing users to experience different hardware and operating systems without needing to install software locally.",
     "subCategory": [
       {
         "title": "",
@@ -7961,6 +8008,7 @@
   },
   {
     "category": "Privacy Management",
+    "text": "Tools and services for managing privacy compliance, consent management, and data protection in applications and websites.",
     "subCategory": [
       {
         "title": "",
@@ -8002,6 +8050,7 @@
   },
   {
     "category": "Miscellaneous",
+    "text": "A variety of tools and services that don't fit into specific categories but are useful for developers in different aspects of their work.",
     "subCategory": [
       {
         "title": "",
@@ -8218,6 +8267,7 @@
   },
   {
     "category": "Remote Desktop Tools",
+    "text": "Tools and services for remote desktop access and support, enabling users to connect to and control computers from a distance.",
     "subCategory": [
       {
         "title": "",
@@ -8254,6 +8304,7 @@
   },
   {
     "category": "Game Development",
+    "text": "Resources and tools for game development, including asset libraries, engines, and frameworks.",
     "subCategory": [
       {
         "title": "",
@@ -8335,6 +8386,7 @@
   },
   {
     "category": "Other Free Resources",
+    "text": "A collection of various free resources and tools for developers that don't fit into specific categories.",
     "subCategory": [
       {
         "title": "",
