@@ -1,96 +1,172 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>KhizaroOo — Personal Site</title>
-  <meta name="description" content="Personal homepage for KhizaroOo — summary, skills, projects and contact." />
-  <style>
-    :root{--bg:#0f1724;--card:#0b1220;--accent:#06b6d4;--muted:#94a3b8;--text:#e6eef8}
-    html,body{height:100%;margin:0;font-family:Inter,Ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,'Helvetica Neue',Arial; background:linear-gradient(180deg,#071025 0%,#071827 100%);color:var(--text)}
-    .wrap{min-height:100%;display:flex;align-items:center;justify-content:center;padding:48px}
-    .card{background:radial-gradient(1200px 400px at 10% 0%, rgba(6,182,212,0.06), transparent 10%),rgba(255,255,255,0.02);border:1px solid rgba(255,255,255,0.04);backdrop-filter:blur(6px);padding:28px;border-radius:12px;max-width:880px;width:100%;box-shadow:0 10px 30px rgba(2,6,23,0.6)}
-    header{display:flex;align-items:center;gap:20px}
-    .avatar{width:96px;height:96px;border-radius:14px;background:linear-gradient(135deg,var(--accent),#7c3aed);display:flex;align-items:center;justify-content:center;font-weight:700;color:#032;box-shadow:0 6px 18px rgba(6,182,212,0.08)}
-    h1{margin:0;font-size:28px}
-    h2{margin:4px 0 0 0;color:var(--muted);font-weight:600;font-size:15px}
-    .summary{margin-top:18px;color:var(--text);line-height:1.6}
-    .grid{display:grid;grid-template-columns:1fr 260px;gap:18px;margin-top:20px}
-    .box{background:rgba(255,255,255,0.02);padding:16px;border-radius:10px}
-    .muted{color:var(--muted);font-size:14px}
-    ul{margin:8px 0 0 16px}
-    a.button{display:inline-block;padding:8px 12px;border-radius:8px;background:var(--accent);color:#012; font-weight:600;text-decoration:none}
-    footer{margin-top:18px;color:var(--muted);font-size:13px}
-    @media (max-width:700px){.grid{grid-template-columns:1fr}header{flex-direction:row} .avatar{width:72px;height:72px}}
-  </style>
-  <script>
-  // Set BASE_PATH for all HTML pages
-  window.BASE_PATH = (window.location.hostname === "khizarooo.github.io")
-    ? "https://khizarooo.github.io/mysite/"
-    : "file:///D:/khizooo/WEBSITE/static-website/mysite/";
-  </script>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="description" content="Name of your web site">
+	<meta name="author" content="Marketify">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<title>khizooo</title>
+
+	<!-- FONTS -->
+	<link rel="stylesheet" type="text/css" href="./css/fonts.css">
+	<!-- STYLES -->
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+
+	<link rel="stylesheet" type="text/css" href="./css/plugins.css">
+	<link rel="stylesheet" type="text/css" href="./css/style.css">
+	<link rel="stylesheet" type="text/css" href="./css/khizooo.css">
+	<style type="text/css" id="#jarallax-clip-0"> #jarallax-container-0 { clip: rect(0 1505px 298px 0); clip: rect(0, 1505px, 298px, 0); } </style>
+
+	<style>
+		.khizooo_tm_hero_top{
+			height: 45vh;
+			border-bottom: 2px solid #000000;
+		}
+		.khizooo_tm_services .list_inner:hover .icon {
+			background-color: var(--m-infooo-color);
+			color: #3a3a3a;
+		}
+		.khizooo_tm_services .list_inner:hover .title.infooo {
+    		color: var(--m-infooo-color);
+		}
+	</style>
+
+	<script>
+	// Set BASE_PATH for all HTML pages
+	window.BASE_PATH = (window.location.hostname === "khizarooo.github.io")
+		? "https://khizarooo.github.io/mysite/"
+		: "file:///D:/khizooo/WEBSITE/static-website/mysite/";
+	</script>
 </head>
-<body>
-  <!--
-    index.html for KhizaroOo/mysite
-    Edit this file in the repository to update your GitHub Pages homepage.
-  -->
-  <div class="wrap">
-    <main class="card">
-      <header>
-        <div class="avatar">KO</div>
-        <div>
-          <h1>KhizaroOo</h1>
-          <h2>Software developer · Open source enthusiast</h2>
-        </div>
-      </header>
 
-      <p class="summary">Hello — I'm KhizaroOo. I build things on the web: small utilities, experimental projects, and tools that help me (and others) ship faster. I enjoy learning new languages, experimenting with web APIs, and contributing to open-source. This page is a simple hub with a short summary, skills, projects and contact information.</p>
+<body style="background:#eeeeee">
 
-      <div class="grid">
-        <section class="box">
-          <h3 style="margin:0 0 8px 0">About</h3>
-          <p class="muted">Quick facts</p>
-          <ul>
-            <li><strong>Location:</strong> Your City, Country</li>
-            <li><strong>Role:</strong> Full‑stack / Frontend developer</li>
-            <li><strong>Open to:</strong> collaborations, freelance, learning opportunities</li>
-          </ul>
+	<div id="#preloader"></div>
 
-          <h3 style="margin:12px 0 8px 0">Skills</h3>
-          <p class="muted">A few technologies I use</p>
-          <ul>
-            <li>HTML, CSS, JavaScript</li>
-            <li>Node.js, Express</li>
-            <li>React / Preact</li>
-            <li>Git, GitHub</li>
-          </ul>
+	<!-- WRAPPER ALL -->
+	<div class="khizooo_tm_all_wrap" data-magic-cursor="show">
 
-          <h3 style="margin:12px 0 8px 0">Contact</h3>
-          <p class="muted">Get in touch</p>
-          <p style="margin:6px 0"><a class="button" href="mailto:you@example.com">Email me</a> <a style="margin-left:8px;color:var(--accent);text-decoration:none" href="https://github.com/KhizaroOo">GitHub</a></p>
-        </section>
+		<!-- MAINPART -->
+		<div class="khizooo_tm_mainpart">
 
-        <aside class="box">
-          <h3 style="margin:0 0 8px 0">Projects</h3>
-          <p class="muted">Recent or notable</p>
-          <ul>
-            <li><a href="https://github.com/KhizaroOo/mysite" style="color:var(--accent)">mysite</a> — this repository (homepage)</li>
-            <li><a href="https://github.com/KhizaroOo" style="color:var(--accent)">More on GitHub</a></li>
-          </ul>
+			<!-- HERO -->
+			<div class="khizooo_tm_section" id="home">
+				<div class="khizooo_tm_hero khizooo_tm_hero_top">
+					<div class="content text-center">
+						<p class="mb-0 text-center"><a href="abc" class="btn-header btn--stripe btn--radius m-infooo-color text-center">Infooo</a></p>
+						<h3 class="name">INFOGRAPHICS</h3>
+						<p>Creative infographics that transform raw numbers and ideas into structured visuals for better clarity and understanding.</p>
+					</div>
+				</div>
+			</div>
+			<!-- /HERO -->
 
-          <h3 style="margin:12px 0 8px 0">Visibility</h3>
-          <p class="muted">This page is served by GitHub Pages at <code>https://khizarooo.github.io/mysite/</code>. It can take a minute to appear after pushing.</p>
+			<!-- ABOUT -->
+			<div class="khizooo_tm_section" id="summary">
+				<div class="khizooo_tm_services pt-5">
+					<div class="container">
+						<div class="khizooo_tm_main_title mb-5">
+							<span class="m-default-detail-heading m-infooo-detail-heading">How Blockchain Works?</span>
+							<p>Simple visual guides that break complex tech into easy learning for modern digital mastery. We break complex tech into easy learning for modern digital mastery.</p>
+						</div>
+						<div class="main-content">
+							<div class="center-box">
+								<div class="row mb-5">
+									<div class="col-12">
+										<img src="https://placehold.co/600x400@3x.png" alt="Infographic" class="img-fluid w-100 info-image" />
+									</div>
+								</div>
 
-          <h3 style="margin:12px 0 8px 0">Edit this page</h3>
-          <p class="muted">To change text or add content, edit <code>index.html</code> in your repository and push the change.</p>
-        </aside>
-      </div>
+								<div class="row g-4">
+									<div class="col-md-4">
+										<div class="key-term-box h-100">
+											<div class="term-title">Key Term 1</div>
+											<div class="term-desc">Short explanation or insight related to the infographic concept.</div>
+										</div>
+									</div>
 
-      <footer>
-        Built with ❤️ — <a href="https://github.com/KhizaroOo" style="color:var(--accent);text-decoration:none">@KhizaroOo</a>
-      </footer>
-    </main>
-  </div>
+									<div class="col-md-4">
+										<div class="key-term-box h-100">
+											<div class="term-title">Key Term 2</div>
+											<div class="term-desc">A simple but helpful description to support user understanding.</div>
+										</div>
+									</div>
+
+									<div class="col-md-4">
+										<div class="key-term-box h-100">
+											<div class="term-title">Key Term 3</div>
+											<div class="term-desc">Extra insight providing clarity or added context for the infographic.</div>
+										</div>
+									</div>
+
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- /ABOUT -->
+
+		</div>
+		<!-- /MAINPART -->
+
+		<!-- BACKGROUND EFFECTS -->
+		<!-- <div class="khizooo_tm_background_effects" data-style="canvas"><div class="canvas_effects"></div></div> -->
+
+	</div>
+	
+	<!-- CURSOR -->
+	<div class="mouse-cursor cursor-outer" style="visibility: visible; transform: translate(802px, 213px);"></div>
+	<div class="mouse-cursor cursor-inner" style="visibility: visible; transform: translate(802px, 213px);"></div>
+	<!-- /CURSOR -->
+	
+	<!-- TOTOP -->
+	<div class="progressbar animate">
+		<a href="./index.html#"><span class="text" style="bottom: 143.812px;">To Top</span></a>
+		<span class="line" style="height: 8.07348%;"></span>
+	</div>
+	<!-- /TOTOP -->
+	
+	<!-- / WRAPPER ALL -->
+
+	<!-- SCRIPTS -->
+	<script src="./js/jquery.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
+	<script src="./js/plugins.js"></script>
+	<script src="./js/init.js"></script>
+	<!-- /SCRIPTS -->
+
+	<script>
+
+		var SelectedTitle = "";
+		var SelectedSlug = "";
+		var SelectedImage = "";
+
+		function openArtModal(e) {
+
+			let ArtTitle = $(e).find("h6").text();
+			let ArtImage = $(e).find("img").attr("src");
+			SelectedTitle = ArtTitle;
+			SelectedImage = ArtImage;
+			$("#ArtTitle").text(ArtTitle);
+			$("#ArtImg").attr("src", ArtImage);
+			$("#ArtImg").attr("data-title", ArtTitle);
+			$("#ArtModal").modal("show");
+		}
+
+		function downloadArt() {
+		
+			const link = document.createElement('a');
+			link.href = SelectedImage;
+			link.download = SelectedTitle + '.jpg';
+
+			document.body.appendChild(link);
+			link.click();
+			document.body.removeChild(link);
+		}
+
+	</script>
+
 </body>
 </html>
