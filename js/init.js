@@ -182,7 +182,7 @@ function Render_Sidebar(){
     "use strict";
 	var sidebarHTML = `
 		<div class="khizooo_tm_sidebar">
-			<a href="${window.BASE_PATH}LandingPage.html">
+			<a href="${window.BASE_PATH}Index.html">
 				<div class="logo" data-type="avatar">
 					<div class="avatar" data-img-url="${window.BASE_PATH}images/Monsters/khizooo.png" style="background-image: url('${window.BASE_PATH}images/Monsters/khizooo.png');"></div>
 					<div class="image"><img src="${window.BASE_PATH}images/Monsters/khizooo.png" alt=""></div>
@@ -205,7 +205,7 @@ function Render_Sidebar(){
                 <p class="text-center">All rights are reserved</p> -->
             </div>
 			<div class="khizooo_tm_resizer">
-				<a href="${window.BASE_PATH}index.html#"><i class="icon-right-dir-2"></i></a>
+				<a href="${window.BASE_PATH}index.html"><i class="icon-right-dir-2"></i></a>
 			</div>
         </div>
     `;
@@ -219,7 +219,7 @@ function Render_MobileMenu(){
 		<div class="khizooo_tm_mobile_menu">
 			<div class="mobile_menu_inner">
 				<div class="mobile_in">
-					<a href="${window.BASE_PATH}LandingPage.html">
+					<a href="${window.BASE_PATH}Index.html">
 						<div class="logo" data-type="avatar">
 							<div class="avatar" data-img-url="${window.BASE_PATH}images/Monsters/khizooo.png" style="background-image: url('${window.BASE_PATH}images/Monsters/khizooo.png');"></div>
 							<div class="image"><img src="${window.BASE_PATH}images/Monsters/khizooo.png" alt=""></div>
