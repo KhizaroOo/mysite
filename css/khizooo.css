@@ -317,3 +317,12 @@
 	color: #63686c;
 }}
 /* Modal Styles */
+
+/* Border Styles */
+.border-bottom {
+    border-bottom: 2px solid #000000 !important;
+}
+.border-top {
+    border-top: 2px solid #000000 !important;
+}
+/* Border Styles */

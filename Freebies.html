@@ -34,10 +34,30 @@
 	</style>
 
 	<script>
-	// Set BASE_PATH for all HTML pages
 	window.BASE_PATH = (window.location.hostname === "khizarooo.github.io")
 		? "https://khizarooo.github.io/mysite/"
 		: "file:///D:/khizooo/WEBSITE/static-website/mysite/";
+	window.addEventListener('DOMContentLoaded', function() {
+		var links = document.querySelectorAll('.khizooo_tm_full_link');
+		var targets = [
+			window.BASE_PATH + 'Freebies/icons.html',
+			window.BASE_PATH + 'Freebies/illustrations.html',
+			window.BASE_PATH + 'Freebies/photos.html',
+			window.BASE_PATH + 'Freebies/videos.html',
+			window.BASE_PATH + 'Freebies/colors.html',
+			window.BASE_PATH + 'Freebies/backgrounds.html',
+			window.BASE_PATH + 'Freebies/typography.html',
+			window.BASE_PATH + 'Freebies/3d.html',
+			window.BASE_PATH + 'Freebies/libraries.html',
+			window.BASE_PATH + 'Freebies/blogs.html',
+			window.BASE_PATH + 'Freebies/tools.html',
+			window.BASE_PATH + 'Freebies/inspirations.html',
+			window.BASE_PATH + 'Freebies/components.html'
+		];
+		links.forEach(function(link, i) {
+			link.setAttribute('href', targets[i] || window.BASE_PATH + 'index.html#');
+		});
+	});
 	</script>
 </head>
 
@@ -84,7 +104,7 @@
 													<h3 class="title freeooo">Icons</h3>
 													<p class="text">Handpicked free icons to power your projects with style and clarity.</p>
 												</div>
-												<a class="khizooo_tm_full_link" href="/freebies/icons.html"></a>
+												<a class="khizooo_tm_full_link" href=""></a>
 											</div>
 										</li>
 
@@ -98,7 +118,7 @@
 													<h3 class="title freeooo">Illustrations</h3>
 													<p class="text">Creative vector and digital illustrations to enrich your visuals.</p>
 												</div>
-												<a class="khizooo_tm_full_link" href="/freebies/illustrations"></a>
+												<a class="khizooo_tm_full_link" href=""></a>
 											</div>
 										</li>
 
@@ -112,7 +132,7 @@
 													<h3 class="title freeooo">Photos</h3>
 													<p class="text">High-quality free stock photos for every design and idea.</p>
 												</div>
-												<a class="khizooo_tm_full_link" href="/freebies/photos"></a>
+												<a class="khizooo_tm_full_link" href=""></a>
 											</div>
 										</li>
 
@@ -126,7 +146,7 @@
 													<h3 class="title freeooo">Videos</h3>
 													<p class="text">Free video clips, animations & stock footage for creatives.</p>
 												</div>
-												<a class="khizooo_tm_full_link" href="/freebies/videos"></a>
+												<a class="khizooo_tm_full_link" href=""></a>
 											</div>
 										</li>
 
@@ -140,7 +160,7 @@
 													<h3 class="title freeooo">Colors</h3>
 													<p class="text">Beautiful palettes and gradients to spark design inspiration.</p>
 												</div>
-												<a class="khizooo_tm_full_link" href="/freebies/colors"></a>
+												<a class="khizooo_tm_full_link" href=""></a>
 											</div>
 										</li>
 
@@ -154,7 +174,7 @@
 													<h3 class="title freeooo">Backgrounds</h3>
 													<p class="text">Stunning textures, gradients & wallpapers to set the scene.</p>
 												</div>
-												<a class="khizooo_tm_full_link" href="/freebies/backgrounds"></a>
+												<a class="khizooo_tm_full_link" href=""></a>
 											</div>
 										</li>
 
