@@ -102,7 +102,7 @@ img.svg{
 }
 
 .container {
-	max-width: 1700px;
+	max-width: 1650px;
 	width: 100%;
 	margin-left: auto;
 	margin-right: auto;
@@ -725,8 +725,8 @@ body.resize .khizooo_tm_mainpart{
 	align-items: center;
 }
 .khizooo_tm_about .left{
-	width: 50%;
-	padding-right: 50px;
+	width: 35%;
+	padding-right: 35px;
 }
 
 .khizooo_tm_about .left .image{
@@ -735,7 +735,7 @@ body.resize .khizooo_tm_mainpart{
 .khizooo_tm_about .left img{
 	position: relative;
 	opacity: 0;
-	min-width: 100%;
+	min-width: 75%;
 }
 .khizooo_tm_about .left .main{
 	position: absolute;
@@ -748,7 +748,7 @@ body.resize .khizooo_tm_mainpart{
 	background-position: center;
 }
 .khizooo_tm_about .right{
-	width: 50%;
+	width: 60%;
 }
 .khizooo_tm_about .text{
 	width: 100%;
@@ -892,6 +892,7 @@ body.resize .khizooo_tm_mainpart{
     background: var(--mc-body-card-bcg);
 	padding: 35px 25px 40px 25px;
 	overflow: hidden;
+	cursor: pointer;
 }
 
 .khizooo_tm_services .list_inner:before{
