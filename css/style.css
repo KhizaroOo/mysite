@@ -41,10 +41,15 @@ a{ text-decoration: none; }
 	--mc-container-bcg: #FFFFFF;
 		
 	--m-artooo-color: #F5CF5C;
+	--m-artooo-light-color: #F4D075;
 	--m-infooo-color: #5CCFAF;
+	--m-infooo-light-color: #8DEECE;
 	--m-toolooo-color: #F7933C;
+	--m-toolooo-light-color: #FF9E5B;
 	--m-freeooo-color: #6CA6FF;
+	--m-freeooo-light-color: #7BB2FF;
 	--m-devooo-color: #B699FF;
+	--m-devooo-light-color: #BFBDF4;
 
 	--mc-body-h: #000000;
 	--mc-body-p: #3a3a3a;

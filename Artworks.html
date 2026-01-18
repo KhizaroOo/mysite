@@ -51,6 +51,35 @@
 			height: 45vh;
 			border-bottom: 2px solid #000000;
 		}
+		#artwork-filters .input-group-text {
+			background: transparent;
+			border: none;
+			color: var(--ls-top-bcg);
+			font-size: 16px;
+		}
+		#artwork-filters .form-control,
+		#artwork-filters .form-select {
+			background: var(--mc-body-card-title-bcg);
+			color: var(--ls-top-bcg);
+			border: none;
+			box-shadow: none;
+			font-size: 15px;
+		}
+		#artwork-filters .form-control:focus,
+		#artwork-filters .form-select:focus {
+			outline: none;
+			box-shadow: none;
+			border: none;
+		}
+		#artwork-filters .btn {
+			font-size: 15px;
+			border-radius: 4px;
+			padding: 0.4rem 1.2rem;
+			box-shadow: none;
+			display: flex;
+			align-items: center;
+			gap: 0.5rem;
+		}
 	</style>
 
 	<script>
@@ -153,7 +182,6 @@
 		var SelectedImage = "";
 
 		function openArtModal(e) {
-
 			let ArtTitle = $(e).find("h6").text();
 			let ArtImage = $(e).find("img").attr("src");
 			SelectedTitle = ArtTitle;
@@ -165,15 +193,59 @@
 		}
 
 		function downloadArt() {
-		
 			const link = document.createElement('a');
 			link.href = SelectedImage;
 			link.download = SelectedTitle + '.jpg';
-
 			document.body.appendChild(link);
 			link.click();
 			document.body.removeChild(link);
 		}
+
+		// --- Artworks Filteration Logic ---
+		// Assumes artworks are rendered as .Art-Piece inside #art-grid, with h6 for title
+		$(document).ready(function() {
+			function filterAndSortArtworks() {
+				var search = $("#art-search").val().toLowerCase();
+				var sort = $("#art-sort").val();
+				var $artworks = $("#art-grid .Art-Piece").get();
+
+				// Filter
+				$artworks.forEach(function(el) {
+					var title = $(el).find("h6").text().toLowerCase();
+					if (search === '' || title.indexOf(search) !== -1) {
+						$(el).show();
+					} else {
+						$(el).hide();
+					}
+				});
+
+				// Sort
+				$artworks = $artworks.filter(function(el) {
+					return $(el).is(":visible");
+				});
+				$artworks.sort(function(a, b) {
+					var at = $(a).find("h6").text().toLowerCase();
+					var bt = $(b).find("h6").text().toLowerCase();
+					if (sort === "title-asc") {
+						return at.localeCompare(bt);
+					} else {
+						return bt.localeCompare(at);
+					}
+				});
+				// Re-append sorted
+				$artworks.forEach(function(el) {
+					$("#art-grid").append(el);
+				});
+			}
+
+			$("#art-search").on("input", filterAndSortArtworks);
+			$("#art-sort").on("change", filterAndSortArtworks);
+			$("#art-reset").on("click", function() {
+				$("#art-search").val("");
+				$("#art-sort").val("title-asc");
+				filterAndSortArtworks();
+			});
+		});
 
 	</script>
 

@@ -130,7 +130,7 @@
 .m-freeooo-color {
   background-color: var(--m-freeooo-color);
   border-color: #000;
-  color: #000;
+  color: var(--ls-top-bcg);
 }
 .m-freeooo-color.btn--stripe:after {
   background-image: repeating-linear-gradient(45deg, var(--ls-top-bcg), var(--ls-top-bcg) 1px, transparent 2px, transparent 5px);
@@ -149,7 +149,7 @@
 .m-devooo-color {
   background-color: var(--m-devooo-color);
   border-color: #000;
-  color: #000;
+  color: var(--ls-top-bcg);
 }
 .m-devooo-color.btn--stripe:after {
   background-image: repeating-linear-gradient(45deg, var(--ls-top-bcg), var(--ls-top-bcg) 1px, transparent 2px, transparent 5px);
