@@ -59,10 +59,38 @@
 	</style>
 
 	<script>
-	// Set BASE_PATH for all HTML pages
-	window.BASE_PATH = (window.location.hostname === "khizarooo.github.io")
-		? "https://khizarooo.github.io/mysite/"
-		: "file:///D:/khizooo/WEBSITE/static-website/mysite/";
+    // Set BASE_PATH for all HTML pages
+    window.BASE_PATH = (window.location.hostname === "khizarooo.github.io")
+      ? "https://khizarooo.github.io/mysite/"
+      : "file:///D:/khizooo/WEBSITE/static-website/mysite/";
+    window.addEventListener('DOMContentLoaded', function() {
+      var links = document.querySelectorAll('.khizooo_tm_full_link');
+      var targets = [
+        window.BASE_PATH + 'Toolbox/calculators/finance-calculators.html',
+        window.BASE_PATH + 'Toolbox/calculators/math-calculators.html',
+        window.BASE_PATH + 'Toolbox/calculators/everyday-life-calculators.html',
+        window.BASE_PATH + 'Toolbox/calculators/biology-calculators.html',
+        window.BASE_PATH + 'Toolbox/calculators/chemistry-calculators.html',
+        window.BASE_PATH + 'Toolbox/calculators/physics-calculators.html',
+        window.BASE_PATH + 'Toolbox/calculators/developer-tools.html',
+        window.BASE_PATH + 'Toolbox/calculators/color-calculators.html',
+        window.BASE_PATH + 'Toolbox/calculators/health-calculators.html',
+        window.BASE_PATH + 'Toolbox/calculators/constrctuion-calculators.html',
+        window.BASE_PATH + 'Toolbox/calculators/unit-conversion-calculators.html',
+        window.BASE_PATH + 'Toolbox/calculators/food-calculators.html',
+        window.BASE_PATH + 'Toolbox/calculators/sports-calculators.html',
+        window.BASE_PATH + 'Toolbox/calculators/text-calculators.html',
+        window.BASE_PATH + 'Toolbox/calculators/fun-calculators.html',
+        window.BASE_PATH + 'Toolbox/calculators/time-date-calculators.html',
+        window.BASE_PATH + 'Toolbox/calculators/photography-calculators.html',
+        window.BASE_PATH + 'Toolbox/calculators/crafting-calculators.html',
+        window.BASE_PATH + 'Toolbox/calculators/automotive-calculators.html',
+        window.BASE_PATH + 'Toolbox/calculators/travel-calculators.html'
+      ];
+      links.forEach(function(link, i) {
+        link.setAttribute('href', targets[i] || window.BASE_PATH + 'index.html#');
+      });
+    });
 	</script>
 </head>
 
@@ -110,7 +138,7 @@
       <h3 class="title toolooo">Finance Calculator</h3>
       <p class="text">Calculate finance related calculations with ease.</p>
     </div>
-    <a class="khizooo_tm_full_link" href="https://calculatorbit.com/finance/"></a>
+    <a class="khizooo_tm_full_link" href=""></a>
   </div>
 </li>
 
@@ -123,7 +151,7 @@
       <h3 class="title toolooo">Math Calculator</h3>
       <p class="text">Calculate Math related calculations with ease.</p>
     </div>
-    <a class="khizooo_tm_full_link" href="https://calculatorbit.com/math/"></a>
+    <a class="khizooo_tm_full_link" href=""></a>
   </div>
 </li>
 
@@ -136,7 +164,7 @@
       <h3 class="title toolooo">Everyday Life Calculator</h3>
       <p class="text">Calculate everyday life related calculations with ease.</p>
     </div>
-    <a class="khizooo_tm_full_link" href="https://calculatorbit.com/everyday-life/"></a>
+    <a class="khizooo_tm_full_link" href=""></a>
   </div>
 </li>
 
@@ -149,7 +177,7 @@
       <h3 class="title toolooo">Biology Calculator</h3>
       <p class="text">Calculate biology related calculations with ease.</p>
     </div>
-    <a class="khizooo_tm_full_link" href="https://calculatorbit.com/biology/"></a>
+    <a class="khizooo_tm_full_link" href=""></a>
   </div>
 </li>
 
@@ -162,7 +190,7 @@
       <h3 class="title toolooo">Chemistry Calculator</h3>
       <p class="text">Calculate chemistry related calculations with ease.</p>
     </div>
-    <a class="khizooo_tm_full_link" href="https://calculatorbit.com/chemistry/"></a>
+    <a class="khizooo_tm_full_link" href=""></a>
   </div>
 </li>
 
@@ -175,7 +203,7 @@
       <h3 class="title toolooo">Physics Calculator</h3>
       <p class="text">Calculate physics related calculations with ease.</p>
     </div>
-    <a class="khizooo_tm_full_link" href="https://calculatorbit.com/physics/"></a>
+    <a class="khizooo_tm_full_link" href=""></a>
   </div>
 </li>
 
@@ -188,7 +216,7 @@
       <h3 class="title toolooo">Developer Tools</h3>
       <p class="text">Essential utilities for developers including base conversion, hash generation, formatters, and more.</p>
     </div>
-    <a class="khizooo_tm_full_link" href="https://calculatorbit.com/tool/"></a>
+    <a class="khizooo_tm_full_link" href=""></a>
   </div>
 </li>
 
@@ -201,7 +229,7 @@
       <h3 class="title toolooo">Color Tools</h3>
       <p class="text">From color palettes to color shades, we have you covered.</p>
     </div>
-    <a class="khizooo_tm_full_link" href="https://calculatorbit.com/color/"></a>
+    <a class="khizooo_tm_full_link" href=""></a>
   </div>
 </li>
 
@@ -214,7 +242,7 @@
       <h3 class="title toolooo">Health Calculator</h3>
       <p class="text">Calculate health related calculations with ease.</p>
     </div>
-    <a class="khizooo_tm_full_link" href="https://calculatorbit.com/health/"></a>
+    <a class="khizooo_tm_full_link" href=""></a>
   </div>
 </li>
 
@@ -227,7 +255,7 @@
       <h3 class="title toolooo">Construction Calculator</h3>
       <p class="text">Calculate construction related calculations with ease.</p>
     </div>
-    <a class="khizooo_tm_full_link" href="https://calculatorbit.com/construction/"></a>
+    <a class="khizooo_tm_full_link" href=""></a>
   </div>
 </li>
 
@@ -240,7 +268,7 @@
       <h3 class="title toolooo">Unit Conversion Calculator</h3>
       <p class="text">Calculate conversion related calculations with ease.</p>
     </div>
-    <a class="khizooo_tm_full_link" href="https://calculatorbit.com/convert/"></a>
+    <a class="khizooo_tm_full_link" href=""></a>
   </div>
 </li>
 
@@ -253,7 +281,7 @@
       <h3 class="title toolooo">Food Calculator</h3>
       <p class="text">Calculate food related calculations with ease.</p>
     </div>
-    <a class="khizooo_tm_full_link" href="https://calculatorbit.com/food/"></a>
+    <a class="khizooo_tm_full_link" href=""></a>
   </div>
 </li>
 
@@ -266,7 +294,7 @@
       <h3 class="title toolooo">Sports Calculator</h3>
       <p class="text">Calculate sports related calculations with ease.</p>
     </div>
-    <a class="khizooo_tm_full_link" href="https://calculatorbit.com/sports/"></a>
+    <a class="khizooo_tm_full_link" href=""></a>
   </div>
 </li>
 
@@ -279,7 +307,7 @@
       <h3 class="title toolooo">Text Tools</h3>
       <p class="text">Text analysis tools for word counting, unscrambling, and manipulation.</p>
     </div>
-    <a class="khizooo_tm_full_link" href="https://calculatorbit.com/text/"></a>
+    <a class="khizooo_tm_full_link" href=""></a>
   </div>
 </li>
 
@@ -292,7 +320,7 @@
       <h3 class="title toolooo">Fun Calculator</h3>
       <p class="text">Fun calculator for all your computation needs</p>
     </div>
-    <a class="khizooo_tm_full_link" href="https://calculatorbit.com/fun/"></a>
+    <a class="khizooo_tm_full_link" href=""></a>
   </div>
 </li>
 
@@ -305,7 +333,7 @@
       <h3 class="title toolooo">Time & Date</h3>
       <p class="text">Calculate time and date related calculations with ease.</p>
     </div>
-    <a class="khizooo_tm_full_link" href="https://calculatorbit.com/time/"></a>
+    <a class="khizooo_tm_full_link" href=""></a>
   </div>
 </li>
 
@@ -318,7 +346,7 @@
       <h3 class="title toolooo">Photography</h3>
       <p class="text">Photography related calculations with ease.</p>
     </div>
-    <a class="khizooo_tm_full_link" href="https://calculatorbit.com/photography/"></a>
+    <a class="khizooo_tm_full_link" href=""></a>
   </div>
 </li>
 
@@ -331,7 +359,7 @@
       <h3 class="title toolooo">Crafting</h3>
       <p class="text">Crafting related calculations with ease.</p>
     </div>
-    <a class="khizooo_tm_full_link" href="https://calculatorbit.com/crafting/"></a>
+    <a class="khizooo_tm_full_link" href=""></a>
   </div>
 </li>
 
@@ -344,7 +372,7 @@
       <h3 class="title toolooo">Automotive Calculator</h3>
       <p class="text">Automative related calculations with ease.</p>
     </div>
-    <a class="khizooo_tm_full_link" href="https://calculatorbit.com/automotive/"></a>
+    <a class="khizooo_tm_full_link" href=""></a>
   </div>
 </li>
 
@@ -357,7 +385,7 @@
       <h3 class="title toolooo">Travel Calculator</h3>
       <p class="text">Travel related calculations with ease.</p>
     </div>
-    <a class="khizooo_tm_full_link" href="https://calculatorbit.com/travel/"></a>
+    <a class="khizooo_tm_full_link" href=""></a>
   </div>
 </li>
 
