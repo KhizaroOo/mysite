@@ -326,3 +326,19 @@
     border-top: 2px solid #000000 !important;
 }
 /* Border Styles */
+
+.calculator-card-badge-top {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            background: linear-gradient(135deg, #ff6a00, #ff9f00);
+            color: #fff;
+            font-size: 12px;
+            font-weight: 800;
+            padding: 7px 20px;
+            border-radius: 0px;
+            text-transform: uppercase;
+            letter-spacing: 0.9px;
+            z-index: 2;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+        }
