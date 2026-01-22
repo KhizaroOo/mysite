@@ -25,7 +25,7 @@
 		}
 		.khizooo_tm_services .list_inner:hover .icon {
 			background-color: var(--m-toolooo-color);
-			color: #3a3a3a;
+			color: var(--mc-body-bcg);
 		}
 		
 		.khizooo_tm_services .list_inner:hover .title.toolooo {
@@ -34,10 +34,20 @@
 	</style>
 
 	<script>
-	// Set BASE_PATH for all HTML pages
 	window.BASE_PATH = (window.location.hostname === "khizarooo.github.io")
 		? "https://khizarooo.github.io/mysite/"
 		: "file:///D:/khizooo/WEBSITE/static-website/mysite/";
+	window.addEventListener('DOMContentLoaded', function() {
+		var links = document.querySelectorAll('.khizooo_tm_full_link');
+		var targets = [
+			window.BASE_PATH + '/Toolbox/web-tools.html',
+			window.BASE_PATH + '/Toolbox/calculators.html',
+			window.BASE_PATH + '/Toolbox/ai-tools.html',
+		];
+		links.forEach(function(link, i) {
+			link.setAttribute('href', targets[i] || window.BASE_PATH + 'index.html#');
+		});
+	});
 	</script>
 </head>
 
@@ -83,7 +93,7 @@
 													<h3 class="title toolooo">Web Tools</h3>
 													<p class="text">Handy online tools to simplify tasks and speed up your workflow daily.</p>
 												</div>
-												<a class="khizooo_tm_full_link" href="./index.html#"></a>
+												<a class="khizooo_tm_full_link" href=""></a>
 											</div>
 										</li>
 
@@ -97,7 +107,7 @@
 													<h3 class="title toolooo">Calculators</h3>
 													<p class="text">Smart calculators for math, finance, and learning to get quick results easily.</p>
 												</div>
-												<a class="khizooo_tm_full_link" href="./index.html#"></a>
+												<a class="khizooo_tm_full_link" href=""></a>
 											</div>
 										</li>
 
@@ -111,7 +121,7 @@
 													<h3 class="title toolooo">AI Tools</h3>
 													<p class="text">Cutting-edge AI tools to boost productivity, creativity, and problem solving fast.</p>
 												</div>
-												<a class="khizooo_tm_full_link" href="./index.html#"></a>
+												<a class="khizooo_tm_full_link" href=""></a>
 											</div>
 										</li>
 
