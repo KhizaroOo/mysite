@@ -1,45 +1,123 @@
-﻿jQuery(document).ready(function () {
+﻿
 
-	"use strict";
+// ===============================
+// BASE PATH (as provided)
+// ===============================
+window.BASE_PATH =
+  window.location.hostname === "khizarooo.github.io"
+    ? "https://khizarooo.github.io/mysite/"
+    : "file:///D:/khizooo/WEBSITE/static-website/mysite/";
 
-	// Set BASE_PATH depending on environment
-	window.BASE_PATH = (window.location.hostname === "khizarooo.github.io") ? "https://khizarooo.github.io/mysite/" : "file:///D:/khizooo/WEBSITE/static-website/mysite/";
+// ===============================
+// Calculate Relative Depth
+// ===============================
+(function () {
+  const path = window.location.pathname;
 
-	Render_Sidebar();
-	Render_MobileMenu();
-	Render_Footer();
+  const cleanPath = path.endsWith("/")
+    ? path
+    : path.substring(0, path.lastIndexOf("/") + 1);
 
-	khizooo_tm_trigger_menu();
-	khizooo_tm_cursor();
-	khizooo_tm_imgtosvg();
-	khizooo_tm_popup();
-	khizooo_tm_data_images();
-	khizooo_tm_contact_form();
-	khizooo_tm_owl_carousel();
-	khizooo_tm_scrollable();
-	khizooo_tm_jarallax();
-	khizooo_tm_mycounter();
-	myAccordion();
-	khizooo_tm_totop();
-	khizooo_tm_totop_fade();
-	khizooo_tm_down();
-	khizooo_tm_resizer();
-	khizooo_tm_canvas_effect();
+  const parts = cleanPath.split("/").filter(Boolean);
+  const mysiteIndex = parts.indexOf("mysite");
 
-	RenderArtworksGrid();
-	RenderDevsparkList();
+  let depth = 0;
+  if (mysiteIndex !== -1) {
+    depth = parts.length - mysiteIndex - 1;
+  }
 
-	jQuery(window).on('load', function () {
-		khizooo_tm_my_load();
-	});
-	jQuery(window).on('scroll', function () {
-		dood_tm_progress_line();
-	});
-	jQuery(window).on('resize', function () {
+  window.REL_PATH = depth === 0 ? "./" : "../".repeat(depth);
+})();
+
+// ===============================
+// Loaders
+// ===============================
+function loadCSS(file) {
+  const link = document.createElement("link");
+  link.rel = "stylesheet";
+  link.href = window.BASE_PATH + window.REL_PATH + file;
+  document.head.appendChild(link);
+}
+
+function loadJS(file, callback) {
+  const script = document.createElement("script");
+  script.src = window.BASE_PATH + window.REL_PATH + file;
+  script.defer = true;
+  if (callback) script.onload = callback;
+  document.body.appendChild(script);
+}
+
+// ===============================
+// Load CSS Files
+// ===============================
+[
+  "css/fonts.css",
+  "css/bootstrap.min.css",
+  "css/all.min.css",
+  "css/plugins.css",
+  "css/style.css",
+  "css/khizooo.css",
+].forEach(loadCSS);
+
+// ===============================
+// DOM READY (NO jQuery here ❗)
+// ===============================
+document.addEventListener("DOMContentLoaded", function () {
+
+  // Load jQuery FIRST
+  loadJS("js/jquery.js", function () {
+
+    // jQuery is guaranteed ready here ✅
+    loadJS("js/bootstrap.bundle.min.js");
+    loadJS("js/plugins.js");
+
+    // ===============================
+    // SAFE jQuery usage
+    // ===============================
+    jQuery(function ($) {
+      console.log("jQuery loaded safely 😌");
+
+		"use strict";
+
+		Render_Sidebar();
+		Render_MobileMenu();
+		Render_Footer();
+
+		khizooo_tm_trigger_menu();
+		khizooo_tm_cursor();
+		khizooo_tm_imgtosvg();
+		khizooo_tm_data_images();
+		khizooo_tm_contact_form();
+
+		khizooo_tm_scrollable();
 		khizooo_tm_jarallax();
-	});
+		khizooo_tm_mycounter();
+		myAccordion();
+		khizooo_tm_totop();
+		khizooo_tm_totop_fade();
+		khizooo_tm_down();
+		khizooo_tm_resizer();
+		khizooo_tm_canvas_effect();
+
+		RenderArtworksGrid();
+		RenderDevsparkList();
+
+		jQuery(window).on('load', function () {
+			khizooo_tm_my_load();
+		});
+		jQuery(window).on('scroll', function () {
+			dood_tm_progress_line();
+		});
+		jQuery(window).on('resize', function () {
+			khizooo_tm_jarallax();
+		});
+		
+    });
+
+  });
 
 });
+
 
 // DEVTSPARK LIST RENDER
 function RenderDevsparkList() {
@@ -448,42 +526,6 @@ function khizooo_tm_imgtosvg(){
 	});
 }
 
-// POPUP
-function khizooo_tm_popup(){
-	
-	"use strict";
-
-	jQuery('.gallery_zoom').each(function() { // the containers for all your galleries
-		jQuery(this).magnificPopup({
-			delegate: 'a.zoom', // the selector for gallery item
-			type: 'image',
-			gallery: {
-			  enabled:true
-			},
-			removalDelay: 300,
-			mainClass: 'mfp-fade'
-		});
-
-	});
-	jQuery('.popup-youtube, .popup-vimeo').each(function() { // the containers for all your galleries
-		jQuery(this).magnificPopup({
-			disableOn: 100,
-			type: 'iframe',
-			mainClass: 'mfp-fade',
-			removalDelay: 160,
-			preloader: false,
-			fixedContentPos: true
-		});
-	});
-	
-	jQuery('.soundcloude_link').magnificPopup({
-	  type : 'image',
-	   gallery: {
-		   enabled: true, 
-	   },
-	});
-}
-
 // DATA IMAGES
 function khizooo_tm_data_images(){
 	
@@ -545,50 +587,6 @@ function khizooo_tm_contact_form(){
 	});
 }
 
-// OWL CAROUSEL
-function khizooo_tm_owl_carousel(){
-
-	"use strict";
-	
-	var carousel = jQuery('.khizooo_tm_testimonials .owl-carousel');
-
-	carousel.owlCarousel({
-		loop: true,
-		items: 1,
-		lazyLoad: false,
-		margin: 0,
-		autoplay: true,
-		autoplayTimeout: 7000,
-		dots: false,
-		nav: false,
-		navSpeed: false,
-	});
-	
-	var carousel2 = jQuery('.khizooo_tm_partners .owl-carousel');
-
-	carousel2.owlCarousel({
-		loop: true,
-		items: 4,
-		lazyLoad: false,
-		margin: 50,
-		autoplay: true,
-		autoplayTimeout: 7000,
-		dots: true,
-		nav: false,
-		navSpeed: true,
-		responsive:{
-			0:{items:1},
-			480:{items:2},
-			768:{items:3},
-			1040:{items:4},
-			1200:{items:4},
-			1600:{items:4},
-			1920:{items:4}
-		}
-	});
-	khizooo_tm_imgtosvg();
-}
-
 // MENU SCROLL
 function khizooo_tm_scrollable(){
 	
@@ -614,17 +612,6 @@ function khizooo_tm_scrollable(){
 		logoHeight = jQuery('.khizooo_tm_sidebar .logo').height();
 	}
 	verMenu.css({height:H-logoHeight-copyrightHeight});
-	
-	scrollable.each(function(){
-		var element		= jQuery(this);
-		
-		element.css({height: H-logoHeight-copyrightHeight}).niceScroll({
-			touchbehavior:false,
-			cursorwidth:0,
-			autohidemode:true,
-			cursorborder:"0px solid #eee"
-		});
-	});
 }
 
 // JARALLAX
