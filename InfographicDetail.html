@@ -7,28 +7,17 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<title>khizooo</title>
 
-	<!-- FONTS -->
-	<link rel="stylesheet" type="text/css" href="./css/fonts.css">
-	<!-- STYLES -->
-	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
-
-	<link rel="stylesheet" type="text/css" href="./css/plugins.css">
-	<link rel="stylesheet" type="text/css" href="./css/style.css">
-	<link rel="stylesheet" type="text/css" href="./css/khizooo.css">
-	
-
 	<style>
 		.khizooo_tm_hero_top{
 			height: 45vh !important;
 			border-bottom: 2px solid #000000;
 		}
 		.khizooo_tm_services .list_inner:hover .icon {
-			background-color: var(--m-infooo-color);
-			color: #3a3a3a;
+			background-color: var(--m-infooo-color) !important;
+			color: var(--mc-body-bcg) !important;
 		}
 		.khizooo_tm_services .list_inner:hover .title.infooo {
-    		color: var(--m-infooo-color);
+    		color: var(--m-infooo-color) !important;
 		}
 	</style>
 
@@ -131,43 +120,6 @@
 	
 	<!-- / WRAPPER ALL -->
 
-	<!-- SCRIPTS -->
-	<script src="./js/jquery.js"></script>
-	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
-	<script src="./js/plugins.js"></script>
 	<script src="./js/init.js"></script>
-	<!-- /SCRIPTS -->
-
-	<script>
-
-		var SelectedTitle = "";
-		var SelectedSlug = "";
-		var SelectedImage = "";
-
-		function openArtModal(e) {
-
-			let ArtTitle = $(e).find("h6").text();
-			let ArtImage = $(e).find("img").attr("src");
-			SelectedTitle = ArtTitle;
-			SelectedImage = ArtImage;
-			$("#ArtTitle").text(ArtTitle);
-			$("#ArtImg").attr("src", ArtImage);
-			$("#ArtImg").attr("data-title", ArtTitle);
-			$("#ArtModal").modal("show");
-		}
-
-		function downloadArt() {
-		
-			const link = document.createElement('a');
-			link.href = SelectedImage;
-			link.download = SelectedTitle + '.jpg';
-
-			document.body.appendChild(link);
-			link.click();
-			document.body.removeChild(link);
-		}
-
-	</script>
-
 </body>
 </html>

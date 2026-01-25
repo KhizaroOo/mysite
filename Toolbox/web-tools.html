@@ -7,17 +7,6 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<title>khizooo</title>
 
-	<!-- FONTS -->
-	<link rel="stylesheet" type="text/css" href="../css/fonts.css">
-	<!-- STYLES -->
-    <link rel="stylesheet" type="text/css" href="../css/bootstrap.min.css">
-    <link rel="stylesheet" type="text/css" href="../css/all.min.css">
-
-	<link rel="stylesheet" type="text/css" href="../css/plugins.css">
-	<link rel="stylesheet" type="text/css" href="../css/style.css">
-	<link rel="stylesheet" type="text/css" href="../css/khizooo.css">
-	
-
 	<style>
 		.grid-container {
 			columns: 12 140px;
@@ -86,7 +75,7 @@
 					<div class="container">
 						<div class="khizooo_tm_main_title mb-5">
 							<a href="../Toolbox.html"><span class="m-default-detail-heading m-toolooo-detail-heading">&lt; Toolbox</span></a>
-							<span class="m-default-detail-heading m-toolooo-detail-heading">Web Tools &gt;</span>
+							<span class="m-default-detail-heading">Web Tools</span>
 							<p>Handy online tools to simplify tasks and speed up your workflow daily.</p>
 						</div>
 						<div class="main-content">
@@ -125,43 +114,6 @@
 	
 	<!-- / WRAPPER ALL -->
 
-	<!-- SCRIPTS -->
-	<script src="../js/jquery.js"></script>
-    <script src="../js/bootstrap.bundle.min.js"></script>
-	<script src="../js/plugins.js"></script>
 	<script src="../js/init.js"></script>
-	<!-- /SCRIPTS -->
-
-	<script>
-
-		var SelectedTitle = "";
-		var SelectedSlug = "";
-		var SelectedImage = "";
-
-		function openArtModal(e) {
-
-			let ArtTitle = $(e).find("h6").text();
-			let ArtImage = $(e).find("img").attr("src");
-			SelectedTitle = ArtTitle;
-			SelectedImage = ArtImage;
-			$("#ArtTitle").text(ArtTitle);
-			$("#ArtImg").attr("src", ArtImage);
-			$("#ArtImg").attr("data-title", ArtTitle);
-			$("#ArtModal").modal("show");
-		}
-
-		function downloadArt() {
-		
-			const link = document.createElement('a');
-			link.href = SelectedImage;
-			link.download = SelectedTitle + '.jpg';
-
-			document.body.appendChild(link);
-			link.click();
-			document.body.removeChild(link);
-		}
-
-	</script>
-
 </body>
 </html>

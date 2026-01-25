@@ -1,9 +1,4 @@
-﻿
-
-// ===============================
-// BASE PATH (as provided)
-// ===============================
-window.BASE_PATH =
+﻿window.BASE_PATH =
   window.location.hostname === "khizarooo.github.io"
     ? "https://khizarooo.github.io/mysite/"
     : "file:///D:/khizooo/WEBSITE/static-website/mysite/";
@@ -12,21 +7,23 @@ window.BASE_PATH =
 // Calculate Relative Depth
 // ===============================
 (function () {
-  const path = window.location.pathname;
-
-  const cleanPath = path.endsWith("/")
-    ? path
-    : path.substring(0, path.lastIndexOf("/") + 1);
-
-  const parts = cleanPath.split("/").filter(Boolean);
-  const mysiteIndex = parts.indexOf("mysite");
-
-  let depth = 0;
-  if (mysiteIndex !== -1) {
-    depth = parts.length - mysiteIndex - 1;
-  }
-
-  window.REL_PATH = depth === 0 ? "./" : "../".repeat(depth);
+	// Always ensure 'mysite' is present in the asset path
+	const path = window.location.pathname;
+	// Find the index of 'mysite' in the path
+	const mysiteMatch = /\/mysite\//.exec(path);
+	let relPath = "./";
+	if (mysiteMatch) {
+		// Get everything after '/mysite/'
+		const afterMysite = path.split("/mysite/")[1] || "";
+		// Count folders after 'mysite/' (ignore file at end)
+		const segments = afterMysite.split("/").filter(Boolean);
+		let folderCount = segments.length;
+		if (segments.length && segments[segments.length - 1].includes(".")) {
+			folderCount -= 1;
+		}
+		relPath = folderCount <= 0 ? "./" : "../".repeat(folderCount);
+	}
+	window.REL_PATH = relPath;
 })();
 
 // ===============================
@@ -35,13 +32,13 @@ window.BASE_PATH =
 function loadCSS(file) {
   const link = document.createElement("link");
   link.rel = "stylesheet";
-  link.href = window.BASE_PATH + window.REL_PATH + file;
+  link.href = window.REL_PATH + file;
   document.head.appendChild(link);
 }
 
 function loadJS(file, callback) {
   const script = document.createElement("script");
-  script.src = window.BASE_PATH + window.REL_PATH + file;
+  script.src = window.REL_PATH + file;
   script.defer = true;
   if (callback) script.onload = callback;
   document.body.appendChild(script);
@@ -66,8 +63,6 @@ document.addEventListener("DOMContentLoaded", function () {
 
   // Load jQuery FIRST
   loadJS("js/jquery.js", function () {
-
-    // jQuery is guaranteed ready here ✅
     loadJS("js/bootstrap.bundle.min.js");
     loadJS("js/plugins.js");
 
