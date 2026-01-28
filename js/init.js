@@ -3,6 +3,8 @@
     ? "https://khizarooo.github.io/mysite/"
     : "file:///D:/khizooo/WEBSITE/static-website/mysite/";
 
+	showWhiteScreenLoader();
+
 // ===============================
 // Calculate Relative Depth
 // ===============================
@@ -74,6 +76,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 		"use strict";
 
+		
 		Render_Sidebar();
 		Render_MobileMenu();
 		Render_Footer();
@@ -462,10 +465,84 @@ function khizooo_tm_trigger_menu(){
 
 // MY LOAD
 function khizooo_tm_my_load(){
-	
 	"use strict";
-	
+	setTimeout(hideWhiteScreenLoader, 1000);
 }
+
+// WHITE SCREEN LOADER
+function showWhiteScreenLoader() {
+	if (!document.getElementById('white-screen-loader')) {
+			 const loader = document.createElement('div');
+			 loader.id = 'white-screen-loader';
+			 loader.style.position = 'fixed';
+			 loader.style.top = '0';
+			 loader.style.left = '0';
+			 loader.style.width = '100vw';
+			 loader.style.height = '100vh';
+			 loader.style.background = '#fff';
+			 loader.style.zIndex = '99999';
+			 loader.style.display = 'flex';
+			 loader.style.alignItems = 'center';
+			 loader.style.justifyContent = 'center';
+			 loader.style.flexDirection = 'column';
+			 loader.innerHTML = `
+				 <style>
+					 #white-screen-loader .bouncing-dot {
+						 width: 36px;
+						 height: 36px;
+						 border-radius: 50%;
+						 background: linear-gradient(135deg, #e098a8 0%, #d34a5c 100%);
+						 margin-bottom: 24px;
+						 animation: bounce 1s infinite cubic-bezier(.68,-0.55,.27,1.55);
+						 display: block;
+					 }
+					 @keyframes bounce {
+						 0%, 100% { transform: translateY(0); }
+						 50% { transform: translateY(-36px) scale(1.1); }
+					 }
+					 #white-screen-loader .loader-text {
+						 font-size: 2rem;
+						 color: #222;
+						 font-weight: 700;
+						 letter-spacing: 2px;
+						 text-shadow: 0 2px 8px #ff6f6133;
+						 margin-bottom: 0.5rem;
+						 animation: fadein 0.1s;
+					 }
+					 #white-screen-loader .loader-sub {
+						 font-size: 1rem;
+						 color: #ff6f61;
+						 font-weight: 500;
+						 letter-spacing: 1px;
+						 font-family: 'Segoe UI', 'Montserrat', 'Arial', sans-serif;
+						 opacity: 0.7;
+						 animation: fadein 0.1s 0.2s both;
+					 }
+					 @keyframes fadein {
+						 from { opacity: 0; transform: translateY(16px); }
+						 to { opacity: 1; transform: translateY(0); }
+					 }
+				 </style>
+				 <div class="bouncing-dot"></div>
+				 <div class="loader-text">khizooo</div>
+				 <div class="loader-sub">Creativity is loading...</div>
+			 `;
+			 document.body.appendChild(loader);
+	}
+}
+
+function hideWhiteScreenLoader() {
+	const loader = document.getElementById('white-screen-loader');
+	if (loader) {
+		loader.style.transition = 'opacity 0.5s';
+		loader.style.opacity = '0';
+		setTimeout(() => {
+			if (loader.parentNode) loader.parentNode.removeChild(loader);
+		}, 500);
+	}
+}
+
+
 
 // CURSOR
 function khizooo_tm_cursor(){
