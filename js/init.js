@@ -524,7 +524,7 @@ function showWhiteScreenLoader() {
 					 }
 				 </style>
 				 <div class="bouncing-dot"></div>
-				 <div class="loader-text">khizooo</div>
+				 <h3 class="name">khizooo</h3>
 				 <div class="loader-sub">Creativity is loading...</div>
 			 `;
 			 document.body.appendChild(loader);
