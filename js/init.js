@@ -31,6 +31,22 @@
   }
 })();
 
+// ===============================
+// Ahrefs Analytics
+// ===============================
+(function() {
+  // Only load Ahrefs on production (GitHub Pages)
+  if (window.location.hostname === "khizarooo.github.io") {
+    const ahrefsScript = document.createElement('script');
+    ahrefsScript.async = true;
+    ahrefsScript.src = 'https://analytics.ahrefs.com/analytics.js';
+    ahrefsScript.setAttribute('data-key', 'RfCjYxMUz4wJ2yzyWoY4RA');
+    document.head.appendChild(ahrefsScript);
+    
+    console.log('Ahrefs Analytics initialized');
+  }
+})();
+
 	showWhiteScreenLoader();
 
 // ===============================
