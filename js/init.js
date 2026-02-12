@@ -73,7 +73,7 @@
 })();
 
 // ===============================
-// Loaders
+// Assets Loaders
 // ===============================
 function loadCSS(file) {
   const link = document.createElement("link");
@@ -159,7 +159,6 @@ document.addEventListener("DOMContentLoaded", function () {
   });
 
 });
-
 
 // DEVTSPARK LIST RENDER
 function RenderDevsparkList() {
@@ -417,7 +416,6 @@ function Render_Footer(){
     jQuery('.khizooo_tm_mainpart').append(footerHTML);
 }
 
-
 // SUPPORT MODAL (Neutral Theme)
 function openSupportModal() {
     "use strict";
@@ -476,7 +474,6 @@ function openSupportModal() {
     });
 }
 
-
 // TRIGGER MENU
 function khizooo_tm_trigger_menu(){
 	
@@ -505,7 +502,6 @@ function khizooo_tm_trigger_menu(){
 		return false;
 	});
 }
-
 
 // MY LOAD
 function khizooo_tm_my_load(){
@@ -585,8 +581,6 @@ function hideWhiteScreenLoader() {
 		}, 500);
 	}
 }
-
-
 
 // CURSOR
 function khizooo_tm_cursor(){
@@ -911,9 +905,6 @@ function khizooo_tm_resizer(){
 		return false;
 	});
 }
-
-
-
 
 // BACKGROUND CANVAS
 function khizooo_tm_canvas_effect() {
