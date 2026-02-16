@@ -22,16 +22,60 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 10.0
 build_property.EnableCodeStyleSeverity = 
 
+[D:/khizooo/WEBSITE/static-website/mysite/website/web/Views/Artworks/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0d29ya3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/khizooo/WEBSITE/static-website/mysite/website/web/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/khizooo/WEBSITE/static-website/mysite/website/web/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[D:/khizooo/WEBSITE/static-website/mysite/website/web/Views/Infographics/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5mb2dyYXBoaWNzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/khizooo/WEBSITE/static-website/mysite/website/web/Views/Portfolio/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9ydGZvbGlvXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/khizooo/WEBSITE/static-website/mysite/website/web/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/khizooo/WEBSITE/static-website/mysite/website/web/Views/Shared/PV/_backgroundEffects.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBWXF9iYWNrZ3JvdW5kRWZmZWN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/khizooo/WEBSITE/static-website/mysite/website/web/Views/Shared/PV/_cursor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBWXF9jdXJzb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/khizooo/WEBSITE/static-website/mysite/website/web/Views/Shared/PV/_footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBWXF9mb290ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/khizooo/WEBSITE/static-website/mysite/website/web/Views/Shared/PV/_heroMonsterSection.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBWXF9oZXJvTW9uc3RlclNlY3Rpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/khizooo/WEBSITE/static-website/mysite/website/web/Views/Shared/PV/_heroSection.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBWXF9oZXJvU2VjdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/khizooo/WEBSITE/static-website/mysite/website/web/Views/Shared/PV/_mobileMenu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBWXF9tb2JpbGVNZW51LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/khizooo/WEBSITE/static-website/mysite/website/web/Views/Shared/PV/_screenLoader.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBWXF9zY3JlZW5Mb2FkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/khizooo/WEBSITE/static-website/mysite/website/web/Views/Shared/PV/_sidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBWXF9zaWRlYmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/khizooo/WEBSITE/static-website/mysite/website/web/Views/Shared/PV/_topup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBWXF90b3B1cC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/khizooo/WEBSITE/static-website/mysite/website/web/Views/Shared/_ValidationScriptsPartial.cshtml]

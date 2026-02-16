@@ -1,0 +1,16 @@
+﻿@model web.Models.HeroMonsterSection
+
+<div class="khizooo_tm_section" id="home">
+	<div class="khizooo_tm_hero khizooo_tm_hero_top">
+		<div class="content text-center">
+			<img class="avatar mb-4" src="@Model.Image" alt="@Model.LinkText Avatar" style="width:64px;height:64px;object-fit:cover;display:inline-block;">
+			<p class="mb-0 text-center">
+				<a href="@Model.LinkUrl" class="btn-header btn--stripe btn--radius @Model.LinkClass text-center">
+					@Model.LinkText
+				</a>
+			</p>
+			<h3 class="name">@Model.Monster</h3>
+			<p>@Model.Description</p>
+		</div>
+	</div>
+</div>
