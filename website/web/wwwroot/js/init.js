@@ -1,9 +1,13 @@
 ﻿window.BASE_PATH = "/";
 
+document.documentElement.classList.remove("no-js");
+
 // ===============================
 // DOM READY (NO jQuery here ❗)
 // ===============================
 document.addEventListener("DOMContentLoaded", function () {
+
+	document.getElementById("white-screen-loader").style.display = "none";
 
     // ===============================
     // SAFE jQuery usage

@@ -1,9 +1,19 @@
 ﻿@{
-    ViewData["Title"] = "khizooo | Landing Page";
+	ViewData["SiteName"] = "khizooo";
+	ViewData["Type"] = "website";
+	ViewData["URL"] = "https://localhost:7132";
+	ViewData["Title"] = "khizooo – Sticky Note Artist & Tech Creator";
     ViewData["Description"] = "Khizooo – explore a unique blend of sticky note art, creative illustrations, and technology projects. Discover artworks, tech insights, tools, free assets, and more.";
     ViewData["Keywords"] = "Khizooo, sticky note art, portfolio, illustrations, artworks, tech blog, infographics, dev tools, creative projects, content creator";
-	ViewData["Image"] = "/images/favicon_16x16.png";
+	ViewData["Image"] = "/images/khizooo.png";
+	ViewData["ImageWidth"] = "512";
+	ViewData["ImageHeight"] = "512";
 }
+
+@* <meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https:khizooo.com" /> *@
 
 <partial name="PV/_heroSection" />
 
@@ -21,7 +31,7 @@
 						<div class="list_inner">
 							<div class="in">
 								<span class="icon">
-									<img class="avatar" src="/images/Monsters/artooo.png" alt="artooo Monster" loading="lazy">
+									<img class="avatar" src="/images/Monsters/artooo.png" alt="artooo Monster" loading="lazy" width="75" height="75">
 								</span>
 								<h3 class="title artooo">artooo -> Artworks</h3>
 								<p class="text">A visual playground of sticky-note art, sketches, illustrations, creativity, emotions, and storytelling through lines.</p>
@@ -33,7 +43,7 @@
 						<div class="list_inner">
 							<div class="in">
 								<span class="icon">
-									<img class="avatar" src="/images/Monsters/infooo.png" alt="infooo Monster" loading="lazy">
+									<img class="avatar" src="/images/Monsters/infooo.png" alt="infooo Monster" loading="lazy" width="75" height="75">
 								</span>
 								<h3 class="title infooo">infooo -> Infographics</h3>
 								<p class="text">Knowledge hub sharing tech insights, blockchain, AI, development tips, thoughts, research, and digital wisdom.</p>
@@ -45,7 +55,7 @@
 						<div class="list_inner">
 							<div class="in">
 								<span class="icon">
-									<img class="avatar" src="/images/Monsters/toolooo.png" alt="toolooo Monster" loading="lazy">
+									<img class="avatar" src="/images/Monsters/toolooo.png" alt="toolooo Monster" loading="lazy" width="75" height="75">
 								</span>
 								<h3 class="title toolooo">toolooo -> Toolbox</h3>
 								<p class="text">Handy online tools crafted to simplify work, boost productivity, solve problems, and save developer time.</p>
@@ -57,7 +67,7 @@
 						<div class="list_inner">
 							<div class="in">
 								<span class="icon">
-									<img class="avatar" src="/images/Monsters/freeooo.png" alt="freeooo Monster" loading="lazy">
+									<img class="avatar" src="/images/Monsters/freeooo.png" alt="freeooo Monster" loading="lazy" width="75" height="75">
 								</span>
 								<h3 class="title freeooo">freeooo -> Free Assets</h3>
 								<p class="text">Free resources, assets, downloads, templates, experiments, and giveaways to empower creators and developers globally.</p>
@@ -69,7 +79,7 @@
 						<div class="list_inner">
 							<div class="in">
 								<span class="icon">
-									<img class="avatar" src="/images/Monsters/devooo.png" alt="devooo Monster" loading="lazy">
+									<img class="avatar" src="/images/Monsters/devooo.png" alt="devooo Monster" loading="lazy" width="75" height="75">
 								</span>
 								<h3 class="title devooo">devooo -> DevSpark</h3>
 								<p class="text">Deep dives into development, coding practices, frameworks, tutorials, solutions, and engineering mindset evolution.</p>
@@ -78,17 +88,17 @@
 						</div>
 					</li>
 
-					<li>
-						<div class="list_inner" style="background-color:#181b1e; border:none;">
+					<li id="future-monster-box-home">
+						<div class="list_inner">
 							<div class="in d-flex flex-column align-items-center justify-content-center text-center py-4">
 								<div class="d-flex justify-content-center flex-wrap mb-3">
-									<img class="avatar" src="/images/Monsters/ff-01.png" style="width:55px; margin:8px;" alt="Future Monster 01" loading="lazy">
-									<img class="avatar" src="/images/Monsters/ff-02.png" style="width:55px; margin:8px;" alt="Future Monster 02" loading="lazy">
-									<img class="avatar" src="/images/Monsters/ff-03.png" style="width:55px; margin:8px;" alt="Future Monster 03" loading="lazy">
-									<img class="avatar" src="/images/Monsters/ff-04.png" style="width:55px; margin:8px;" alt="Future Monster 04" loading="lazy">
+									<img class="avatar" src="/images/Monsters/ff-01.png" alt="Future Monster 01" loading="lazy" width="55" height="55">
+									<img class="avatar" src="/images/Monsters/ff-02.png" alt="Future Monster 02" loading="lazy" width="55" height="55">
+									<img class="avatar" src="/images/Monsters/ff-03.png" alt="Future Monster 03" loading="lazy" width="55" height="55">
+									<img class="avatar" src="/images/Monsters/ff-04.png" alt="Future Monster 04" loading="lazy" width="55" height="55">
 								</div>
-								<h3 class="title devooo text-white mb-2" style="color:#fff;">Future Monsters</h3>
-								<p class="text" style="color:#ccc; max-width:300px;">
+								<h3 class="title devooo text-white mb-2">Future Monsters</h3>
+								<p class="text">
 									Upcoming ideas, experimental projects, ambitious concepts, innovations, and monsters waiting to be unleashed.
 								</p>
 							</div>

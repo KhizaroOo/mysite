@@ -190,6 +190,9 @@
 }
 
 /* Social Buttons */
+#social {
+    background: #ffffff;
+}
 .btn-social {
     color: #eeeeee;
     background-color: #3a3a3a;
@@ -344,4 +347,94 @@
         }
 
 
+#white-screen-loader {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: #fff;
+    z-index: 99999;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
 
+#white-screen-loader .loader-text {
+    font-size: 2rem;
+    color: #222;
+    font-weight: 700;
+    letter-spacing: 2px;
+    text-shadow: 0 2px 8px #ff6f6133;
+    margin-bottom: 0.5rem;
+    animation: fadein 0.1s;
+}
+
+#white-screen-loader .loader-sub {
+    font-size: 1rem;
+    color: #ff6f61;
+    font-weight: 500;
+    letter-spacing: 1px;
+    font-family: 'Segoe UI', 'Montserrat', 'Arial', sans-serif;
+    opacity: 0.7;
+    animation: fadein 0.1s 0.2s both;
+}
+
+@keyframes fadein {
+    from {
+        opacity: 0;
+        transform: translateY(16px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+#menu-scrollable {
+    height: 643px;
+    overflow: hidden;
+    outline: none;
+}
+
+#future-monster-box-home .avatar {
+    width: 55px;
+    margin: 8px;
+}
+
+#future-monster-box-home .list_inner {
+    background-color: #181b1e;
+    border: none;
+}
+
+#future-monster-box-home .text {
+    color: #ccc;
+    max-width: 300px;
+}
+
+.mouse-cursor.cursor-outer {
+    visibility: visible;
+    transform: translate(802px, 213px);
+}
+
+.mouse-cursor.cursor-inner {
+    visibility: visible;
+    transform: translate(802px, 213px);
+}
+
+#home .home-avatar {
+    width: 64px;
+    height: 64px;
+    object-fit: cover;
+    display: inline-block;
+}
+
+#scroll-to-top .text {
+    bottom: 143.812px;
+}
+
+#scroll-to-top .line {
+    height: 8.07348%;
+}

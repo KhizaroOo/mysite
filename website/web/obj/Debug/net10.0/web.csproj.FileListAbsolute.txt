@@ -35,14 +35,9 @@ D:\khizooo\WEBSITE\static-website\mysite\website\web\obj\Debug\net10.0\refint\we
 D:\khizooo\WEBSITE\static-website\mysite\website\web\obj\Debug\net10.0\web.pdb
 D:\khizooo\WEBSITE\static-website\mysite\website\web\obj\Debug\net10.0\web.genruntimeconfig.cache
 D:\khizooo\WEBSITE\static-website\mysite\website\web\obj\Debug\net10.0\ref\web.dll
-D:\khizooo\WEBSITE\static-website\mysite\website\web\obj\Debug\net10.0\compressed\nmxrw3nqz5-{0}-psqov7ahez-psqov7ahez.gz
-D:\khizooo\WEBSITE\static-website\mysite\website\web\obj\Debug\net10.0\compressed\wtl52lctho-{0}-4rcperqjzm-4rcperqjzm.gz
 D:\khizooo\WEBSITE\static-website\mysite\website\web\obj\Debug\net10.0\compressed\gus37puapc-{0}-i39855h2g9-i39855h2g9.gz
 D:\khizooo\WEBSITE\static-website\mysite\website\web\obj\Debug\net10.0\compressed\kvzfx3tsum-{0}-026e6kk7rh-026e6kk7rh.gz
 D:\khizooo\WEBSITE\static-website\mysite\website\web\obj\Debug\net10.0\compressed\8di7xg0hsg-{0}-16icvet3b4-16icvet3b4.gz
-D:\khizooo\WEBSITE\static-website\mysite\website\web\obj\Debug\net10.0\compressed\8pa4zy6j9b-{0}-86hhd0sjwe-86hhd0sjwe.gz
-D:\khizooo\WEBSITE\static-website\mysite\website\web\obj\Debug\net10.0\compressed\o0lui4os0r-{0}-1mhy4h8n1k-1mhy4h8n1k.gz
-D:\khizooo\WEBSITE\static-website\mysite\website\web\obj\Debug\net10.0\compressed\3v9dqsqxmi-{0}-w1b1513vlt-w1b1513vlt.gz
 D:\khizooo\WEBSITE\static-website\mysite\website\web\obj\Debug\net10.0\compressed\whsfng8hwe-{0}-9h8hyztfoh-9h8hyztfoh.gz
 D:\khizooo\WEBSITE\static-website\mysite\website\web\obj\Debug\net10.0\compressed\gbras383o6-{0}-j1yt2s02qf-j1yt2s02qf.gz
 D:\khizooo\WEBSITE\static-website\mysite\website\web\obj\Debug\net10.0\compressed\ayelhsduv5-{0}-6w6o8boqxt-6w6o8boqxt.gz
@@ -144,4 +139,9 @@ D:\khizooo\WEBSITE\static-website\mysite\website\web\obj\Debug\net10.0\compresse
 D:\khizooo\WEBSITE\static-website\mysite\website\web\obj\Debug\net10.0\compressed\nkxu1w76uh-{0}-nexim9jxru-nexim9jxru.gz
 D:\khizooo\WEBSITE\static-website\mysite\website\web\obj\Debug\net10.0\compressed\o1jan62bs8-{0}-u0eqfiwq2q-u0eqfiwq2q.gz
 D:\khizooo\WEBSITE\static-website\mysite\website\web\obj\Debug\net10.0\compressed\n718rrzt41-{0}-oi34ippfm7-oi34ippfm7.gz
-D:\khizooo\WEBSITE\static-website\mysite\website\web\obj\Debug\net10.0\compressed\ozpejhkyb5-{0}-94t3f9n17n-94t3f9n17n.gz
+D:\khizooo\WEBSITE\static-website\mysite\website\web\obj\Debug\net10.0\compressed\wtl52lctho-{0}-qcfcodzwas-qcfcodzwas.gz
+D:\khizooo\WEBSITE\static-website\mysite\website\web\obj\Debug\net10.0\compressed\o0lui4os0r-{0}-noots1enrs-noots1enrs.gz
+D:\khizooo\WEBSITE\static-website\mysite\website\web\obj\Debug\net10.0\compressed\3v9dqsqxmi-{0}-udqkeqkg8g-udqkeqkg8g.gz
+D:\khizooo\WEBSITE\static-website\mysite\website\web\obj\Debug\net10.0\compressed\nmxrw3nqz5-{0}-wfs2hr0ocn-wfs2hr0ocn.gz
+D:\khizooo\WEBSITE\static-website\mysite\website\web\obj\Debug\net10.0\compressed\8pa4zy6j9b-{0}-syb0jnylpn-syb0jnylpn.gz
+D:\khizooo\WEBSITE\static-website\mysite\website\web\obj\Debug\net10.0\compressed\ozpejhkyb5-{0}-6xo3tisoer-6xo3tisoer.gz

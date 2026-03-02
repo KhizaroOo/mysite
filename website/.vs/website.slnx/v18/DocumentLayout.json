@@ -3,64 +3,56 @@
   "WorkspaceRootPath": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|d:\\khizooo\\website\\static-website\\mysite\\website\\web\\models\\heromonstersection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|solutionrelative:web\\models\\heromonstersection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|d:\\khizooo\\website\\static-website\\mysite\\website\\web\\views\\shared\\pv\\_heromonstersection.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|solutionrelative:web\\views\\shared\\pv\\_heromonstersection.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|d:\\khizooo\\website\\static-website\\mysite\\website\\web\\views\\infographics\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|solutionrelative:web\\views\\infographics\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|d:\\khizooo\\website\\static-website\\mysite\\website\\web\\wwwroot\\infographics.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|solutionrelative:web\\wwwroot\\infographics.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|d:\\khizooo\\website\\static-website\\mysite\\website\\web\\views\\artworks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|solutionrelative:web\\views\\artworks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|d:\\khizooo\\website\\static-website\\mysite\\website\\web\\wwwroot\\js\\init.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|solutionrelative:web\\wwwroot\\js\\init.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|d:\\khizooo\\website\\static-website\\mysite\\website\\web\\views\\portfolio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|solutionrelative:web\\views\\portfolio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|d:\\khizooo\\website\\static-website\\mysite\\website\\web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|solutionrelative:web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|d:\\khizooo\\website\\static-website\\mysite\\website\\web\\controllers\\artworkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|solutionrelative:web\\controllers\\artworkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|d:\\khizooo\\website\\static-website\\mysite\\website\\web\\views\\shared\\pv\\_screenloader.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|solutionrelative:web\\views\\shared\\pv\\_screenloader.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|d:\\khizooo\\website\\static-website\\mysite\\website\\web\\views\\shared\\pv\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|solutionrelative:web\\views\\shared\\pv\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|d:\\khizooo\\website\\static-website\\mysite\\website\\web\\views\\shared\\pv\\_mobilemenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|solutionrelative:web\\views\\shared\\pv\\_mobilemenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|d:\\khizooo\\website\\static-website\\mysite\\website\\web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|solutionrelative:web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|d:\\khizooo\\website\\static-website\\mysite\\website\\web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|solutionrelative:web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|d:\\khizooo\\website\\static-website\\mysite\\website\\web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|solutionrelative:web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|d:\\khizooo\\website\\static-website\\mysite\\website\\web\\wwwroot\\js\\init.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|solutionrelative:web\\wwwroot\\js\\init.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|d:\\khizooo\\website\\static-website\\mysite\\website\\web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|solutionrelative:web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|d:\\khizooo\\website\\static-website\\mysite\\website\\web\\wwwroot\\json\\devspark\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|solutionrelative:web\\wwwroot\\json\\devspark\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|d:\\khizooo\\website\\static-website\\mysite\\website\\web\\wwwroot\\css\\khizooo.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|solutionrelative:web\\wwwroot\\css\\khizooo.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|d:\\khizooo\\website\\static-website\\mysite\\website\\web\\views\\shared\\pv\\_topup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|solutionrelative:web\\views\\shared\\pv\\_topup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|d:\\khizooo\\website\\static-website\\mysite\\website\\web\\views\\shared\\pv\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|solutionrelative:web\\views\\shared\\pv\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|d:\\khizooo\\website\\static-website\\mysite\\website\\web\\views\\shared\\pv\\_screenloader.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|solutionrelative:web\\views\\shared\\pv\\_screenloader.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|d:\\khizooo\\website\\static-website\\mysite\\website\\web\\views\\shared\\pv\\_mobilemenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|solutionrelative:web\\views\\shared\\pv\\_mobilemenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|d:\\khizooo\\website\\static-website\\mysite\\website\\web\\views\\shared\\pv\\_herosection.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|solutionrelative:web\\views\\shared\\pv\\_herosection.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|d:\\khizooo\\website\\static-website\\mysite\\website\\web\\views\\shared\\pv\\_heromonstersection.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|solutionrelative:web\\views\\shared\\pv\\_heromonstersection.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|d:\\khizooo\\website\\static-website\\mysite\\website\\web\\views\\shared\\pv\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -75,12 +67,56 @@
       "RelativeMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|solutionrelative:web\\views\\shared\\pv\\_backgroundeffects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|d:\\khizooo\\website\\static-website\\mysite\\website\\web\\wwwroot\\css\\backup-style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|solutionrelative:web\\wwwroot\\css\\backup-style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|d:\\khizooo\\website\\static-website\\mysite\\website\\web\\wwwroot\\components\\left-sidebar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|solutionrelative:web\\wwwroot\\components\\left-sidebar.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|d:\\khizooo\\website\\static-website\\mysite\\website\\web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|solutionrelative:web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|d:\\khizooo\\website\\static-website\\mysite\\website\\web\\wwwroot\\css\\plugins.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|solutionrelative:web\\wwwroot\\css\\plugins.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|d:\\khizooo\\website\\static-website\\mysite\\website\\web\\wwwroot\\css\\all.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|solutionrelative:web\\wwwroot\\css\\all.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|d:\\khizooo\\website\\static-website\\mysite\\website\\web\\wwwroot\\css\\fonts.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|solutionrelative:web\\wwwroot\\css\\fonts.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|d:\\khizooo\\website\\static-website\\mysite\\website\\web\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|solutionrelative:web\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|d:\\khizooo\\website\\static-website\\mysite\\website\\web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|solutionrelative:web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|d:\\khizooo\\website\\static-website\\mysite\\website\\web\\views\\artworks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|solutionrelative:web\\views\\artworks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|d:\\khizooo\\website\\static-website\\mysite\\website\\web\\models\\heromonstersection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|solutionrelative:web\\models\\heromonstersection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|d:\\khizooo\\website\\static-website\\mysite\\website\\web\\views\\infographics\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|solutionrelative:web\\views\\infographics\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|d:\\khizooo\\website\\static-website\\mysite\\website\\web\\wwwroot\\infographics.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|solutionrelative:web\\wwwroot\\infographics.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|d:\\khizooo\\website\\static-website\\mysite\\website\\web\\views\\portfolio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|solutionrelative:web\\views\\portfolio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|d:\\khizooo\\website\\static-website\\mysite\\website\\web\\controllers\\artworkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|solutionrelative:web\\controllers\\artworkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|d:\\khizooo\\website\\static-website\\mysite\\website\\web\\wwwroot\\css\\backup-style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|solutionrelative:web\\wwwroot\\css\\backup-style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|d:\\khizooo\\website\\static-website\\mysite\\website\\web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -101,10 +137,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|d:\\khizooo\\website\\static-website\\mysite\\website\\web\\controllers\\toolboxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|solutionrelative:web\\controllers\\toolboxcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|d:\\khizooo\\website\\static-website\\mysite\\website\\web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|solutionrelative:web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AE2BDC88-D1CD-68A9-724B-0BB2BF755B0E}|web\\web.csproj|d:\\khizooo\\website\\static-website\\mysite\\website\\web\\controllers\\devsparkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -134,7 +166,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -142,91 +174,143 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Views\\Infographics\\Index.cshtml",
-              "RelativeDocumentMoniker": "web\\Views\\Infographics\\Index.cshtml",
-              "ToolTip": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Views\\Infographics\\Index.cshtml",
-              "RelativeToolTip": "web\\Views\\Infographics\\Index.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-15T03:29:20.256Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Infographics.html",
-              "DocumentMoniker": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\wwwroot\\Infographics.html",
-              "RelativeDocumentMoniker": "web\\wwwroot\\Infographics.html",
-              "ToolTip": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\wwwroot\\Infographics.html",
-              "RelativeToolTip": "web\\wwwroot\\Infographics.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAACBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-02-15T03:29:06.172Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "HeroMonsterSection.cs",
-              "DocumentMoniker": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Models\\HeroMonsterSection.cs",
-              "RelativeDocumentMoniker": "web\\Models\\HeroMonsterSection.cs",
-              "ToolTip": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Models\\HeroMonsterSection.cs",
-              "RelativeToolTip": "web\\Models\\HeroMonsterSection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Program.cs",
+              "RelativeDocumentMoniker": "web\\Program.cs",
+              "ToolTip": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Program.cs",
+              "RelativeToolTip": "web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-15T01:39:46.376Z",
+              "WhenOpened": "2026-02-15T00:18:05.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "data.json",
+              "DocumentMoniker": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\wwwroot\\json\\devspark\\data.json",
+              "RelativeDocumentMoniker": "web\\wwwroot\\json\\devspark\\data.json",
+              "ToolTip": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\wwwroot\\json\\devspark\\data.json",
+              "RelativeToolTip": "web\\wwwroot\\json\\devspark\\data.json",
+              "ViewState": "AgIAADYHAAAAAAAAAAAWwEYHAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-02T13:40:56.64Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "_heroMonsterSection.cshtml",
-              "DocumentMoniker": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Views\\Shared\\PV\\_heroMonsterSection.cshtml",
-              "RelativeDocumentMoniker": "web\\Views\\Shared\\PV\\_heroMonsterSection.cshtml",
-              "ToolTip": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Views\\Shared\\PV\\_heroMonsterSection.cshtml",
-              "RelativeToolTip": "web\\Views\\Shared\\PV\\_heroMonsterSection.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABXAAAAAAAAAA==",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-15T01:39:08.368Z",
+              "WhenOpened": "2026-02-14T22:43:25.892Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Views\\Artworks\\Index.cshtml",
-              "RelativeDocumentMoniker": "web\\Views\\Artworks\\Index.cshtml",
-              "ToolTip": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Views\\Artworks\\Index.cshtml",
-              "RelativeToolTip": "web\\Views\\Artworks\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAALAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-15T01:30:12.25Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Views\\Portfolio\\Index.cshtml",
-              "RelativeDocumentMoniker": "web\\Views\\Portfolio\\Index.cshtml",
-              "ToolTip": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Views\\Portfolio\\Index.cshtml",
-              "RelativeToolTip": "web\\Views\\Portfolio\\Index.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-15T01:14:49.056Z",
+              "WhenOpened": "2026-02-14T22:44:54.422Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "_mobileMenu.cshtml",
+              "DocumentMoniker": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Views\\Shared\\PV\\_mobileMenu.cshtml",
+              "RelativeDocumentMoniker": "web\\Views\\Shared\\PV\\_mobileMenu.cshtml",
+              "ToolTip": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Views\\Shared\\PV\\_mobileMenu.cshtml",
+              "RelativeToolTip": "web\\Views\\Shared\\PV\\_mobileMenu.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-15T01:05:45.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_heroSection.cshtml",
+              "DocumentMoniker": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Views\\Shared\\PV\\_heroSection.cshtml",
+              "RelativeDocumentMoniker": "web\\Views\\Shared\\PV\\_heroSection.cshtml",
+              "ToolTip": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Views\\Shared\\PV\\_heroSection.cshtml",
+              "RelativeToolTip": "web\\Views\\Shared\\PV\\_heroSection.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-14T23:22:24.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "web\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Properties\\launchSettings.json",
+              "RelativeToolTip": "web\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-02T14:05:45.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "khizooo.css",
+              "DocumentMoniker": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\wwwroot\\css\\khizooo.css",
+              "RelativeDocumentMoniker": "web\\wwwroot\\css\\khizooo.css",
+              "ToolTip": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\wwwroot\\css\\khizooo.css",
+              "RelativeToolTip": "web\\wwwroot\\css\\khizooo.css",
+              "ViewState": "AgIAAKQBAAAAAAAAAAAAAK4BAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-03-02T13:23:34.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_topup.cshtml",
+              "DocumentMoniker": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Views\\Shared\\PV\\_topup.cshtml",
+              "RelativeDocumentMoniker": "web\\Views\\Shared\\PV\\_topup.cshtml",
+              "ToolTip": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Views\\Shared\\PV\\_topup.cshtml",
+              "RelativeToolTip": "web\\Views\\Shared\\PV\\_topup.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-14T23:29:31.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "init.js",
+              "DocumentMoniker": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\wwwroot\\js\\init.js",
+              "RelativeDocumentMoniker": "web\\wwwroot\\js\\init.js",
+              "ToolTip": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\wwwroot\\js\\init.js",
+              "RelativeToolTip": "web\\wwwroot\\js\\init.js",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-14T22:48:09.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "_sidebar.cshtml",
               "DocumentMoniker": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Views\\Shared\\PV\\_sidebar.cshtml",
               "RelativeDocumentMoniker": "web\\Views\\Shared\\PV\\_sidebar.cshtml",
               "ToolTip": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Views\\Shared\\PV\\_sidebar.cshtml",
               "RelativeToolTip": "web\\Views\\Shared\\PV\\_sidebar.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-02-14T23:07:16.015Z",
               "EditorCaption": ""
@@ -239,137 +323,59 @@
               "RelativeDocumentMoniker": "web\\Views\\Shared\\PV\\_screenLoader.cshtml",
               "ToolTip": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Views\\Shared\\PV\\_screenLoader.cshtml",
               "RelativeToolTip": "web\\Views\\Shared\\PV\\_screenLoader.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-02-14T23:58:46.733Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "web\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "web\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-14T22:44:54.422Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "_heroSection.cshtml",
-              "DocumentMoniker": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Views\\Shared\\PV\\_heroSection.cshtml",
-              "RelativeDocumentMoniker": "web\\Views\\Shared\\PV\\_heroSection.cshtml",
-              "ToolTip": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Views\\Shared\\PV\\_heroSection.cshtml",
-              "RelativeToolTip": "web\\Views\\Shared\\PV\\_heroSection.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-14T23:22:24.215Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "init.js",
-              "DocumentMoniker": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\wwwroot\\js\\init.js",
-              "RelativeDocumentMoniker": "web\\wwwroot\\js\\init.js",
-              "ToolTip": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\wwwroot\\js\\init.js",
-              "RelativeToolTip": "web\\wwwroot\\js\\init.js",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAjwB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-02-14T22:48:09.307Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "web\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "web\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAABNAAAAAAAAAA==",
+              "Title": "_heroMonsterSection.cshtml",
+              "DocumentMoniker": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Views\\Shared\\PV\\_heroMonsterSection.cshtml",
+              "RelativeDocumentMoniker": "web\\Views\\Shared\\PV\\_heroMonsterSection.cshtml",
+              "ToolTip": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Views\\Shared\\PV\\_heroMonsterSection.cshtml",
+              "RelativeToolTip": "web\\Views\\Shared\\PV\\_heroMonsterSection.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-14T22:43:25.892Z",
+              "WhenOpened": "2026-02-15T01:39:08.368Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "_topup.cshtml",
-              "DocumentMoniker": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Views\\Shared\\PV\\_topup.cshtml",
-              "RelativeDocumentMoniker": "web\\Views\\Shared\\PV\\_topup.cshtml",
-              "ToolTip": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Views\\Shared\\PV\\_topup.cshtml",
-              "RelativeToolTip": "web\\Views\\Shared\\PV\\_topup.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-14T23:29:31.743Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ArtworksController.cs",
-              "DocumentMoniker": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Controllers\\ArtworksController.cs",
-              "RelativeDocumentMoniker": "web\\Controllers\\ArtworksController.cs",
-              "ToolTip": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Controllers\\ArtworksController.cs",
-              "RelativeToolTip": "web\\Controllers\\ArtworksController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwYAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-15T00:07:49.217Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "_mobileMenu.cshtml",
-              "DocumentMoniker": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Views\\Shared\\PV\\_mobileMenu.cshtml",
-              "RelativeDocumentMoniker": "web\\Views\\Shared\\PV\\_mobileMenu.cshtml",
-              "ToolTip": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Views\\Shared\\PV\\_mobileMenu.cshtml",
-              "RelativeToolTip": "web\\Views\\Shared\\PV\\_mobileMenu.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAACCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-15T01:05:45.308Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
               "Title": "_footer.cshtml",
               "DocumentMoniker": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Views\\Shared\\PV\\_footer.cshtml",
               "RelativeDocumentMoniker": "web\\Views\\Shared\\PV\\_footer.cshtml",
               "ToolTip": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Views\\Shared\\PV\\_footer.cshtml",
               "RelativeToolTip": "web\\Views\\Shared\\PV\\_footer.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAALAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-02-14T23:51:45.05Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 14,
               "Title": "_cursor.cshtml",
               "DocumentMoniker": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Views\\Shared\\PV\\_cursor.cshtml",
               "RelativeDocumentMoniker": "web\\Views\\Shared\\PV\\_cursor.cshtml",
               "ToolTip": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Views\\Shared\\PV\\_cursor.cshtml",
               "RelativeToolTip": "web\\Views\\Shared\\PV\\_cursor.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-02-14T23:28:52.507Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 15,
               "Title": "_backgroundEffects.cshtml",
               "DocumentMoniker": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Views\\Shared\\PV\\_backgroundEffects.cshtml",
               "RelativeDocumentMoniker": "web\\Views\\Shared\\PV\\_backgroundEffects.cshtml",
               "ToolTip": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Views\\Shared\\PV\\_backgroundEffects.cshtml",
               "RelativeToolTip": "web\\Views\\Shared\\PV\\_backgroundEffects.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-02-14T23:28:15.27Z",
               "EditorCaption": ""
@@ -377,97 +383,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "backup-style.css",
-              "DocumentMoniker": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\wwwroot\\css\\backup-style.css",
-              "RelativeDocumentMoniker": "web\\wwwroot\\css\\backup-style.css",
-              "ToolTip": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\wwwroot\\css\\backup-style.css",
-              "RelativeToolTip": "web\\wwwroot\\css\\backup-style.css",
-              "ViewState": "AgIAACgBAAAAAAAAAAAAACgBAAAiAAAAAAAAAA==",
+              "Title": "all.min.css",
+              "DocumentMoniker": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\wwwroot\\css\\all.min.css",
+              "RelativeDocumentMoniker": "web\\wwwroot\\css\\all.min.css",
+              "ToolTip": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\wwwroot\\css\\all.min.css",
+              "RelativeToolTip": "web\\wwwroot\\css\\all.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAC6CwAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-02-15T00:47:49.391Z",
+              "WhenOpened": "2026-03-02T13:28:43.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "left-sidebar.js",
+              "DocumentMoniker": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\wwwroot\\components\\left-sidebar.js",
+              "RelativeDocumentMoniker": "web\\wwwroot\\components\\left-sidebar.js",
+              "ToolTip": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\wwwroot\\components\\left-sidebar.js",
+              "RelativeToolTip": "web\\wwwroot\\components\\left-sidebar.js",
+              "ViewState": "AgIAABQAAAAAAAAAAADwvyUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-03-02T14:50:05.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "plugins.css",
+              "DocumentMoniker": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\wwwroot\\css\\plugins.css",
+              "RelativeDocumentMoniker": "web\\wwwroot\\css\\plugins.css",
+              "ToolTip": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\wwwroot\\css\\plugins.css",
+              "RelativeToolTip": "web\\wwwroot\\css\\plugins.css",
+              "ViewState": "AgIAAPkBAAAAAAAAAAAkwAsCAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-03-02T13:28:07.788Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Program.cs",
-              "RelativeDocumentMoniker": "web\\Program.cs",
-              "ToolTip": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Program.cs",
-              "RelativeToolTip": "web\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-15T00:18:05.125Z",
+              "Title": "fonts.css",
+              "DocumentMoniker": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\wwwroot\\css\\fonts.css",
+              "RelativeDocumentMoniker": "web\\wwwroot\\css\\fonts.css",
+              "ToolTip": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\wwwroot\\css\\fonts.css",
+              "RelativeToolTip": "web\\wwwroot\\css\\fonts.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-03-02T13:27:49.757Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "web\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "web\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-15T00:06:06.048Z",
+              "Title": "style.css",
+              "DocumentMoniker": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "web\\wwwroot\\css\\style.css",
+              "ToolTip": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "web\\wwwroot\\css\\style.css",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAewLYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-03-02T13:23:36.795Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-15T00:05:59.474Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "InfographicsController.cs",
-              "DocumentMoniker": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Controllers\\InfographicsController.cs",
-              "RelativeDocumentMoniker": "web\\Controllers\\InfographicsController.cs",
-              "ToolTip": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Controllers\\InfographicsController.cs",
-              "RelativeToolTip": "web\\Controllers\\InfographicsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-15T00:07:20.013Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "PortfolioController.cs",
-              "DocumentMoniker": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Controllers\\PortfolioController.cs",
-              "RelativeDocumentMoniker": "web\\Controllers\\PortfolioController.cs",
-              "ToolTip": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Controllers\\PortfolioController.cs",
-              "RelativeToolTip": "web\\Controllers\\PortfolioController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvw8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-15T00:06:46.413Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "ToolboxController.cs",
-              "DocumentMoniker": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Controllers\\ToolboxController.cs",
-              "RelativeDocumentMoniker": "web\\Controllers\\ToolboxController.cs",
-              "ToolTip": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Controllers\\ToolboxController.cs",
-              "RelativeToolTip": "web\\Controllers\\ToolboxController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-15T00:09:06.84Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "web\\Controllers\\HomeController.cs",
@@ -475,12 +455,155 @@
               "RelativeToolTip": "web\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvw8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-15T00:04:54.997Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-15T00:04:54.997Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Views\\Portfolio\\Index.cshtml",
+              "RelativeDocumentMoniker": "web\\Views\\Portfolio\\Index.cshtml",
+              "ToolTip": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Views\\Portfolio\\Index.cshtml",
+              "RelativeToolTip": "web\\Views\\Portfolio\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-15T01:14:49.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HeroMonsterSection.cs",
+              "DocumentMoniker": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Models\\HeroMonsterSection.cs",
+              "RelativeDocumentMoniker": "web\\Models\\HeroMonsterSection.cs",
+              "ToolTip": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Models\\HeroMonsterSection.cs",
+              "RelativeToolTip": "web\\Models\\HeroMonsterSection.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T01:39:46.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Infographics.html",
+              "DocumentMoniker": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\wwwroot\\Infographics.html",
+              "RelativeDocumentMoniker": "web\\wwwroot\\Infographics.html",
+              "ToolTip": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\wwwroot\\Infographics.html",
+              "RelativeToolTip": "web\\wwwroot\\Infographics.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-02-15T03:29:06.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Views\\Artworks\\Index.cshtml",
+              "RelativeDocumentMoniker": "web\\Views\\Artworks\\Index.cshtml",
+              "ToolTip": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Views\\Artworks\\Index.cshtml",
+              "RelativeToolTip": "web\\Views\\Artworks\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-15T01:30:12.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Views\\Infographics\\Index.cshtml",
+              "RelativeDocumentMoniker": "web\\Views\\Infographics\\Index.cshtml",
+              "ToolTip": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Views\\Infographics\\Index.cshtml",
+              "RelativeToolTip": "web\\Views\\Infographics\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-15T03:29:20.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ArtworksController.cs",
+              "DocumentMoniker": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Controllers\\ArtworksController.cs",
+              "RelativeDocumentMoniker": "web\\Controllers\\ArtworksController.cs",
+              "ToolTip": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Controllers\\ArtworksController.cs",
+              "RelativeToolTip": "web\\Controllers\\ArtworksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T00:07:49.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "backup-style.css",
+              "DocumentMoniker": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\wwwroot\\css\\backup-style.css",
+              "RelativeDocumentMoniker": "web\\wwwroot\\css\\backup-style.css",
+              "ToolTip": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\wwwroot\\css\\backup-style.css",
+              "RelativeToolTip": "web\\wwwroot\\css\\backup-style.css",
+              "ViewState": "AgIAACgBAAAAAAAAAAAAACgBAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-15T00:47:49.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "web\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "web\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-15T00:06:06.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-15T00:05:59.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "InfographicsController.cs",
+              "DocumentMoniker": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Controllers\\InfographicsController.cs",
+              "RelativeDocumentMoniker": "web\\Controllers\\InfographicsController.cs",
+              "ToolTip": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Controllers\\InfographicsController.cs",
+              "RelativeToolTip": "web\\Controllers\\InfographicsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T00:07:20.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PortfolioController.cs",
+              "DocumentMoniker": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Controllers\\PortfolioController.cs",
+              "RelativeDocumentMoniker": "web\\Controllers\\PortfolioController.cs",
+              "ToolTip": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Controllers\\PortfolioController.cs",
+              "RelativeToolTip": "web\\Controllers\\PortfolioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T00:06:46.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ToolboxController.cs",
+              "DocumentMoniker": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Controllers\\ToolboxController.cs",
+              "RelativeDocumentMoniker": "web\\Controllers\\ToolboxController.cs",
+              "ToolTip": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Controllers\\ToolboxController.cs",
+              "RelativeToolTip": "web\\Controllers\\ToolboxController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-15T00:09:06.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
               "Title": "DevsparkController.cs",
               "DocumentMoniker": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Controllers\\DevsparkController.cs",
               "RelativeDocumentMoniker": "web\\Controllers\\DevsparkController.cs",
@@ -488,12 +611,11 @@
               "RelativeToolTip": "web\\Controllers\\DevsparkController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-15T00:08:28.067Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-15T00:08:28.067Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 35,
               "Title": "FreebiesController.cs",
               "DocumentMoniker": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Controllers\\FreebiesController.cs",
               "RelativeDocumentMoniker": "web\\Controllers\\FreebiesController.cs",
@@ -501,12 +623,11 @@
               "RelativeToolTip": "web\\Controllers\\FreebiesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-15T00:08:08.456Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-15T00:08:08.456Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 36,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "web\\Views\\_ViewImports.cshtml",
@@ -514,12 +635,11 @@
               "RelativeToolTip": "web\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-14T23:04:37.701Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-14T23:04:37.701Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 37,
               "Title": "3d.json",
               "DocumentMoniker": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\wwwroot\\json\\freebies\\3d.json",
               "RelativeDocumentMoniker": "web\\wwwroot\\json\\freebies\\3d.json",
@@ -527,12 +647,11 @@
               "RelativeToolTip": "web\\wwwroot\\json\\freebies\\3d.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-14T23:41:14.203Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-14T23:41:14.203Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 38,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "D:\\khizooo\\WEBSITE\\static-website\\mysite\\website\\web\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "web\\Views\\_ViewStart.cshtml",
@@ -540,8 +659,7 @@
               "RelativeToolTip": "web\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-14T23:04:40.371Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-14T23:04:40.371Z"
             }
           ]
         }

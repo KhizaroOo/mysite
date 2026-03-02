@@ -35,7 +35,7 @@ function Render_Sidebar(){
                 <div class="image"><img src="images/Monsters/khizooo.png" alt=""></div>
                 <div class="text"><h3>khizooo</h3></div>
             </div>
-            <div class="menu scrollable" tabindex="5000" style="height: 643px; overflow: hidden; outline: none;">
+            <div class="menu scrollable" tabindex="0" style="height: 643px; overflow: hidden; outline: none;">
                 <ul class="anchor_nav">
                     <li><a href="#" class="btn-header btn--stripe btn--radius m-default-color">Portfolio</a></li>
                     <li><a href="abc" class="btn-header btn--stripe btn--radius m-artooo-color">Artooo</a></li>

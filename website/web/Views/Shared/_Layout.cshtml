@@ -1,27 +1,95 @@
 ﻿<!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="no-js">
 <head>
+
+	@{
+		var isDev = Context.Request.Host.Host.Contains("localhost");
+		var baseUrl = $"{Context.Request.Scheme}://{Context.Request.Host}";
+		var fullUrl = $"{baseUrl}{Context.Request.Path}";
+	}
+
 	<meta name="author" content="khizooo">
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-	<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon_32x32.png">
+	<meta name="theme-color" content="#EEEEEE">
+	<meta name="referrer" content="strict-origin-when-cross-origin">
+	<meta name="robots" content="@(isDev ? "noindex,nofollow" : "index,follow")" />
+	<link rel="canonical" href="@fullUrl" />
+
 	<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon_16x16.png">
-	<link rel="canonical" href="@Context.Request.Scheme://@Context.Request.Host@Context.Request.Path" />
+	<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon_32x32.png">
+	<link rel="icon" type="image/png" sizes="512x512" href="/images/khizooo.png">
+
 	<title>@ViewData["Title"]</title>
 	<meta name="description" content="@ViewData["Description"]" />
 	<meta name="keywords" content="@ViewData["Keywords"]" />
+
+	<meta property="og:type" content="@ViewData["Type"]" />
+	<meta property="og:site_name" content="@ViewData["SiteName"]" />
+	<meta property="og:url" content="@ViewData["URL"]" />
 	<meta property="og:title" content="@ViewData["Title"]" />
 	<meta property="og:description" content="@ViewData["Description"]" />
 	<meta property="og:image" content="@ViewData["Image"]" />
+	<meta property="og:image:width" content="@ViewData["ImageWidth"]" />
+	<meta property="og:image:height" content="@ViewData["ImageHeight"]" />
+
 	<link rel="stylesheet" href="~/css/fonts.css" asp-append-version="true" />
 	<link rel="stylesheet" href="~/css/bootstrap.min.css" asp-append-version="true" />
 	<link rel="stylesheet" href="~/css/all.min.css" asp-append-version="true" />
 	<link rel="stylesheet" href="~/css/plugins.css" asp-append-version="true" />
 	<link rel="stylesheet" href="~/css/style.css" asp-append-version="true" />
 	<link rel="stylesheet" href="~/css/khizooo.css" asp-append-version="true" />
+
+	<script type="application/ld+json">
+		{
+		"@@context": "https://schema.org",
+		"@@type": "Person",
+		"name": "Khizar Imtiaz",
+		"alternateName": "Khizooo",
+		"url": "https://khizooo.com",
+		"image": "https://khizooo.com/images/Monsters/khizooo.png",
+		"jobTitle": "Software Developer & Sticky Note Artist",
+		"description": "Tech enthusiast, drawing artist, content creator blending creativity with development.",
+		"sameAs": [
+		"https://www.khizooo.com",
+		"https://www.facebook.com/khizoooartist",
+		"https://www.instagram.com/khizooo_art",
+		"https://www.linkedin.com/in/khizar-imtiaz",
+		"https://opensea.io/KhizoOo_",
+		"https://twitter.com/khizaroo",
+		"https://www.pinterest.com/KhizoOo_",
+		"https://www.snapchat.com/add/khizooo_1163",
+		"https://join.skype.com/invite/b0k5jlb9HRmk",
+		"https://youtube.com/@@khizooo",
+		"https://wa.me/923007683396",
+		"https://www.tiktok.com/@@khizooo_butt",
+		"https://github.com/KhizaroOo",
+		"https://medium.com/@@khizar.imtiaz",
+		"https://codepen.io/Khizarooo",
+		"https://t.me/KhizarImtiaz",
+		"https://discordapp.com/users/567964089989726231"
+		]
+		}
+	</script>
+	@* <script type="application/ld+json">
+		{
+			"@@context": "https://schema.org",
+			"@@type": "WebSite",
+			"name": "Khizooo",
+			"url": "https://khizooo.com",
+			"potentialAction": {
+				"@@type": "SearchAction",
+				"target": "https://khizooo.com/search?q={search_term_string}",
+				"query-input": "required name=search_term_string"
+			}
+		}
+	</script> *@
+
+
 </head>
-<body style="background:#eeeeee">
+<body>
 	<partial name="PV/_screenLoader" />
+	@* <main> *@
 	<div class="khizooo_tm_all_wrap" data-magic-cursor="show">
 		<partial name="PV/_sidebar"/>
 		<partial name="PV/_mobileMenu" />
@@ -31,6 +99,7 @@
 		</div>
         <partial name="PV/_backgroundEffects" />
 	</div>
+	@* </main> *@
     <partial name="PV/_cursor" />
     <partial name="PV/_topup" />
 	<script src="~/js/jquery.js" defer asp-append-version="true"></script>
