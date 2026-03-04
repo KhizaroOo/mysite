@@ -22,7 +22,6 @@ wwwroot\css\font\pxiByp8kv8JHgFVrLGT9Z1xlFQ.woff2
 wwwroot\css\font\pxiEyp8kv8JHgFVrJJfecg.woff2
 wwwroot\css\khizooo.css
 wwwroot\css\plugins.css
-wwwroot\css\style.css
 wwwroot\Devspark.html
 wwwroot\Freebies.html
 wwwroot\Freebies\3d.html
@@ -277,6 +276,7 @@ wwwroot\json\toolbox\calculators\unit-conversion-calculators.json
 wwwroot\json\toolbox\calculators\web-tools.json
 wwwroot\json\toolbox\README.md
 wwwroot\js\bootstrap.bundle.min.js
+wwwroot\js\init.js
 wwwroot\js\jquery.js
 wwwroot\js\plugins.js
 wwwroot\Portfolio.html
@@ -309,7 +309,7 @@ wwwroot\Toolbox\calculators\time-date-calculators.html
 wwwroot\Toolbox\calculators\travel-calculators.html
 wwwroot\Toolbox\calculators\unit-conversion-calculators.html
 wwwroot\Toolbox\web-tools.html
-wwwroot\js\init.js
+wwwroot\css\style.css
 D:\khizooo\WEBSITE\static-website\mysite\website\web\wwwroot\Artworks.html
 D:\khizooo\WEBSITE\static-website\mysite\website\web\wwwroot\components\left-sidebar.js
 D:\khizooo\WEBSITE\static-website\mysite\website\web\wwwroot\css\all.min.css
@@ -318,7 +318,6 @@ D:\khizooo\WEBSITE\static-website\mysite\website\web\wwwroot\css\bootstrap.min.c
 D:\khizooo\WEBSITE\static-website\mysite\website\web\wwwroot\css\fonts.css
 D:\khizooo\WEBSITE\static-website\mysite\website\web\wwwroot\css\khizooo.css
 D:\khizooo\WEBSITE\static-website\mysite\website\web\wwwroot\css\plugins.css
-D:\khizooo\WEBSITE\static-website\mysite\website\web\wwwroot\css\style.css
 D:\khizooo\WEBSITE\static-website\mysite\website\web\wwwroot\Devspark.html
 D:\khizooo\WEBSITE\static-website\mysite\website\web\wwwroot\Freebies.html
 D:\khizooo\WEBSITE\static-website\mysite\website\web\wwwroot\Freebies\3d.html
@@ -387,6 +386,7 @@ D:\khizooo\WEBSITE\static-website\mysite\website\web\wwwroot\json\toolbox\calcul
 D:\khizooo\WEBSITE\static-website\mysite\website\web\wwwroot\json\toolbox\calculators\web-tools.json
 D:\khizooo\WEBSITE\static-website\mysite\website\web\wwwroot\json\toolbox\README.md
 D:\khizooo\WEBSITE\static-website\mysite\website\web\wwwroot\js\bootstrap.bundle.min.js
+D:\khizooo\WEBSITE\static-website\mysite\website\web\wwwroot\js\init.js
 D:\khizooo\WEBSITE\static-website\mysite\website\web\wwwroot\js\jquery.js
 D:\khizooo\WEBSITE\static-website\mysite\website\web\wwwroot\js\plugins.js
 D:\khizooo\WEBSITE\static-website\mysite\website\web\wwwroot\Portfolio.html
@@ -419,4 +419,4 @@ D:\khizooo\WEBSITE\static-website\mysite\website\web\wwwroot\Toolbox\calculators
 D:\khizooo\WEBSITE\static-website\mysite\website\web\wwwroot\Toolbox\calculators\travel-calculators.html
 D:\khizooo\WEBSITE\static-website\mysite\website\web\wwwroot\Toolbox\calculators\unit-conversion-calculators.html
 D:\khizooo\WEBSITE\static-website\mysite\website\web\wwwroot\Toolbox\web-tools.html
-D:\khizooo\WEBSITE\static-website\mysite\website\web\wwwroot\js\init.js
+D:\khizooo\WEBSITE\static-website\mysite\website\web\wwwroot\css\style.css
